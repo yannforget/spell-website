@@ -1,0 +1,31 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+<div class="container">
+
+  <div class="row">
+
+    <div class="col-md-12">
+
+      <h1 class="page-header">News</h1>
+
+      {{ range .Paginator.Pages }}
+
+      <p>
+
+          <a href="{{ .Permalink }}"><h3>{{ .Title }}</h1></a>
+          <p><small>On {{ .Date.Format "January 02 2006" }}{{ if .Params.author }} by {{ .Params.author }}{{ end }}</small></p>
+          <p>{{ .Summary }} {{ if .Truncated }}<a href="{{ .Permalink }}">Read more...</a>{{ end }}</p>
+
+      </p>
+
+      {{ end }}
+      {{ template "_internal/pagination.html" . }}
+
+    </div>
+
+  </div>
+
+</div>
+
+{{ partial "footer.html" . }}

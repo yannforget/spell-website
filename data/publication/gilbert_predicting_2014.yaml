@@ -1,0 +1,44 @@
+abstract: 'Two epidemic waves of an avian influenza A (H7N9) virus have so far affected
+  China. Most human cases have been attributable to poultry exposure at live-poultry
+  markets, where most positive isolates were sampled. The potential geographic extent
+  of potential re-emerging epidemics is unknown, as are the factors associated with
+  it. Using newly assembled data sets of the locations of 8,943 live-poultry markets
+  in China and maps of environmental correlates, we develop a statistical model that
+  accurately predicts the risk of H7N9 market infection across Asia. Local density
+  of live-poultry markets is the most important predictor of H7N9 infection risk in
+  markets, underscoring their key role in the spatial epidemiology of H7N9, alongside
+  other poultry, land cover and anthropogenic predictor variables. Identification
+  of areas in Asia with high suitability for H7N9 infection enhances our capacity
+  to target biosurveillance and control, helping to restrict the spread of this important
+  disease.'
+authors:
+  - 'Gilbert M'
+  - 'Golding N'
+  - 'Zhou H'
+  - 'Wint G.R.W'
+  - 'Robinson T.P'
+  - 'Tatem A.J'
+  - 'Lai S'
+  - 'Zhou S'
+  - 'Jiang H'
+  - 'Guo D'
+  - 'Huang Z'
+  - 'Messina J.P'
+  - 'Xiao X'
+  - 'Linard C'
+  - 'Van Boeckel T.P'
+  - 'Martin V'
+  - 'Bhatt S'
+  - 'Gething P.W'
+  - 'Farrar J.J'
+  - 'Hay S.I'
+  - 'Yu H'
+bibkey: gilbert_predicting_2014
+doi: 10.1038/ncomms5116
+journal: 'Nature Communications'
+keyword: 'Biological sciences, Ecology, H7N9, KEY5, Virology'
+title: 'Predicting the risk of avian influenza A H7N9 infection in live-poultry markets
+  across Asia'
+type: article
+volume: 5
+year: 2014

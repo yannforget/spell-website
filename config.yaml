@@ -1,0 +1,43 @@
+---
+baseurl: "https://lub.forget.ch"
+title: "Spatial Epidemiology Lab"
+languageCode: "en-us"
+config: "config.yaml"
+metaDataFormat: "yaml"
+
+theme: "spell"
+
+menu:
+  main:
+    - Name: "News"
+      Weight: 1
+      Identifier: "news"
+      URL: "/news/"
+    - Name: "Team"
+      Weight: 2
+      Identifier: "team"
+      URL: "/person/"
+    - Name: "Projects"
+      Weight: 4
+      Identifier: "projects"
+      URL: "/project/"
+    - Name: "Publications"
+      Weight: 5
+      Identifier: "publications"
+      URL: "/publication/"
+    - Name: "Ressources"
+      Weight: 6
+      Identifier: "ressources"
+
+params:
+  brand: SpELL
+  description: "**Spatial epidemiology** studies the spatial factors determining the emergence, spread and persistence of infectious and vector-borne diseases, invasive species and insect pests, with the aim to identifying important risk factors, map their distribution, and contribute to better prevention, surveillance and control. Over the years, our research has developped over four major axes, detailed below."
+  logoTextOnly: /logo/spell-logo-text-only-colorized.png
+  logo: /logo/spell-logo-colorized.png
+  logoVerticalText: /logo/spell-logo-vertical-text-colorized.png 
+  logoHorizontalText: /logo/spell-logo-horizontal-text-colorized.png
+  logoTextOnlyWhite: /logo/spell-logo-text-only-white.png
+  logoWhite: /logo/spell-logo-white.png
+  logoHorizontalTextWhite: /logo/spell-logo-horizontal-text-white.png
+  logoUniversity: /logo/ulb.jpg
+---

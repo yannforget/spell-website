@@ -1,0 +1,32 @@
+abstract: 'In India, majority outbreaks of highly pathogenic avian influenza (HPAI)
+  H5N1 have occurred in eastern states of West Bengal, Assam and Tripura. This study
+  aimed to identify disease clusters and risk factors of HPAI H5N1 in these states,
+  for targeted surveillance and disease control. A spatial scan statistic identified
+  two significant disease clusters in West Bengal and Assam, occurring during January
+  and November–December 2008, respectively. Key risk factors were identified at sub-district
+  level using bootstrapped logistic regression and boosted regression trees model.
+  With both methods, HPAI H5N1 outbreaks in backyard poultry were associated with
+  accessibility in terms of time taken to access a city with \&gt;50,000 persons,
+  human population density and duck density (P \&lt; 0.005). In addition, areas at
+  lower elevation were also identified as high risk by BRT model. It is recommended
+  that risk-based surveillance should be implemented in high duck density areas and
+  all live-bird markets in high-throughput locations.'
+authors:
+  - 'Dhingra M.S'
+  - 'Dissanayake R'
+  - 'Negi A.B'
+  - 'Oberoi M'
+  - 'Castellan D'
+  - 'Thrusfield M'
+  - 'Linard C'
+  - 'Gilbert M'
+bibkey: dhingra_spatio-temporal_2014
+doi: 10.1016/j.sste.2014.06.003
+journal: 'Spatial and Spatio-temporal Epidemiology'
+keyword: 'Disease surveillance, Eastern India, H5N1, HPAI H5N1 in poultry, KEY3, Predictive
+  risk modeling, Risk Factors, Spatial and temporal clusters'
+title: 'Spatio-temporal epidemiology of highly pathogenic avian influenza (subtype
+  H5N1) in poultry in eastern India'
+type: article
+volume: 11
+year: 2014

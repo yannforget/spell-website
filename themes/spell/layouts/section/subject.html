@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+<section id="topics">
+  <div class="container">
+    
+    <div class="row">
+      {{ range .Data.Pages }}
+      <div class="container col-xs-12 col-sm-6 card">
+        <a href="{{ .Permalink }}"><img src="{{ .Params.image }}" class="center-block thumbnail">
+        <h2>{{ .Title }}</a></h2>
+        <p>{{ .Params.summary }}</p>
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</section>
+
+
+
+{{ partial "footer.html" . }}

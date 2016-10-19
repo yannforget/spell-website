@@ -1,0 +1,106 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+<!-- Page content -->
+<div class="container" id="team">
+
+  <!-- Current team row -->
+  <div class="row">
+
+    <!-- Header div -->
+    <div class="col-lg-12">
+      <h1 class="page-header">Our team</h1>
+    </div>
+
+    <!-- Team div -->
+    {{ range where .Data.Pages ".Params.past" false }}
+    <div class="col-md-4 col-sm-6 text-center card">
+      <a href="{{ .Permalink }}"><img class="img-responsive img-center thumbnail" src="{{ .Params.portrait }}"></a>
+      <h3><a href="{{ .Permalink }}">{{ .Params.firstname }} {{ .Params.lastname }}</a>
+        <small><br>{{ .Params.position }}</small>
+      </h3>
+
+      {{ if .Params.mail }}
+      <a href="#" data-toggle="popover" title="Email" data-content="{{ .Params.mail }}">
+        <span class="fa fa-envelope"></span>
+      </a>
+      {{ end }}
+
+      {{ if .Params.phone }}
+      <a href="#" data-toggle="popover" title="Phone" data-content="{{ .Params.phone }}">
+        <span class="fa fa-phone"></span>
+      </a>
+      {{ end }}
+
+      {{ if .Params.twitter }}
+      <a href="https://twitter.com/{{ .Params.twitter }}">
+        <span class="fa fa-twitter"></span>
+      </a>
+      {{ end }}
+
+      {{ if .Params.github }}
+      <a href="https://github.com/{{ .Params.github }}">
+        <span class="fa fa-github"></span>
+      </a>
+      {{ end }}
+
+      <p>{{ if .Params.interests }}Interested in {{ delimit .Params.interests ", " " and " }}{{ end }}</p>
+
+    </div>
+    {{ end }}
+
+  </div>
+
+  <!-- Past members row -->
+  <div class="row">
+
+    <!-- Header div -->
+    <div class="col-md-12">
+      <h1>Past members</h1>
+    </div>
+
+    <!-- Ex-researcher -->
+    <div class="col-md-12">
+      <h3>Ex-researchers</h3>  
+      {{ range sort $.Site.Data.pastmember.researcher "endYear" "desc" }}
+      <p><strong>{{ .name }}</strong>, {{ .position}} ({{ .startYear }}-{{ .endYear }})<br>
+        <em>{{ .topic }}</em><br>
+        {{ if .now }}Now: {{ .now }}{{ end }}
+      </p>
+      {{ end }}
+    </div>
+
+    <!-- Ex-PhD student -->
+    <div class="col-md-12">
+      <h3>Ex-PhD students</h3>
+      {{ range sort $.Site.Data.pastmember.phd "endYear" "desc" }}
+      <p><strong>{{ .name }}</strong> ({{ .startYear }}-{{ .endYear }})<br>
+        <em>{{ .topic }}</em><br>
+        {{ if .now }}Now: {{ .now }}{{ end }}
+      </p>
+      {{ end }}
+    </div>
+
+    <!-- Ex-MSc student -->
+    <div class="col-md-12">
+      <h3>Ex-MSc students</h3>
+      {{ range sort $.Site.Data.pastmember.msc "year" "desc" }}
+      <p><strong>{{ .name }}</strong> ({{ .year }})<br>
+        <em>{{ .topic }}</em><br>
+        {{ if.now }}Now: {{ .now }}{{ end }}
+      </p>
+      {{ end }}
+    </div>
+        
+  </div>
+
+</div>
+
+<!-- Activate mail & phone popovers -->
+<script type="text/javascript">
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover();
+});
+</script>
+
+{{ partial "footer.html" . }}

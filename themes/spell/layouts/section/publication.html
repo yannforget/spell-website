@@ -1,0 +1,53 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+
+<!-- Page content -->
+<div class="container">
+
+  <!-- Publications -->
+  <div class="row">
+
+    <div class="col-md-12">
+
+      <h1 class="page-header">Publications</h1>
+
+      {{ range (.Data.Pages.GroupByParam "year").Reverse }}
+
+      <h3>{{ .Key }}</h3>
+
+      {{ range .Pages }}
+
+      <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}{{ .Title }}{{ end }}<br>
+
+        {{ $len := len .Params.authors }}
+        {{ $last := (sub $len 1) }}
+        {{ $and := (sub $last 1) }}
+
+        {{ range $index, $element := .Params.authors }}
+        {{ $.Scratch.Set "author" . }}
+        {{ $.Scratch.Set "team" false }}
+        {{ range $.Site.Sections.person.Pages }}
+        {{ if in ($.Scratch.Get "author") .Params.lastname }} {{ $.Scratch.Set "team" true }} {{ end }}
+        {{ end }}
+
+        {{ if ($.Scratch.Get "team") }}<strong>{{ . }}</strong>{{ else }}{{ . }}{{ end }}{{ if eq $last $index }}.{{ else }}{{ if eq $and $index }} and {{ else }}, {{ end }} {{ end }} 
+        
+        {{ end }}<br>
+        <em>"{{ .Params.journal }}"</em>, {{ .Params.year }}.<br>
+      </p>
+
+      {{ end }} {{ end }}
+
+    </div>
+
+  </div>
+
+</div>
+
+
+
+
+
+
+{{ partial "footer.html" . }}

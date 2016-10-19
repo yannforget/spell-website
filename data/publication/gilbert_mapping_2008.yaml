@@ -1,0 +1,41 @@
+abstract: 'The highly pathogenic avian influenza (HPAI) H5N1 virus that emerged in
+  southern China in the mid-1990s has in recent years evolved into the first HPAI
+  panzootic. In many countries where the virus was detected, the virus was successfully
+  controlled, whereas other countries face periodic reoccurrence despite significant
+  control efforts. A central question is to understand the factors favoring the continuing
+  reoccurrence of the virus. The abundance of domestic ducks, in particular free-grazing
+  ducks feeding in intensive rice cropping areas, has been identified as one such
+  risk factor based on separate studies carried out in Thailand and Vietnam. In addition,
+  recent extensive progress was made in the spatial prediction of rice cropping intensity
+  obtained through satellite imagery processing. This article analyses the statistical
+  association between the recorded HPAI H5N1 virus presence and a set of five key
+  environmental variables comprising elevation, human population, chicken numbers,
+  duck numbers, and rice cropping intensity for three synchronous epidemic waves in
+  Thailand and Vietnam. A consistent pattern emerges suggesting risk to be associated
+  with duck abundance, human population, and rice cropping intensity in contrast to
+  a relatively low association with chicken numbers. A statistical risk model based
+  on the second epidemic wave data in Thailand is found to maintain its predictive
+  power when extrapolated to Vietnam, which supports its application to other countries
+  with similar agro-ecological conditions such as Laos or Cambodia. The model''s potential
+  application to mapping HPAI H5N1 disease risk in Indonesia is discussed.'
+authors:
+  - 'Gilbert M'
+  - 'Xiao X'
+  - 'Pfeiffer D.U'
+  - 'Epprecht M'
+  - 'Boles S'
+  - 'Czarnecki C'
+  - 'Chaitaweesub P'
+  - 'Kalpravidh W'
+  - 'Minh P.Q'
+  - 'Otte M.J'
+  - 'Martin V'
+  - 'Slingenbergh J'
+bibkey: gilbert_mapping_2008
+doi: 10.1073/pnas.0710581105
+journal: 'Proceedings of the National Academy of Sciences'
+keyword: 'animal husbandry, epidemiology, H5N1, KEY4, remote sensing, spatial modeling'
+title: 'Mapping H5N1 highly pathogenic avian influenza risk in Southeast Asia'
+type: article
+volume: 105
+year: 2008

@@ -1,0 +1,41 @@
+abstract: 'Large scale, high-resolution global data on farm animal distributions are
+  essential for spatially explicit assessments of the epidemiological, environmental
+  and socio-economic impacts of the livestock sector. This has been the major motivation
+  behind the development of the Gridded Livestock of the World (GLW) database, which
+  has been extensively used since its first publication in 2007. The database relies
+  on a downscaling methodology whereby census counts of animals in sub-national administrative
+  units are redistributed at the level of grid cells as a function of a series of
+  spatial covariates. The recent upgrade of GLW1 to GLW2 involved automating the processing,
+  improvement of input data, and downscaling at a spatial resolution of 1 km per cell
+  (5 km per cell in the earlier version). The underlying statistical methodology,
+  however, remained unchanged. In this paper, we evaluate new methods to downscale
+  census data with a higher accuracy and increased processing efficiency. Two main
+  factors were evaluated, based on sample census datasets of cattle in Africa and
+  chickens in Asia. First, we implemented and evaluated Random Forest models (RF)
+  instead of stratified regressions. Second, we investigated whether models that predicted
+  the number of animals per rural person (per capita) could provide better downscaled
+  estimates than the previous approach that predicted absolute densities (animals
+  per km 2 ). RF models consistently provided better predictions than the stratified
+  regressions for both continents and species. The benefit of per capita over absolute
+  density models varied according to the species and continent. In addition, different
+  technical options were evaluated to reduce the processing time while maintaining
+  their predictive power. Future GLW runs (GLW 3.0) will apply the new RF methodology
+  with optimized modelling options. The potential benefit of per capita models will
+  need to be further investigated with a better distinction between rural and agricultural
+  populations.'
+authors:
+  - 'Nicolas G'
+  - 'Robinson T.P'
+  - 'Wint G.R.W'
+  - 'Conchedda G'
+  - 'Cinardi G'
+  - 'Gilbert M'
+bibkey: nicolas_using_2016
+doi: 10.1371/journal.pone.0150424
+journal: 'PLOS ONE'
+keyword: 'Africa, Asia, Cattle, Census, Chickens, Farms, Livestock, Machine learning'
+title: 'Using Random Forest to Improve the Downscaling of Global Livestock Census
+  Data'
+type: article
+volume: 11
+year: 2016

@@ -1,0 +1,47 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+<!-- Page content -->
+<div class="container" id="projects">
+  <div class="row">
+
+    <!-- Current projects -->
+    <div class="col-md-12">
+      <h1 class="page-header">Current projects</h1>
+    </div>
+
+    <div class="col-md-12">
+      {{ range where .Data.Pages ".Params.endyear" "ge" (int ($.Now.Format "2006")) }}
+      <p>
+        {{ if .Content }} <a href="{{ .Permalink }}"> {{ end }}
+        {{ if .Params.acronym }}{{ .Params.acronym }}: {{ end }}
+        {{ .Params.name }}
+        {{ if .Content }}</a>{{ end }}
+        ({{ .Params.startyear }}{{ if ne .Params.startyear .Params.endyear }}-{{ .Params.endyear }}{{ end }})<br>
+        {{ if .Params.funder }}<em>Funded by {{ .Params.funder }}</em> {{ end }}<br>
+      </p>
+      {{ end }}
+    </div>
+
+    <!-- Past projects -->
+    <div class="col-md-12">
+      <h1 class="page-header">Past projects</h1>
+    </div>
+
+    <div class="col-md-12">
+      {{ range where .Data.Pages ".Params.endyear" "lt" (int ($.Now.Format "2006")) }}
+      <p>
+        {{ if .Content }} <a href="{{ .Permalink }}"> {{ end }}
+        {{ if .Params.acronym }}{{ .Params.acronym }}: {{ end }}
+        {{ .Params.name }}
+        {{ if .Content }}</a>{{ end }}
+        ({{ .Params.startyear }}{{ if ne .Params.startyear .Params.endyear }}-{{ .Params.endyear }}{{ end }})<br>
+        {{ if .Params.funder }}<em>Funded by {{ .Params.funder }}</em> {{ end }}<br>
+      </p>
+      {{ end }}
+    </div>
+
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

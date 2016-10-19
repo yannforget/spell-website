@@ -1,0 +1,95 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+<!-- Page content -->
+<div class="container" id="person">
+
+  <!-- Introduction row -->
+  <div class="row">
+
+    <!-- Header -->
+    <div class="col-lg-12">
+      <h1 class="page-header">{{ .Params.firstname }} {{ .Params.lastname }}
+        <small>{{ .Params.position }}</small>
+      </h1>
+    </div>
+
+    <!-- Contact -->
+    <div class="col-lg-12" id="contact">
+      <ul class="list-inline">
+
+        {{ if .Params.mail }}
+        <li><span class="fa fa-envelope"></span> {{ .Params.mail }}</li>
+        {{ end }}
+
+        {{ if .Params.phone }}
+        <li><span class="fa fa-phone"></span> {{ .Params.phone }}</li>
+        {{ end }}
+
+        {{ if .Params.twitter }}
+        <li><span class="fa fa-twitter"></span> <a href="https://twitter.com/{{ .Params.twitter }}">@{{ .Params.twitter }}</a></li>
+        {{ end }}
+
+        {{ if .Params.github }}
+        <li><span class="fa fa-github"></span> <a href="https://github.com/{{ .Params.github }}">@{{ .Params.github }}</a></li>
+        {{ end }}
+
+      </ul>
+    </div>
+
+  </div>
+
+  <!-- Content row -->
+  <div class="row">
+    
+    <!-- Portrait -->
+    <div class="col-sm-4 col-md-4 pull-right">
+      <img src="{{ .Params.portrait }}" class="thumbnail img-responsive">
+    </div>
+
+    <!-- Custom content -->
+    <div class="col-lg-12">
+      {{ .Content }}
+    </div>
+
+  </div>
+
+  <!-- Publications row -->
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Publications</h1>
+
+      {{ $.Scratch.Set "lastname" .Params.lastname }}
+      <!-- Iterate over publication data and check if there is an authored paper -->
+      {{ range (.Site.Sections.publication.Pages.GroupByParam "year").Reverse }}
+      
+      <!-- Iterate a first time to check if there is articles for the step year -->
+      {{ $.Scratch.Set "activity" false }}
+      {{ range .Pages }}
+      {{ $lastname := $.Scratch.Get "lastname" }}
+      {{ if in .Params.lastnames $lastname }} {{ $.Scratch.Set "activity" true }} {{ end }}
+      {{ end }}
+
+      <!-- Show year only if there is activity -->
+      {{ if $.Scratch.Get "activity" }}
+      <h3>{{ .Key }}</h3>
+      {{ end }}
+
+      <!-- Iterate a second time to show articles -->
+      {{ range .Pages }}
+
+      <!-- Show reference if authored articles -->
+      {{ if in .Params.lastnames ($.Scratch.Get "lastname") }}
+      <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}<strong>{{ .Title }}</strong>{{ end }}<br>
+        {{ delimit .Params.authors ", " " and " }}.<br>
+        <em>"{{ .Params.journal }}"</em>, {{ .Params.year }}.
+      </p>
+      {{ end }} {{ end }} {{ end }}
+
+    </div>
+
+  </div>
+
+</div>
+
+{{ partial "footer.html" . }}

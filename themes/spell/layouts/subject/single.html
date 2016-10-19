@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+<!-- Full width image header -->
+<header class="header-image" style="background-image: url('{{ .Params.image }}'">
+  <div class="headline">
+    <div class="container">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="container">
+
+  <!-- Topic details -->
+  <div class="row">
+    <div class="col-md-12">
+      <h1 class="page-header">Informations</h1>
+      {{ .Content }}
+    </div>
+
+    <div class="col-md-12">
+      <h1 class="page-header">Related publications</h1>
+      TODO
+    </div>
+
+  </div>
+
+</div>
+
+{{ partial "footer.html" . }}
