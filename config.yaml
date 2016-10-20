@@ -28,6 +28,7 @@ menu:
     - Name: "Ressources"
       Weight: 6
       Identifier: "ressources"
+      URL: "/page/ressources"
 
 params:
   brand: SpELL
