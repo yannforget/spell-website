@@ -11,6 +11,7 @@ html {
 body {
     font-family: 'Alegreya', sans-serif !important;
     padding-top: 49px;
+    padding-bottom: 100px;
 }
 
 /* Nav bar */
@@ -154,7 +155,8 @@ body {
 /* Person */
 
 #person .thumbnail {
-    margin-left: auto;
+    float: right;
+    margin-left: 20px;
 }
 
 #person #contact li {
@@ -224,7 +226,9 @@ footer {
     width: 100%;
     background-color: #222;
     border-top: 1px solid black;
-    margin-top: 50px;
+    position: absolute;
+    margin-top: 100px;
+    bottom: 0
 }
 
 footer .lablogo {
