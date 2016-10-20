@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+<!-- Page content -->
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-12">
+      <h1 class="page-header">{{ .Params.name }}</h1>
+      {{ .Content }}
+    </div>
+  </div>
+
+</div>
+
+{{ partial "footer.html" . }}
