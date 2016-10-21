@@ -2,7 +2,7 @@
 date: 2016-07-23T19:33:45+02:00
 firstname: "Jean"
 lastname: "Artois"
-mail: "jartois@ulb.ac.be"
+mail: "Jean.Artois@ulb.ac.be"
 past: false
 phone: +32-2-650.32.18
 office: UB2.167
@@ -16,9 +16,4 @@ interests:
   - "Spatial modelling"
 ---
 
-# Test
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas risus ex, imperdiet vel cursus nec, hendrerit ut felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum nisi elit, hendrerit non eleifend vitae, ultrices a nibh. Etiam sollicitudin libero erat. Sed congue diam eu ex molestie tempus. Vestibulum suscipit mauris ut accumsan elementum. Praesent auctor id erat scelerisque blandit.
-
-## Subtitle
-
+Jean joined the SpELL team in October 2014 as a Ph.D. student, looking at the spatial distribution of avian influenza in poultry. He tries to develop species distribution models within the context of the micro-parasite studies. His previous research experience include working in [community ecology of rodents and their pathogens in South East Asia](http://www.ceropath.org/) and in [tick-borne disease risk in southern Norway](http://www.elic.ucl.ac.be/modx/elic/index.php?id=371). Jean completed one M.Sc. in Parasite Ecology at the University of Montpellier, before going onto a second M.Sc. in geomatics engineering at the University of Rennes.

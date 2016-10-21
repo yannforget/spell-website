@@ -6,7 +6,7 @@ mail: "mgilbert@ulb.ac.be"
 past: false
 phone: +32-2-650.37.80
 twitter: mariusgilbert
-portrait: /images/portraits/mgilbert.png
+portrait: /images/portraits/mgilbert-2.jpg
 position: Group leader
 office: UB2.171
 ref: "mgilbert"
@@ -23,7 +23,7 @@ Marius Gilbert graduated in Agricultural and Applied Biological Sciences at the 
 Marius has broad interests in the spatial epidemiology of animal diseases and invasive species. An overarching theme is the attempt to better understand how changes in agriculture have transformed ecosystems and affected the conditions of emergence, spread and persistence of pathogens and invasive species. His main area of expertise includes the epidemiology of avian influenza, global changes in livestock production systems, and livestock distribution models.
 
 ## Talks
-
+ 
 * The emergence of avian influenza, a "One Health” epitome. Invited talk at the OneHealth / Ecohealth workshop, Brussels, 6-7th Oct. 2016.
 * Modelling the distribution of intensifying livestock production systems. Invited talk at the “Fourth international conference on responsible use of antibiotics in animals”, The Hague, 26-28th Sep. 2016.
 * Global changes in ecological boundaries and the emergence of important zoonoses. Invited keynote lecture at the AESA Anniversary conference: “Animal Epidemiology: past, present and future”, Liège, 7-9th Sep. 2016
