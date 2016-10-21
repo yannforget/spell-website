@@ -27,7 +27,7 @@
       {{ range .Site.Sections.publication.Pages }}
 
       <!-- Show reference if authored articles -->
-      {{ if in .Params.keywords ($.Scratch.Get "topic") }}
+      {{ if in .Params.keyword ($.Scratch.Get "topic") }}
       <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}<strong>{{ .Title }}</strong>{{ end }}<br>
         {{ delimit .Params.authors ", " " and " }}.<br>
         <em>"{{ .Params.journal }}"</em>, {{ .Params.year }}.
