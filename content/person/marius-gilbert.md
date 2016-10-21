@@ -16,19 +16,23 @@ interests: ["Spatial epidemiology", "Livestock diseases"]
 weight: -3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas risus ex, imperdiet vel cursus nec, hendrerit ut felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum nisi elit, hendrerit non eleifend vitae, ultrices a nibh. Etiam sollicitudin libero erat. Sed congue diam eu ex molestie tempus. Vestibulum suscipit mauris ut accumsan elementum. Praesent auctor id erat scelerisque blandit.
+Marius Gilbert graduated in Agricultural and Applied Biological Sciences at the Université Libre de Bruxelles in 1995. He was then a visiting researcher for two years at the department of Zoology, University of Oxford and did a PhD on in insect pest ecology at the ULB in 2001. He then worked on the invasion ecology of several insect pests before moving the focus of his research toward to the spatial epidemiology of animal diseases. Since 2006, he holds a permanent academic position with the Belgian FNRS.
 
-## Subtitle
+## Research interest
 
-### Subsubtitle
+Marius has broad interests in the spatial epidemiology of animal diseases and invasive species. An overarching theme is the attempt to better understand how changes in agriculture have transformed ecosystems and affected the conditions of emergence, spread and persistence of pathogens and invasive species. His main area of expertise includes the epidemiology of avian influenza, global changes in livestock production systems, and livestock distribution models.
 
-Vivamus sit amet dui odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet arcu sit amet justo mollis bibendum a eu orci. Fusce viverra dolor egestas dignissim placerat. Donec mattis mauris mauris, a luctus sem imperdiet a. Phasellus vulputate suscipit arcu interdum volutpat. Aenean urna elit, rhoncus quis nisl sit amet, ultricies rutrum justo. Nam convallis finibus est, eget vulputate lacus porta et. Nulla hendrerit ipsum ut enim gravida volutpat. Morbi vitae convallis lacus.
+## Talks
 
-Ut tristique elementum accumsan. Donec molestie velit id sapien ornare tristique. Ut neque ipsum, convallis sit amet augue ut, pellentesque feugiat neque. Integer in metus varius, fermentum mi ut, fermentum sem. Duis dignissim mattis enim, nec consequat ligula lobortis nec. Aenean fringilla eleifend mauris sed elementum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam et eros sed lectus tempus malesuada.
+* The emergence of avian influenza, a "One Health” epitome. Invited talk at the OneHealth / Ecohealth workshop, Brussels, 6-7th Oct. 2016.
+* Modelling the distribution of intensifying livestock production systems. Invited talk at the “Fourth international conference on responsible use of antibiotics in animals”, The Hague, 26-28th Sep. 2016.
+* Global changes in ecological boundaries and the emergence of important zoonoses. Invited keynote lecture at the AESA Anniversary conference: “Animal Epidemiology: past, present and future”, Liège, 7-9th Sep. 2016
 
-# Title
+## Teaching
 
-Aenean finibus metus ac tortor condimentum blandit. Pellentesque blandit bibendum turpis vel tempor. Etiam ultrices magna sed varius tincidunt. Nullam fringilla, eros in vehicula vulputate, mauris ex lacinia metus, quis ultricies nunc enim eget dui. Sed ut congue elit, eu porttitor nisi. Curabitur nec quam ac massa accumsan elementum vitae vel lorem. Praesent eget ornare nisi. Nullam varius aliquam neque, sed auctor lectus maximus quis. Sed interdum vitae mi pellentesque pretium. Quisque ex est, commodo eget augue et, ultricies ultricies ante. Suspendisse id tincidunt lectus. Maecenas molestie lectus at felis egestas, sed cursus libero porta.
+* Experimental design and data analysis (M. Gilbert, M. Dufrêne, BING-F-4002)
+* Seminars in data analysis (M. Gilbert, M. Dufrêne, BING-F-535)
+* Softwares for health data analysis (C. Senterre, W.-H. Zhang, M. Gilbert, INFO-L-401)
+* Sanitary risks at the human and wild-domestic animals interface (SAPU-L-698)
 
-Etiam scelerisque urna in purus tempus condimentum. Morbi pharetra nibh dolor, quis tristique ex auctor eget. Curabitur sollicitudin, mauris a pellentesque convallis, leo eros tristique ligula, id suscipit tortor lorem eu justo. Nam eu orci vitae augue placerat vestibulum eget a purus. Phasellus ultricies bibendum felis sed hendrerit. Donec ultrices nibh tellus, non ornare tortor euismod sit amet. Donec euismod lorem justo, at efficitur mauris posuere a. Integer a ultricies felis. Vivamus gravida, est sed pretium vehicula, massa sapien eleifend lectus, a vehicula nisi sem id mi. Nulla vulputate eros in pellentesque dapibus. Proin suscipit tortor at vestibulum gravida. Nulla non vehicula arcu. Vivamus at velit nec lacus varius mollis ut sit amet odio. Etiam vitae placerat tortor. Vestibulum id scelerisque ipsum. Integer mattis quis dolor at suscipit. 
 
