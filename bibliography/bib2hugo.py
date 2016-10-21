@@ -24,8 +24,9 @@ def main(bibpath):
                     firstname = firstname.replace(' Van', '')
                     firstname = firstname.replace(' van', '')
                     lastname = ' '.join(['Van', lastname])
-                firstname = '.'.join(
-                    [x[0] for x in firstname.replace('-', ' ').split(' ')])
+                if len(firstname) > 3:
+                    firstname = '.'.join(
+                        [x[0] for x in firstname.replace('-', ' ').split(' ')])
                 authors[i] = lastname + ' ' + firstname
             lastnames += [lastname]
         return authors, lastnames
@@ -46,7 +47,7 @@ def main(bibpath):
         if 'url' in article:
             data['url'] = article['url']
         if 'keyword' in article:
-            data['keywords'] = article['keyword'].split(',')
+            data['keyword'] = article['keyword'].split(',')
         if 'year' in article:
             data['year'] = article['year']
         if 'volume' in article:
