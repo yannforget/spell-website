@@ -6,6 +6,8 @@ image: /images/worldpop-iviris.jpg
 ref: mapping-human-pop
 ---
 
+![](/logo/WorldPop_logo.jpg)
+
 ## Background
 
 Among the agents involved in the disease transmission process, human hosts play a crucial role as their density, spatial location, demographic characteristics (e.g. age-risk profiles) and behaviour determine their exposure to infection. Any approach that requires the use of modelled disease rates or dynamics requires reasonable information on the resident human population for the time period one is intending to estimate risk. Where risks and spread of diseases are heterogeneous in space, population distributions and counts should ideally be resolved to higher levels of spatial detail than large regional estimates. Accurate and detailed information on population size and distribution are therefore of significant importance for deriving populations at risk and infection movement estimates in spatial epidemiological studies. For many low-income countries of the World, where disease burden is greatest, however, spatially detailed, contemporary census data do not exist. This is especially true for much of Africa, where currently available census data are often over a decade old, and at administrative boundary levels just below national-level.
@@ -16,7 +18,7 @@ Among the agents involved in the disease transmission process, human hosts play 
 
 We contributed to recent developments of the [WorldPop database](http://www.worldpop.org.uk/), more specifically on the AfriPop part of the project (see the map below from Linard et al. 2012). The WorlPop project aims to provide an open access archive of spatial demographic datasets for Africa, Asia and Central and South America to support development, disaster response and health applications. The methods used are designed with full open access and operational application in mind, using transparent, fully documented and shareable methods to produce easily updatable maps with accompanying metadata.
 
-![AfriPop](\images\Afripopmap.png)
+![AfriPop](/images/Afripopmap.png)
 
 ### Urban population patterns in sub-Saharan Africa
 
@@ -28,7 +30,7 @@ The [MAUPP project](http://maupp.ulb.ac.be/) is dedicated to the improvement of 
 
 Our knowledge of human population distribution in space and time remains poor, especially in low income countries. At the moment, mapping of populations is constrained by the logistics of censuses and surveys, which just provide a single snapshot of population distributions every ten years and little information exists to inform on daily, monthly or seasonal changes in population distributions. Methods have been developed to produce accurate and cost-effective datasets depicting human population distribution for different time periods using mobile phone call activities. The number of communications and the number of phone users aggregated at the cell tower level are used to estimate the population density in the coverage area of the tower. Our findings show that maps made using mobile records are detailed, reliable and flexible enough to help inform infrastructure and emergency planners; particularly in low income countries, where recent population density information is often scarce. With similar data being collected every day by mobile phone network providers across the World, the prospect of being able to map contemporary and changing human population distributions over relatively short time intervals exists, paving the way to new applications and a near real-time understanding of patterns and processes in human geography.
 
-![AfriPop](\images\Fig2_FRA_mobility_hol-work_small.png)
+![AfriPop](/images/Fig2_FRA_mobility_hol-work_small.png)
 
 
 ## Perspectives
