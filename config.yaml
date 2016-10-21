@@ -29,6 +29,16 @@ menu:
       Weight: 6
       Identifier: "ressources"
       URL: "/page/ressources"
+    - Name: "Teaching"
+      Weight: 7
+      Identifier: "teaching"
+      parent: "ressources"
+      URL: "/page/teaching"
+    - Name: "Data"
+      Weight: 8
+      Identifier: "data"
+      parent: "ressources"
+      URL: "/page/data"
 
 
 params:
