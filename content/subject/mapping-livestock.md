@@ -11,7 +11,7 @@ ref: mapping-livestock
 For many years, several research groups and international organisations have developed high-resolution global maps of livestock based on reported statistics derived from census and survey data. Due to the dynamic nature of these populations (intensification of livestock production) this is an extremely challenging task that involves the collection of contemporary statistics, the development of complex algorithms to disaggregate these statistics at higher spatial resolutions and make predictions where they are absent. 
   
   
-![](/images/Asia_Ch_900.png)
+![](/images/Asia_Ch_800.png)
 ###### Output distribution of chicken density in Asia (Robinson et al. 2014)
   
     
