@@ -1,7 +1,8 @@
 ---
 author: "Marius Gilbert"
-date: 2016-07-23T18:34:44+02:00
-title: "New paper on bat distribution in Thailand"
+date: 2016-10-20T18:34:44+02:00
+title: "New paper on wild birds and the spread of avian influenza"
 ---
 
-A new paper on bat distribution in Thailand, in the context of Nipah virus prevention. See here....
+We contributed to....
+[Paper on Science web site](http://science.sciencemag.org/content/354/6309/213)
