@@ -1,5 +1,5 @@
 ---
-date: 2016-07-24T15:19:14+02:00
+date: 2016-08-20T15:19:14+02:00
 title: Mapping human population
 summary: "For many low-income countries of the World where disease burden is greatest, spatially detailed, contemporary census data on human population are missing. As partner of the Worldpop consortiumn, we are working on improving human population distribution maps in Africa and on urban expansion model that would allow us to project how the distribution of human population may change over time."
 image: /images/worldpop-iviris.jpg
