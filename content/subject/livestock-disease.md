@@ -2,7 +2,7 @@
 date: 2016-07-24T15:18:47+02:00
 title: Livestock diseases
 summary: "Our research mainly deal with the spatial epidemiology of avian influenza (AI) at different spatial scales, with particular emphasis on on the role of agro-ecological factors on the emergence, spread and persistence of AI viruses. Over the years, we have also been involved in research on other important livestock diseases such as bluetongue, bovine tuberculosis, foot and mouth disease, porcine reproductive and respiratory syndrome, and Nipah virus infections."
-image: /images/animal-market-mali.jpg
+image: /images/Poyang-buffaloes-1200.jpg
 ref: livestock-diseases
 ---
 
@@ -12,8 +12,8 @@ The largest body of our research has dealt with avian influenza ("bird flu") H5N
 
 In 2004, the highly pathogenic avian influenza (HPAI) H5N1 virus started spreading throughout Asia, causing the death of millions of poultry and transmitting occasionaly to humans, with some fatalities. In the following years, the virus spread across Eurasia down to Africa. Today, it persists in a limited set of countries (Egypt, Bangladesh, China, Vietnam, Indonesia). Our work consisted in identifying the main risk factors associated with the presence or absence of the diseases at multiple scale, in particular the role of host species, and type of farming.  Recently, a different avian influenza H7N9 virus emerged in China, low pathogenic in poultry this time, but causing human fatalities too. 
 
-![](/images/Poyang-1-800.jpg)
-###### Duck farm on the border of Poyang lake (M. Gilbert 2007) 
+![](/images/Poyang-2-800.jpg)
+###### Free-grazing ducks in Poyang lake area (M. Gilbert 2007) 
   
   
 Our current research aims to understand the agro-ecological drivers of  avian influenza emergence. Why are these viruses emerging ? Where are they more likely to emerge ? Why are they showing a higher apparent seasonality ? What is the respective role of wild bird connectivity and trade in pattern of virus migrations ? These are the numerous questions we are trying to tackle through geospatial analysis and modelling.
