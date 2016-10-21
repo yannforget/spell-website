@@ -6,7 +6,7 @@ mail: "mgilbert@ulb.ac.be"
 past: false
 phone: +32-2-650.37.80
 twitter: mariusgilbert
-portrait: /images/portraits/mgilbert.png
+portrait: /images/portraits/mgilbert-2.jpg
 position: Group leader
 office: UB2.171
 ref: "mgilbert"
