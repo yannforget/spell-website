@@ -14,6 +14,8 @@ Among the agents involved in the disease transmission process, human hosts play 
 
 We contributed to recent developments of the WorldPop database (www.worldpop.org.uk), more specifically on the AfriPop part of the project (see the map below from Linard et al. 2012) The WorlPop project aims to provide an open access archive of spatial demographic datasets for Africa, Asia and Central and South America to support development and health applications. The methods used are designed with full open access and operational application in mind, using transparent, fully documented and shareable methods to produce easily updatable maps with accompanying metadata. Current work also includes the development of continental-scale urban expansion models for Africa in order to produce predicted human population distribution datasets for 2020 and 2030.
 
+![AfriPop](\images\Afripopmap.png)
+
 ### Perspectives
 
 We aim to work on further improvements of the population distribution models by (i) improving population disaggregation algorithms and predictor variables included in the modelling process, (ii) including urban expansion forecasts into predicted population distribution datasets and (iii) evaluate the potential of the wealth of spatio-temporal data provided by new technologies (mobile phones and social networks such as Twitter) to improve the spatial and temporal resolution of human population distribution datasets.
