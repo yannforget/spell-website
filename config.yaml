@@ -30,6 +30,7 @@ menu:
       Identifier: "ressources"
       URL: "/page/ressources"
 
+
 params:
   brand: SpELL
   description: "**Spatial epidemiology** studies the spatial factors determining the emergence, spread and persistence of infectious and vector-borne diseases, invasive species and insect pests, with the aim to identifying important risk factors, map their distribution, and contribute to better prevention, surveillance and control. Over the years, our research has developped over four major axes, detailed below."
