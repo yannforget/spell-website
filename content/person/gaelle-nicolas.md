@@ -24,7 +24,7 @@ Gaëlle Nicolas graduated in Animal health and epidemiology of tropical diseases
 Through the understanding of social habits and local practices Gaëlle tries to estimate impact of Human and environmental factors on the emergence of infectious diseases with a particular focus at the inter-species interface (Wildlife/Livestock/Human). With an epidemiological background strongly related to field work, she combines different approaches as satellite imagery, Geographical Information Systems, statistical and mechanistic modelling for an integrated approach of epidemiological issues. Her current research focus on the spatial distribution mapping of livestock using information from agricultural censuses (combined with spatial high-resolution distribution mapping of people), geo-referenced data and remote-sensed imagery through the use of the programming language R.
 
 # Current research project  
-Mapping Livestock
-Targetted surveillance of the emergence of bovine tuberculosis in Belgian wildlife (WILDTUB)
-Emerging, Viral Vector-Borne Diseases (Vmerge): Rift Valley fever and Bluetongue virus spreading, livestock mobility
+Mapping Livestock  
+Targetted surveillance of the emergence of bovine tuberculosis in Belgian wildlife (WILDTUB)  
+Emerging, Viral Vector-Borne Diseases (Vmerge): Rift Valley fever and Bluetongue virus spreading, livestock mobility  
 
