@@ -1,5 +1,5 @@
 ---
-date: 2016-07-24T15:18:47+02:00
+date: 2000-07-24T15:18:47+02:00
 title: Livestock diseases
 summary: "Our research mainly deal with the spatial epidemiology of avian influenza (AI) at different spatial scales, with particular emphasis on on the role of agro-ecological factors on the emergence, spread and persistence of AI viruses. Over the years, we have also been involved in research on other important livestock diseases such as bluetongue, bovine tuberculosis, foot and mouth disease, porcine reproductive and respiratory syndrome, and Nipah virus infections."
 image: /images/Poyang-wild-1200by500.jpg
