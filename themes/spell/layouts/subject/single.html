@@ -25,16 +25,6 @@
       {{ $.Scratch.Set "topic" .Params.ref }}
       <!-- Iterate over publication data and check if there is an authored paper -->
       {{ range .Site.Sections.publication.Pages }}
-      
-      <!-- Iterate a first time to check if there is articles for the step year -->
-      {{ $.Scratch.Set "activity" false }}
-      {{ range .Pages }}
-      {{ $lastname := $.Scratch.Get "topic" }}
-      {{ if in .Params.keywords $topic }} {{ $.Scratch.Set "activity" true }} {{ end }}
-      {{ end }}
-
-      <!-- Iterate a second time to show articles -->
-      {{ range .Pages }}
 
       <!-- Show reference if authored articles -->
       {{ if in .Params.keywords ($.Scratch.Get "topic") }}
@@ -42,7 +32,8 @@
         {{ delimit .Params.authors ", " " and " }}.<br>
         <em>"{{ .Params.journal }}"</em>, {{ .Params.year }}.
       </p>
-      {{ end }} {{ end }} {{ end }}
+      {{ end }}
+      {{ end }}
 
     </div>
 
