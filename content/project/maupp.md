@@ -8,7 +8,7 @@ endYear: 2018
 ref: maupp
 ---
 
-![](/logo/MAUPP_LogoWithName_400.png)
+![](/logo/MAUPP_LogoWithName_200.png)
 
 The [MAUPP project](http://maupp.ulb.ac.be/) (Modelling and forecasting African Urban Population Patterns for vulnerability and health assessments) is a four-year research project funded by the STEREO-III program of the Belgian Science Policy (BELSPO).
 
