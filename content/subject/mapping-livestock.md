@@ -2,7 +2,7 @@
 date: 2016-07-24T15:19:00+02:00
 title: Mapping livestock
 summary: "The geographical distribution of livestock (cattle, sheep, goat, pig, chicken, duck, buffaloes, camels) is a key driver of the distribution of diseases and  has important environmental impacts at a global scale in terms of direct pollution through manure managment, greenhouse gaz emissions and contribution to antimicrobial resistance. Our work aim to better map the distribution of livestock production at a global scale, with some special emphasis on intensive livestock production and projections."
-image: /images/Poyang-buffaloes-1200.jpg
+image: /images/Poyang-buffaloes-1200by500.jpg
 ref: mapping-livestock
 ---
 
