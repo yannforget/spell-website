@@ -25,13 +25,15 @@ def main(bibpath):
                     firstname = firstname.replace(' van', '')
                     lastname = ' '.join(['Van', lastname])
                 firstname = '.'.join(
-                    [x[0] for x in firstname.replace('-', ' ').split(' ')])
+                    [x[0] for x in firstname.replace('-', ' ').split(' ')
+                     if x])
                 authors[i] = lastname + ' ' + firstname
             lastnames += [lastname]
         return authors, lastnames
 
     collection = []
     for article in bibdb.entries:
+        print(article['ID'])
         data = {}
         data['bibkey'] = article['ID']
         data['itemtype'] = article['ENTRYTYPE']
@@ -46,7 +48,7 @@ def main(bibpath):
         if 'url' in article:
             data['url'] = article['url']
         if 'keyword' in article:
-            data['keywords'] = article['keyword'].split(',')
+            data['keyword'] = article['keyword'].split(',')
         if 'year' in article:
             data['year'] = article['year']
         if 'volume' in article:
@@ -59,6 +61,7 @@ def main(bibpath):
 
     for article in collection:
         filename = article['bibkey'] + '.md'
+        filename = filename.replace('/', '_').replace('\\', '_')
         yamlblock = pyaml.dump(article)
         with open(filename, 'w') as md:
             md.write('---\n')
