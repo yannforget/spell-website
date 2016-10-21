@@ -25,6 +25,6 @@ Through the understanding of social habits and local practices Gaëlle tries to 
 
 # Current research project  
 Mapping Livestock  
-Targetted surveillance of the emergence of bovine tuberculosis in Belgian wildlife (WILDTUB)  
 Emerging, Viral Vector-Borne Diseases (Vmerge): Rift Valley fever and Bluetongue virus spreading, livestock mobility  
+Targetted surveillance of the emergence of bovine tuberculosis in Belgian wildlife (WILDTUB)  
 
