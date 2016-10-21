@@ -6,7 +6,7 @@ image: /images/worldpop-iviris.jpg
 ref: mapping-human-pop
 ---
 
-![](/logo/WorldPop_logo.jpg)
+![](/logo/WorldPop_logo_250.jpg)
 
 ## Background
 
@@ -30,7 +30,7 @@ The [MAUPP project](http://maupp.ulb.ac.be/) is dedicated to the improvement of 
 
 Our knowledge of human population distribution in space and time remains poor, especially in low income countries. At the moment, mapping of populations is constrained by the logistics of censuses and surveys, which just provide a single snapshot of population distributions every ten years and little information exists to inform on daily, monthly or seasonal changes in population distributions. Methods have been developed to produce accurate and cost-effective datasets depicting human population distribution for different time periods using mobile phone call activities. The number of communications and the number of phone users aggregated at the cell tower level are used to estimate the population density in the coverage area of the tower. Our findings show that maps made using mobile records are detailed, reliable and flexible enough to help inform infrastructure and emergency planners; particularly in low income countries, where recent population density information is often scarce. With similar data being collected every day by mobile phone network providers across the World, the prospect of being able to map contemporary and changing human population distributions over relatively short time intervals exists, paving the way to new applications and a near real-time understanding of patterns and processes in human geography.
 
-![AfriPop](/images/Fig2_FRA_mobility_hol-work_small.png)
+![AfriPop](/images/Fig2_FRA_mobility_hol-work_400.png)
 
 
 ## Perspectives
