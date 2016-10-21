@@ -12,3 +12,5 @@ since: "2015"
 title: celia chaiban
 ---
 
+## PhD project
+Development of new farm distribution models along an agricultural intensification gradient (Kenya, Thailand, Belgium) for environmental and epidemiological impact assessments
