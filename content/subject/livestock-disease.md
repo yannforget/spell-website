@@ -17,7 +17,7 @@ Our current research aims to understand the agro-ecological drivers of  avian in
 ![](/images/Poyang_2x400.jpg)
 ###### Duck raised in rice-producing area and farmed geese Poyang lake area (M. Gilbert 2007) 
 
-In the long run, we aim to better understand the role of changes in production and trade systems in the emergence and spread of those viruses, so that we can project how changes in those systems resulting from intensification of the production may translate into disease risk. In addition, we aim to better complement geospatial approaches with phylogeographic analysis and inference to better understand how different factors may shape the evolution and spread of these viruses. 
+Our work also entails producting suitability maps at different spatial scale that can be used to be target suveillance and control in high-risk areas. In the long run, we aim to better understand the role of changes in production and trade systems in the emergence and spread of those viruses, so that we can project how changes in those systems resulting from intensification of the production may translate into disease risk. In addition, we aim to better complement geospatial approaches with phylogeographic analysis and inference to better understand how different factors may shape the evolution and spread of these viruses. 
 
 ### Other livestock diseases
 
@@ -27,7 +27,7 @@ Previous work has involved studies on bovine tuberculosis in Belgium and in the 
 
 ### Collaborations
 
-Our main institutional collaborators are or have been T. Robinson (ILRI, Nairobi, Kenya), G. Dauphin, W. Kalpravidth, S. Newman, V. Martin, J. Slingenbergh (FAO, Rome, Italy), W. Thanapongtharm (Department of Livestock Development, DLD, Bangkok, Thailand), H. Yu (Chinese Center for Disease Control, CDC, Beijing, China), and our main academic collaborators are or have been Xiangming Xiao (Univ. Oklahoma, USA), Julien Cappelle (CIRAD, Montpellier, France), D. Pfeiffer (Royal Veterinary College, London, UK), N. Golding & S. Hay (SEEG, Univ. Oxford, Oxford, UK).
+Our main institutional collaborators are or have been T. Robinson (ILRI, Nairobi, Kenya), G. Dauphin, W. Kalpravidth, S. Newman, V. Martin, J. Slingenbergh (FAO, Rome, Italy), W. Thanapongtharm (Department of Livestock Development, DLD, Bangkok, Thailand), H. Yu (Chinese Center for Disease Control, CDC, Beijing, China), A. Conte & Carla Ippoliti (IZS Teramo), and our main academic collaborators are or have been Xiangming Xiao (Univ. Oklahoma, USA), Julien Cappelle (CIRAD, Montpellier, France), D. Pfeiffer (Royal Veterinary College, London, UK), N. Golding, S. Hay (SEEG, Univ. Oxford, Oxford, UK) ad W. Wint (ERGO ltd, Oxford, UK).
 
 
 
