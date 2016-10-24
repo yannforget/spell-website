@@ -16,7 +16,7 @@
   <!-- Topic details -->
   <div class="row">
     <div class="col-md-12">
-      <h1 class="page-header">Informations</h1>
+      <h1 class="page-header">{{ .Title }}</h1>
       {{ .Content }}
     </div>
 
@@ -29,8 +29,8 @@
       <!-- Show reference if authored articles -->
       {{ if in .Params.keyword ($.Scratch.Get "topic") }}
       <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}<strong>{{ .Title }}</strong>{{ end }}<br>
-        {{ delimit .Params.authors ", " " and " }}.<br>
-        <em>"{{ .Params.journal }}"</em>, {{ .Params.year }}.
+        {{ delimit .Params.authorship ", " " and " }}.<br>
+        <em>"{{ .Params.journal }}"</em>, {{ if .Params.volume }}vol. {{ .Params.volume}}, {{ end }}{{if .Params.issue }}issue {{ .Params.issue}}, {{ end }}{{ .Params.year }}.
       </p>
       {{ end }}
       {{ end }}

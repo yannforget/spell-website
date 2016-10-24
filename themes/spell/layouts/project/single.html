@@ -11,6 +11,24 @@
     </div>
   </div>
 
+  <div class="row">
+    <div class="col-md-12">
+      <h1 class="page-header">Related publications</h1>
+      {{ $.Scratch.Set "projectref" .Params.ref }}
+      <!-- Iterate over publication data and check if there is an authored paper -->
+      {{ range .Site.Sections.publication.Pages }}
+
+      <!-- Show reference if authored articles -->
+      {{ if in .Params.keyword ($.Scratch.Get "projectref") }}
+      <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}<strong>{{ .Title }}</strong>{{ end }}<br>
+        {{ delimit .Params.authorship ", " " and " }}.<br>
+        <em>"{{ .Params.journal }}"</em>, {{ if .Params.volume }}vol. {{ .Params.volume}}, {{ end }}{{if .Params.issue }}issue {{ .Params.issue}}, {{ end }}{{ .Params.year }}.
+      </p>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
 </div>
 
 {{ partial "footer.html" . }}
