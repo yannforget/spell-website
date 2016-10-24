@@ -4,8 +4,6 @@
 - [ ] Update Former PhD List (MG)
 - [ ] Fill-in profiles for Madhur & Yann (MG & YF)
 - [ ] Check all phone numbers to make sure they link to office numbers (MG)
-- [ ] Add a summary field to the news to be used in the compact view format (MG)
-- [x] Code so that the summary field is used for the news (YF)
 - [ ] Add a summary field to the project to be used in the short view format (MG)
 - [x] Tag publications by themes (MG)
 - [ ] Tag publications by project (MG)
