@@ -16,25 +16,25 @@
 
       <h3>{{ .Key }}</h3>
 
-      {{ range .Pages }}
+      {{ range where .Pages "Params.labpublication" true }}
 
       <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}{{ .Title }}{{ end }}<br>
 
-        {{ $len := len .Params.authors }}
+        {{ $len := len .Params.authorship }}
         {{ $last := (sub $len 1) }}
         {{ $and := (sub $last 1) }}
 
-        {{ range $index, $element := .Params.authors }}
+        {{ range $index, $element := .Params.authorship }}
         {{ $.Scratch.Set "author" . }}
         {{ $.Scratch.Set "team" false }}
         {{ range $.Site.Sections.person.Pages }}
         {{ if in ($.Scratch.Get "author") .Params.lastname }} {{ $.Scratch.Set "team" true }} {{ end }}
         {{ end }}
 
-        {{ if ($.Scratch.Get "team") }}<strong>{{ . }}</strong>{{ else }}{{ . }}{{ end }}{{ if eq $last $index }}.{{ else }}{{ if eq $and $index }} and {{ else }}, {{ end }} {{ end }} 
+        {{ if ($.Scratch.Get "team") }}<u>{{ . }}</u>{{ else }}{{ . }}{{ end }}{{ if eq $last $index }}.{{ else }}{{ if eq $and $index }} and {{ else }}, {{ end }} {{ end }} 
         
         {{ end }}<br>
-        <em>"{{ .Params.journal }}"</em>, {{ .Params.year }}.<br>
+        <em>"{{ .Params.journal }}"</em>, {{ if .Params.volume }}vol. {{ .Params.volume}}, {{ end }}{{if .Params.issue }}issue {{ .Params.issue}}, {{ end }}{{ .Params.year }}.<br>
       </p>
 
       {{ end }} {{ end }}
