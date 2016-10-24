@@ -21,6 +21,29 @@
     </div>
   </div>
 
+  <!-- News -->
+  <div class="row section-header">
+    <div class="col-md-12">
+      <h1>News</h1>
+    </div>
+  </div>
+
+  <div class="col-md-12">
+  {{ range first 3 $.Site.Sections.news.Pages }}
+
+    <p>
+      <a href="{{ .Permalink }}"><h3>{{ .Title }}</h1></a>
+      <p><small>On {{ .Date.Format "January 02 2006" }}{{ if .Params.author }} by {{ .Params.author }}{{ end }}</small></p>
+      <p>{{ .Summary }} <a href="{{ .Permalink }}">Read more...</a></p>
+    </p>
+
+  {{ end }}
+  
+  <br>
+  <p><a href="/news/">See all news</a></p>
+
+  </div>
+
   <!-- Topics -->
   <div class="row section-header">
     <div class="col-md-12">
@@ -66,23 +89,6 @@
   </div>
 
     {{ end }}
-
-  <!-- Last news -->
-  <div class="row section-header">
-    <div class="col-md-12">
-      <h1>Last news</h1>
-    </div>
-  </div>
-
-  {{ range first 3 $.Site.Sections.news.Pages }}
-
-  <p>
-    <a href="{{ .Permalink }}"><h3>{{ .Title }}</h1></a>
-    <p><small>On {{ .Date.Format "January 02 2006" }}{{ if .Params.author }} by {{ .Params.author }}{{ end }}</small></p>
-    <p>{{ .Summary }} <a href="{{ .Permalink }}">Read more...</a></p>
-  </p>
-
-  {{ end }}
 
 </div>
 
