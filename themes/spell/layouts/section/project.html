@@ -14,11 +14,12 @@
       {{ range where .Data.Pages ".Params.endyear" "ge" (int ($.Now.Format "2006")) }}
       <p>
         {{ if .Content }} <a href="{{ .Permalink }}"> {{ end }}
-        {{ if .Params.acronym }}{{ .Params.acronym }}: {{ end }}
-        {{ .Params.name }}
+          <strong>{{ if .Params.acronym }}{{ .Params.acronym }}: {{ end }}
+        {{ .Params.name }}</strong>
         {{ if .Content }}</a>{{ end }}
         ({{ .Params.startyear }}{{ if ne .Params.startyear .Params.endyear }}-{{ .Params.endyear }}{{ end }})<br>
-        {{ if .Params.funder }}<em>Funded by {{ .Params.funder }}</em> {{ end }}<br>
+        {{ if .Params.abstract }}{{ .Params.abstract | markdownify }}<br>{{ end }}
+        {{ if .Params.funder }}<em>Funded by {{ .Params.funder }}</em> <br>{{ end }}
       </p>
       {{ end }}
     </div>
@@ -32,8 +33,8 @@
       {{ range where .Data.Pages ".Params.endyear" "lt" (int ($.Now.Format "2006")) }}
       <p>
         {{ if .Content }} <a href="{{ .Permalink }}"> {{ end }}
-        {{ if .Params.acronym }}{{ .Params.acronym }}: {{ end }}
-        {{ .Params.name }}
+          <strong>{{ if .Params.acronym }}{{ .Params.acronym }}: {{ end }}
+            {{ .Params.name }}</strong>
         {{ if .Content }}</a>{{ end }}
         ({{ .Params.startyear }}{{ if ne .Params.startyear .Params.endyear }}-{{ .Params.endyear }}{{ end }})<br>
         {{ if .Params.funder }}<em>Funded by {{ .Params.funder }}</em> {{ end }}<br>
