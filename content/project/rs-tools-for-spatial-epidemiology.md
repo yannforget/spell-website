@@ -4,5 +4,5 @@ acronym: "EPI STIS"
 funder: "Belgian Science Policy STEREO-II programme"
 startYear: 2006
 endYear: 2010
-ref: rs-tools-epidemiology
+ref: epistis
 ---

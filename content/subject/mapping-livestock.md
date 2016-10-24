@@ -1,5 +1,5 @@
 ---
-date: 2016-09-20T15:19:00+02:00
+date: 2016-10-22T15:19:00+02:00
 title: Mapping livestock
 summary: "The geographical distribution of livestock (cattle, sheep, goat, pig, chicken, duck, buffaloes, camels) is a key driver of the distribution of diseases and  has important environmental impacts at a global scale in terms of direct pollution through manure managment, greenhouse gaz emissions and contribution to antimicrobial resistance. Our work aim to better map the distribution of livestock production at a global scale, with some special emphasis on intensive livestock production and projections."
 image: /images/Poyang-Buffaloes-1200by500.jpg
@@ -11,7 +11,7 @@ ref: mapping-livestock
 For many years, several research groups and international organisations have developed high-resolution global maps of livestock based on reported statistics derived from census and survey data. Due to the dynamic nature of these populations (intensification of livestock production) this is an extremely challenging task that involves the collection of contemporary statistics, the development of complex algorithms to disaggregate these statistics at higher spatial resolutions and make predictions where they are absent. 
   
   
-![](/images/Asia_Ch_800.png)
+![](/images/Asia_Ch_600.png)
 ###### Output distribution of chicken density in Asia (Robinson et al. 2014)
   
     
@@ -25,4 +25,4 @@ Further developments involve breaking down livestock distribution maps according
 
 ### Collaborations
 
-Our main institutional collaborators are T. Robinson (International Livestock Research Institute, ILRI, Nairobi, Kenya), G. Cinardi (Food and Agriculture Organization, FAO, Rome, Italy), W. Thanapongtharm (Department of Livestock Development, DLD, Bangkok, Thailand), H. Yu (Chinese Center for Disease Control, CDC, Beijing, China), and our main academic collaborators are W. Wint (ERGO, Oxford, UK), S. Hay (SEEG, Univ. Oxford, Oxford, UK), T. Van Boeckel (Dpt Ecol & Evol Biol, Princeton, USA) & S. Vanwambeke (UCL, Louvain-la-Neuve, Belgium).
+Our main institutional collaborators are T. Robinson (International Livestock Research Institute, ILRI, Nairobi, Kenya), G. Cinardi and A. Mottet (Food and Agriculture Organization, FAO, Rome, Italy), W. Thanapongtharm (Department of Livestock Development, DLD, Bangkok, Thailand), H. Yu (Chinese Center for Disease Control, CDC, Beijing, China), and our main academic collaborators are W. Wint (ERGO, Oxford, UK), S. Hay (SEEG, Univ. Oxford, Oxford, UK), T. Van Boeckel (Dpt Ecol & Evol Biol, Princeton, USA) & S. Vanwambeke (UCL, Louvain-la-Neuve, Belgium).
