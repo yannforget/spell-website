@@ -1,9 +1,8 @@
 * Edit the text of the top text, perhaps with a different format (MG) to:
 
-In general, *Spatial epidemiology* studies the effect of spatial factors on the emergence, spread and persistence of diseases and invasive species. The understanding of  key spatial factors and their integration into spatial models can then be used ot predict the geographical distribution of risk, which can  contribute to better tragetted prevention, surveillance and control measures. 
+**Spatial epidemiology** studies the effect of spatial factors on the emergence, spread and persistence of diseases and invasive species. The **understanding of key spatial factors**, such as environmental or anthropogenic variables, and their integration into spatial models can then be used to **predict the geographical distribution of risk**, which can  contribute to better targetted prevention, surveillance and control measures. 
 
-More specifically, our spatial epidemiology lab is concerned with baseline works helping to map the distribution of the main animal hosts of diseases, humans and livestock 
-
+More specifically, our spatial epidemiology lab is concerned with baseline works on the denominator, i.e. the number of hosts, which are key spatial variables used in most epidemiological models, and we actively work on the **improvement of large-scale data sets on the distribution of human and livestock populations**. A second focus of active research is the **spatial epidemiology of avian influenza**, a major disease of poultry with a strong zoonotic potential.
 
 
 * Show the news before the Research themes, with a link to the 'all news' page (YF)
