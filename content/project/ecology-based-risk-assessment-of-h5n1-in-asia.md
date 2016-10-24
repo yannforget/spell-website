@@ -6,5 +6,3 @@ startYear: 2006
 endYear: 2010
 ref: risk-assessment-h5n1
 ---
-
-ddd
