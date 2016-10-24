@@ -11,7 +11,7 @@ html {
 body {
     font-family: 'Alegreya', sans-serif !important;
     padding-top: 49px;
-    padding-bottom: 100px;
+    padding-bottom: 125px;
 }
 
 /* Nav bar */
@@ -21,7 +21,6 @@ body {
 }
 
 .navbar .logo {
-    filter: grayscale(100);
     opacity: 0.6;
     transition: .2s ease-in-out;
 }
@@ -86,8 +85,12 @@ body {
 }
 
 #homepage .about {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.about p {
+    text-align: left !important;
 }
 
 #homepage .bg-image {
@@ -227,7 +230,7 @@ footer {
     background-color: #222;
     border-top: 1px solid black;
     position: absolute;
-    margin-top: 100px;
+    margin-top: 150px;
     bottom: 0
 }
 
