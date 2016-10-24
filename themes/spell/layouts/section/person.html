@@ -59,35 +59,20 @@
       <h1>Past members</h1>
     </div>
 
-    <!-- Ex-researcher -->
+    <!-- Staff and PhD -->
     <div class="col-md-12">
-      <h3>Ex-researchers</h3>  
-      {{ range sort $.Site.Data.pastmember.researcher "endYear" "desc" }}
-      <p><strong>{{ .name }}</strong>, {{ .position}} ({{ .startYear }}-{{ .endYear }})<br>
-        <em>{{ .topic }}</em><br>
-        {{ if .now }}Now: {{ .now }}{{ end }}
-      </p>
-      {{ end }}
-    </div>
-
-    <!-- Ex-PhD student -->
-    <div class="col-md-12">
-      <h3>Ex-PhD students</h3>
-      {{ range sort $.Site.Data.pastmember.phd "endYear" "desc" }}
-      <p><strong>{{ .name }}</strong> ({{ .startYear }}-{{ .endYear }})<br>
-        <em>{{ .topic }}</em><br>
-        {{ if .now }}Now: {{ .now }}{{ end }}
+      <h3>Staff and PhD students</h3>  
+      {{ range sort $.Site.Data.pastmember.staff "endYear" "desc" }}
+      <p><strong>{{ .name }}</strong>, {{ .position}} ({{ .startYear }}-{{ .endYear }}). <em>{{ .topic }}. </em>{{ if .now }}Now: {{ .now }}.{{ end }}
       </p>
       {{ end }}
     </div>
 
     <!-- Ex-MSc student -->
     <div class="col-md-12">
-      <h3>Ex-MSc students</h3>
+      <h3>MSc students</h3>
       {{ range sort $.Site.Data.pastmember.msc "year" "desc" }}
-      <p><strong>{{ .name }}</strong> ({{ .year }})<br>
-        <em>{{ .topic }}</em><br>
-        {{ if.now }}Now: {{ .now }}{{ end }}
+      <p><strong>{{ .name }}</strong> ({{ .year }}). <em>{{ .topic }}. </em>{{ if.now }}Now: {{ .now }}.{{ end }}
       </p>
       {{ end }}
     </div>
