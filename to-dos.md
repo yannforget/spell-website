@@ -1,4 +1,11 @@
-* Edit the text of the top text, perhaps with a different format (MG)
+* Edit the text of the top text, perhaps with a different format (MG) to:
+
+In general, *Spatial epidemiology* studies the effect of spatial factors on the emergence, spread and persistence of diseases and invasive species. The understanding of  key spatial factors and their integration into spatial models can then be used ot predict the geographical distribution of risk, which can  contribute to better tragetted prevention, surveillance and control measures. 
+
+More specifically, our spatial epidemiology lab is concerned with baseline works helping to map the distribution of the main animal hosts of diseases, humans and livestock 
+
+
+
 * Show the news before the Research themes, with a link to the 'all news' page (YF)
 * Fix the 'information' that appear on top of all themes (YF) 
 * SpELL Logo ? (YF)
