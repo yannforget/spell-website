@@ -3,8 +3,7 @@
 
 **Spatial epidemiology** studies the effect of spatial factors on the emergence, spread and persistence of diseases and invasive species. The **understanding of key spatial factors**, such as environmental or anthropogenic variables, and their integration into spatial models can then be used to **predict the geographical distribution of risk**, which can  contribute to better targetted prevention, surveillance and control measures. 
 
-More specifically, our spatial epidemiology lab is concerned with baseline works on the denominator, i.e. the number of hosts, which are key spatial variables used in most epidemiological models, and we actively work on the **improvement of large-scale data sets on the distribution of human and livestock populations**. A second focus of active research is the **spatial epidemiology of avian influenza**, a major disease of poultry with a strong zoonotic potential.
-
+More specifically, our spatial epidemiology lab is concerned with baseline works on the denominator, i.e. the number of hosts, which are key spatial variables used in most epidemiological models, and we actively work on the **improvement of large-scale data sets on the distribution of human and livestock populations**. A second focus of active research is the **spatial epidemiology of avian influenza**, a major disease of poultry with a strong zoonotic potential. The activities of SpELL were carried out under the [http://lubies.ulb.ac.be/](Biological control and spatial ecology lab) until sep. 2015.
 
 * Show the news before the Research themes, with a link to the 'all news' page (YF)
 * Fix the 'information' that appear on top of all themes (YF) 
