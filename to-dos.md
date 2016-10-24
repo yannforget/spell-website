@@ -19,3 +19,8 @@
 * Add content to the Resource / teaching (MG)
 * Show references only starting from 2005 in the ref list (YF)
 * Change the format reference to a more standard dispplay (authors, year, title, source) (YF)
+* Change 'SPELL' to 'SpELL' in the bottom lines, and get back to ULB blue logo (YF)
+* Check the closing of the content section in the wellcome page, currently closing abruptly with no space before the black bottom part (YF)
+
+
+
