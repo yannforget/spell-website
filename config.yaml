@@ -43,13 +43,5 @@ menu:
 
 params:
   brand: SpELL
-  description: "**Spatial epidemiology** studies the spatial factors determining the emergence, spread and persistence of infectious and vector-borne diseases, invasive species and insect pests, with the aim to identifying important risk factors, map their distribution, and contribute to better prevention, surveillance and control. Over the years, our research has developped over four major axes, detailed below."
-  logoTextOnly: /logo/spell-logo-text-only-colorized.png
-  logo: /logo/spell-logo-colorized.png
-  logoVerticalText: /logo/spell-logo-vertical-text-colorized.png 
-  logoHorizontalText: /logo/spell-logo-horizontal-text-colorized.png
-  logoTextOnlyWhite: /logo/spell-logo-text-only-white.png
-  logoWhite: /logo/spell-logo-white.png
-  logoHorizontalTextWhite: /logo/spell-logo-horizontal-text-white.png
-  logoUniversity: /logo/ulb.jpg
+  description: "**Spatial epidemiology** studies the effect of spatial factors on the emergence, spread and persistence of diseases and invasive species. The **understanding of key spatial factors**, such as environmental or anthropogenic variables, and their integration into spatial models can then be used to **predict the geographical distribution of risk**, which can  contribute to better targetted prevention, surveillance and control measures. <br> <br> More specifically, our spatial epidemiology lab is concerned with baseline works on the denominator, i.e. the number of hosts, which are key spatial variables used in most epidemiological models, and we actively work on the **improvement of large-scale data sets on the distribution of human and livestock populations**. A second focus of active research is the **spatial epidemiology of avian influenza**, a major disease of poultry with a strong zoonotic potential. The Spatial epidemiology lab. was founded in the academic year 2015-2016 and were previously carried out under the [Biological control and spatial ecology lab](http://lubies.ulb.ac.be/)."
 ---
