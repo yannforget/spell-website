@@ -1,3 +1,4 @@
+* Check the reference by theme addition
 * Edit the text of the top text, perhaps with a different format (MG) to:
 
 **Spatial epidemiology** studies the effect of spatial factors on the emergence, spread and persistence of diseases and invasive species. The **understanding of key spatial factors**, such as environmental or anthropogenic variables, and their integration into spatial models can then be used to **predict the geographical distribution of risk**, which can  contribute to better targetted prevention, surveillance and control measures. 
