@@ -2,7 +2,7 @@
 * Show the news before the Research themes, with a link to the 'all news' page (YF)
 * Fix the 'information' that appear on top of all themes (YF) 
 * SpELL Logo ? (YF)
-* Take out past MSc lab member (MG)
+* Show past members in a more compact form (no line break per person) aand group by: PhD students and scientific staff / MSc students.
 * Update Former PhD List (MG)
 * Fill-in profiles for Madhur & Yann (MG & YF)
 * Check all phone numbers to make sure they link to office numbers (MG)
