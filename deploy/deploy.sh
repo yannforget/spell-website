@@ -24,6 +24,6 @@ deploy/fetch_zotero.py content/publication
 hugo
 
 # Mount remote FTP, synchronize data and unmount
-echo $SPELL_PASSWORD | sshfs mgilbert@resu5.ulb.ac.be:/home/web1301/public_html spell.ulb.be -o password_stdin
+echo $SPELL_PASSWORD | sshfs mgilbert@resu5.ulb.ac.be:/home/web1301/public_html spell.ulb.be -o password_stdin,allow_other
 rsync -rz --delete public/ spell.ulb.be/
 fusermount -u spell.ulb.be
