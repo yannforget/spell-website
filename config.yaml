@@ -1,5 +1,5 @@
 ---
-baseurl: "https://lub.forget.ch"
+baseurl: "http://spell.ulb.be"
 title: "Spatial Epidemiology Lab"
 languageCode: "en-us"
 config: "config.yaml"
