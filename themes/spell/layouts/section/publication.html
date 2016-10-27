@@ -14,9 +14,11 @@
 
       {{ range (.Data.Pages.GroupByParam "year").Reverse }}
 
+      {{ if gt .Key 2004 }}
       <h3>{{ .Key }}</h3>
+      {{ end }}
 
-      {{ range where .Pages "Params.labpublication" true }}
+      {{ range (where (where .Pages "Params.labpublication" true) ".Params.year" "gt" 2004) }}
 
       <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}{{ .Title }}{{ end }}<br>
 
