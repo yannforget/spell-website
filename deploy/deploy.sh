@@ -2,7 +2,8 @@
 
 # If last deployment occured during the last five minutes, abort
 elapsed=$(deploy/elapsed_time.py "deploy/last_deploy.txt")
-mintime=180
+mintime=600
+echo "Time since last deployment: "$elapsed"s"
 if [ ! "$elapsed" > "$mintime" ]
 then
     echo "Time since last deployment: "$elapsed"s"
