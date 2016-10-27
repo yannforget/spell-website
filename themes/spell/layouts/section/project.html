@@ -36,8 +36,7 @@
           <strong>{{ if .Params.acronym }}{{ .Params.acronym }}: {{ end }}
             {{ .Params.name }}</strong>
         {{ if .Content }}</a>{{ end }}
-        ({{ .Params.startyear }}{{ if ne .Params.startyear .Params.endyear }}-{{ .Params.endyear }}{{ end }})<br>
-        {{ if .Params.funder }}<em>Funded by {{ .Params.funder }}</em> {{ end }}<br>
+        ({{ .Params.startyear }}{{ if ne .Params.startyear .Params.endyear }}-{{ .Params.endyear }}{{ end }}). {{ if .Params.funder }}<em>Funded by {{ .Params.funder }}</em> {{ end }}.
       </p>
       {{ end }}
     </div>
