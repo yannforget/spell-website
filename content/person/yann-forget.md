@@ -2,7 +2,7 @@
 date: 2016-07-23T19:34:28+02:00
 firstname: "Yann"
 lastname: "Forget"
-mail: "yforget@ulb.ac.be"
+mail: "forget.yann31@gmail.com"
 past: false
 phone: +32-2-650.37.81
 portrait: /images/portraits/yforget.png
