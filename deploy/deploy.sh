@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 # If last deployment occured during the last five minutes, abort
 elapsed=$(deploy/elapsed_time.py "deploy/last_deploy.txt")
@@ -32,7 +32,7 @@ hugo
 echo "Mounting spell.ulb.be FTP..."
 source deploy/password.sh
 mkdir -p spellftp
-echo $password | sshfs mgilbert@resu5.ulb.ac.be:/home/web1301/public_html spellftp -o password_stdin,allow_other
+echo $password | sshfs mgilbert@resu5.ulb.ac.be:/home/web1301/public_html spellftp -o password_stdin
 echo "Syncing files..."
 rm -rf spellftp/*
 cp -r public/* spellftp/
