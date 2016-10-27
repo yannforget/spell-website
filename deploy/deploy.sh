@@ -4,9 +4,8 @@
 elapsed=$(deploy/elapsed_time.py "deploy/last_deploy.txt")
 mintime=600
 echo "Time since last deployment: "$elapsed"s"
-if [ ! "$elapsed" > "$mintime" ]
+if [ $elapsed -lt $mintime ]
 then
-    echo "Time since last deployment: "$elapsed"s"
     echo "Not enough elapsed time. Aborting..."
     exit 0
 fi
@@ -37,5 +36,5 @@ echo $password | sshfs mgilbert@resu5.ulb.ac.be:/home/web1301/public_html spellf
 echo "Syncing files..."
 rm -rf spellftp/*
 cp -r public/* spellftp/
-fusermount -u spell.ulb.be
+fusermount -u spellftp
 echo "Done."
