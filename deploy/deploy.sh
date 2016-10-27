@@ -25,6 +25,7 @@ mkdir -p content/publication
 deploy/fetch_zotero.py content/publication
 
 # Compile website
+rm -rf public/*
 echo "Compiling website with hugo..."
 hugo
 
