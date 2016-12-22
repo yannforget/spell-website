@@ -1,7 +1,7 @@
 ---
 author: "Marius Gilbert"
 date: 2016-12-22T12:00:00+02:00
-title: "New papers in e-life"
+title: "New papers in e-life on H5N1"
 ---
 A new paper has just been published in e-life mapping the global distribution of areas where HPAI H5N1 would have a high chance of sustained transmission upon introduction, as illustrated in the figure below.
 
