@@ -34,6 +34,10 @@ body {
     line-height: 30px !important;
 }
 
+.navbar-brand {
+    padding: 18px 0px !important;
+}
+
 
 /* Home page */
 
