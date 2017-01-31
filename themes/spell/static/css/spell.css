@@ -241,6 +241,22 @@ footer .lablogo {
     margin-top: 20px;
 }
 
+footer #admin {
+    color: #3D3D3D;
+    margin-left: 40px;
+    margin-top: 30px;
+    list-style-type: none;
+}
+
+footer #admin a {
+    color: #4F4F4F;
+    opacity: 0.6
+}
+
+footer #admin a:hover {
+    opacity: 1;
+}
+
 footer .univlogo {
     filter: grayscale(100%);
     transition: .3s ease-in-out;
