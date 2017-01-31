@@ -30,6 +30,10 @@ body {
     transition: .2s ease-in-out;
 }
 
+.navbar-nav li a {
+    line-height: 30px !important;
+}
+
 
 /* Home page */
 

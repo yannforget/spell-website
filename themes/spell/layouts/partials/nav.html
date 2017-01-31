@@ -27,11 +27,10 @@
           {{ else }}
             <li><a {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}class=active {{end}}href="{{.URL}}">{{ .Name }}</a></li>
           {{ end }}
-        {{ end }}
-      </ul>
-      <a href="http://www.ulb.ac.be">
-        <img src="/logo/ulb.jpg" height=30px width=auto style="display: inline; margin-top: 10px">
-      </a>
+          {{ end }}
+          <li><a href="http://www.ulb.ac.be">
+            <img src="/logo/ulb.jpg" height=30px width=auto style="display: inline">
+      </a></li>
     </div>
   </div>
 </nav>
