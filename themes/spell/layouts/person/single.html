@@ -9,9 +9,11 @@
 
     <!-- Header -->
     <div class="col-lg-12">
-      <h1 class="page-header">{{ .Params.firstname }} {{ .Params.lastname }}
-        <small>{{ .Params.position }}</small>
-      </h1>
+      <div itemscope itemtype="http://schema.org/Person">
+        <h1 class="page-header"><span itemprop="name">{{ .Params.firstname }} {{ .Params.lastname }}</span>
+          <small>{{ .Params.position }}</small>
+        </h1>
+      </div>
     </div>
 
     <!-- Contact -->

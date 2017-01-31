@@ -14,10 +14,10 @@
 
     <!-- Team div -->
     {{ range where .Data.Pages ".Params.past" false }}
-    <div class="col-md-4 col-sm-6 text-center card">
-      <a href="{{ .Permalink }}"><img class="img-responsive img-center thumbnail" src="{{ .Params.portrait }}"></a>
-      <h3><a href="{{ .Permalink }}">{{ .Params.firstname }} {{ .Params.lastname }}</a>
-        <small><br>{{ .Params.position }}</small>
+    <div class="col-md-4 col-sm-6 text-center card" itemscope itemtype="http://schema.org/Person">
+      <a href="{{ .Permalink }}" itemprop="url"><img class="img-responsive img-center thumbnail" src="{{ .Params.portrait }}" itemprop="image" alt="{{ .Params.firstname }} {{ .Params.lastname }}"/></a>
+      <h3><a href="{{ .Permalink }}"><span itemprop="name">{{ .Params.firstname }} {{ .Params.lastname }}</span></a>
+        <small><br><span itemprop="jobTitle">{{ .Params.position }}</span></small>
       </h3>
 
       {{ if .Params.mail }}
