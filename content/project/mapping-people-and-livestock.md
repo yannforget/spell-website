@@ -14,11 +14,13 @@ The main objective of this project was to evaluate the different approaches used
 More specifically, the project firstly aimed to compare quantitatively and qualitatively the different methods and database available to map the distribution of people and livestock in terms of quantitative goodness of fit (how good are numbers that are predicted), spatial patterns (how similar are observed and predicted distributions in terms of heterogeneity and level of clustering) and processing performances. Secondly, the project aimed to examine how uncertainty in the predicted values can be estimated and best represented. The third aim of the project was to identify innovative ways to improve the spatial realism of outputs at different scales, either by changing the modeling process itself or by using alternative forms of representation.
 
 SpELL staff involved in the project:
+
 * [Marius Gilbert](/person/marius-gilbert)
 * [Catherine Linard](/person/catherine-linard)
 * [Gaëlle Nicolas](/person/gaelle-nicolas)
 
 External partners of the project:
+
 * [Sophie Vanwambeke (UCL, Co-I)](http://www.uclouvain.be/sophie.vanwambeke)
 * [Tim Robinson (ILRI, Nairobi)](http://www.ilri.org)
 * [Anne Mottet & Giusepina Cinardi (FAO, Rome)](http://www.fao.org)
