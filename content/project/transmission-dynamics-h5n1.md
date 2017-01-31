@@ -13,6 +13,11 @@ This project aimed to develop and integrate mathematic, statistical and agent-ba
 
 The project was build around three main types of activities. First, we aimed to create a series of new data sets describing the poultry host distribution, the environment and wild bird movements. Second, we aimed to integrate these data to improve our understanding of avian inlfuenza at multiple spatial scale and to integrate them at multiple spatial scales. Third, we aimed to use mathematical modelling to predict the potential spread and spillover of HPAI H5N1 in different countries.
 
+SpELL staff involved in the project:
+* [Marius Gilbert](/person/marius-gilbert)
+* [Jean Artois](/person/jean-artois)
+* [Madhur Dhingra](/person/jean-artois)
+
 Alongside SpELL, the other partners involved in this project are:
 * [Prof. Xiangming Xiao (U. Oklahoma, PI, coordinator)](http://www.eomf.ou.edu/people/xiangming/)
 * [Dr. Michael Tildesley (U. Warwick, Co-I)](https://www2.warwick.ac.uk/fac/sci/lifesci/people/mtildesley/)
