@@ -9,6 +9,6 @@ portrait: /images/portraits/mdhingra.png
 position: PhD student
 ref: "mdhingra"
 since: "2014"
-title: madhur dhingra
+title: "Madhur Dhingra"
 ---
 

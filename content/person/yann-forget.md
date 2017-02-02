@@ -6,9 +6,9 @@ mail: "forget.yann31@gmail.com"
 past: false
 phone: +32-2-650.37.81
 portrait: /images/portraits/yforget.png
-position: PhD student
+position: "PhD Student"
 ref: "yforget"
-title: Yann Forget
+title: "Yann Forget"
 interests:
   - "Remote sensing"
   - "Population mapping"

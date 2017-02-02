@@ -9,7 +9,7 @@ office: UB2.169
 portrait: /images/portraits/clinard.png
 position: Researcher
 ref: "clinard"
-title: catherine linard
+title: "Catherine Linard"
 interests:
   - "Spatial epidemiology"
   - "Population mapping"

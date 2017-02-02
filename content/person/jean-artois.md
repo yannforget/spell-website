@@ -7,9 +7,9 @@ past: false
 phone: +32-2-650.32.18
 office: UB2.167
 portrait: /images/portraits/jartois.png
-position: PhD student
+position: "PhD Student"
 ref: "jartois"
-title: jean artois
+title: "Jean Artois"
 interests:
   - "Spatial epidemiology"
   - "Influenza"

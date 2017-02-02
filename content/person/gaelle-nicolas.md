@@ -8,7 +8,7 @@ phone: +32-2-650.37.81
 portrait: /images/portraits/gnicolas.png
 position: Post-doctoral researcher
 ref: "gnicolas"
-title: gaelle nicolas
+title: "Gaelle Nicolas"
 interests:
   - "Spatial epidemiology"
   - "Livestock distribution"

@@ -9,7 +9,7 @@ portrait: /images/portraits/cchaiban.png
 position: "PhD Student"
 ref: "cchaiban"
 since: "2015"
-title: celia chaiban
+title: "Celia Chaiban"
 ---
 
 ## PhD project
