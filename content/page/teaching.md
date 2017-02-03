@@ -12,7 +12,7 @@ General course on the use of statistics (parametric, non parametric, multivariat
 
 This course follows the introductory course to data collection and analysis in the form of a succession of seminars where students work in group in the in-depth analysis of a series of data sets.
 
-#### [INFO-L401 M. Gilbert Logiciels d'analyse de données en santé -  School of Public Health. MSc in Public Health Sciences.](http://banssbfr.ulb.ac.be/PROD_frFR/bzscrse.p_disp_course_detail?cat_term_in=201516&subj_code_in=INFO&crse_numb_in=L401&PPAGE=ESC_PROGCAT_AREREQ&PPROGCODE=MA-SAPU&PAREA=M-SAPUB&PARETERM=201516&PTERM=201516)
+#### [INFO-L401 F. Kirakoya & M. Gilbert Logiciels d'analyse de données en santé -  School of Public Health. MSc in Public Health Sciences.](http://banssbfr.ulb.ac.be/PROD_frFR/bzscrse.p_disp_course_detail?cat_term_in=201516&subj_code_in=INFO&crse_numb_in=L401&PPAGE=ESC_PROGCAT_AREREQ&PPROGCODE=MA-SAPU&PAREA=M-SAPUB&PARETERM=201516&PTERM=201516)
 
 This course is part of the [MSc in Public Health Sciences](http://banssbfr.ulb.ac.be/PROD_frFR/bzscrse.p_disp_prog_detail?term_in=201516&prog_in=MA-SAPU&lang=FRENCH) and our contribution to the course focus on the use of the GIS software Quantum GIS for the visalisation of health data.
 
