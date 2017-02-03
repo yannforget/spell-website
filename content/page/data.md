@@ -4,7 +4,7 @@ title: Data
 
 Many papers have accompagnying data set that will be published in this page. The links are not yet active, but these should be added as soon as the individual data sets are published on data-sharing repositories.
 
-## 1. Epidemiology
+### 1. Epidemiology
 ***
 
 **Dhingra MS, J Artois, TP Robinson, C Linard, C Chaiban, I Xenarios, R Engler, R Liechti, D Kuznetsov, X Xiao, S Von Dobschuetz, F Claes, SH Newman, G Dauphin, M Gilbert  2016 Global suitability maps for highly pathogenic avian influenza (HPAI) H5N1 and H5 clade 2.3.4.4 viruses. eLife 5:e19571 [doi:10.7554/eLife.19571](https://elifesciences.org/content/5/e19571)**
@@ -22,7 +22,7 @@ Many papers have accompagnying data set that will be published in this page. The
 * Suitability model for H7N9 infection per market (Asia extent, geographic projection, 0.083333 decimal degrees resolution)
 
 
-## 2. Livestock
+### 2. Livestock
 ***
 
 #### Gilbert M, G Conchedda, T Van Boeckel, G Cinardi, C Linard, G Nicolas, W Thanapongtharm, L D'Aietti, W Wint, S Newman, T Robinson (2015) Income disparities and the global distribution of intensively farmed chicken and pigs. *Plos ONE* 10(7): e0133381 [doi 10.1371/journal.pone.0133381](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133381)
@@ -41,7 +41,7 @@ Many papers have accompagnying data set that will be published in this page. The
 * Global distribution of **sheep** in 2006 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global distribution of **goats** in 2006 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 
-## 3. Human population
+### 3. Human population
 ***
 
 All human population data sets to which we contributed are distributed through the [Worldpop](http://www.worldpop.org.uk) web platform.
