@@ -4,15 +4,15 @@ title: Data
 
 Many papers have accompagnying data set that will be published in this page. The links are not yet active, but these should be added as soon as the individual data sets are published on data-sharing repositories.
 
-### 1. Epidemiology
+## 1. Epidemiology
 
-#### Dhingra MS, J Artois, TP Robinson, C Linard, C Chaiban, I Xenarios, R Engler, R Liechti, D Kuznetsov, X Xiao, S Von Dobschuetz, F Claes, SH Newman, G Dauphin, M Gilbert  2016 Global suitability maps for highly pathogenic avian influenza (HPAI) H5N1 and H5 clade 2.3.4.4 viruses. eLife 5:e19571 [doi:10.7554/eLife.19571](https://elifesciences.org/content/5/e19571)
+**Dhingra MS, J Artois, TP Robinson, C Linard, C Chaiban, I Xenarios, R Engler, R Liechti, D Kuznetsov, X Xiao, S Von Dobschuetz, F Claes, SH Newman, G Dauphin, M Gilbert  2016 Global suitability maps for highly pathogenic avian influenza (HPAI) H5N1 and H5 clade 2.3.4.4 viruses. eLife 5:e19571 [doi:10.7554/eLife.19571](https://elifesciences.org/content/5/e19571)**
 
 * Global suitability model for HPAI H5N1 (Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global suitability model for HPAI H5Nx clade 2.3.4.4 viruses (Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global distribution of ducks in 2010 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 
-#### Van Boeckel T, C Brower, M Gilbert, B Grenfell, S Levin, T Robinson, A Teillant, R Laxminarayan (2015) Global trends in antimicrobial use in food animals. *PNAS* 112(18):5649-5654 [doi: 10.1073/pnas.1503141112](http://www.pnas.org/content/112/18/5649.abstract)
+### Van Boeckel T, C Brower, M Gilbert, B Grenfell, S Levin, T Robinson, A Teillant, R Laxminarayan (2015) Global trends in antimicrobial use in food animals. *PNAS* 112(18):5649-5654 [doi: 10.1073/pnas.1503141112](http://www.pnas.org/content/112/18/5649.abstract)
 
 * Global antimicrobial consumption in food animals (kg / pixel,  geographic projection, 0.083333 decimal degrees resolution)
 
