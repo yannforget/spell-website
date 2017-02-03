@@ -5,7 +5,9 @@ title: Teaching
 #### [BING-F4002 M. Gilbert & M. Dufrêne. Acquisition et analyse de données 5 ECTS - Faculty of Sciences, MSc in Biology, MSc in Bioengineering](http://banssbfr.ulb.ac.be/PROD_frFR/bzscrse.p_disp_course_detail?cat_term_in=201617&subj_code_in=BING&crse_numb_in=F4002&PPAGE=ESC_PROGCAT_AREREQ&PPROGCODE=MA-IRBA&PAREA=M-IRBAS&PARETERM=201516&PTERM=201617)
 
 General course on the use of statistics (parametric, non parametric, multivariate) in the analysis of data, with a strong focus on practice of data analysis with R and Rstudio. 
-
+ 
+ 
+ 
 #### [BING-F535 M. Gilbert & M. Dufrêne. Séminaires d'analyse de données. - Faculty of Sciences, MSc in Biology, MSc in Bioengineering](http://banssbfr.ulb.ac.be/PROD_frFR/bzscrse.p_disp_course_detail?cat_term_in=201617&subj_code_in=BING&crse_numb_in=F535&PPAGE=ESC_PROGCAT_AREREQ&PPROGCODE=MA-IRBA&PAREA=M-IRBAS&PARETERM=201516&PTERM=201617)
 
 This course follows the introductory course to data collection and analysis in the form of a succession of seminars where students work in group in the in-depth analysis of a series of data sets.
