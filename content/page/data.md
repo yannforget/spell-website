@@ -12,13 +12,13 @@ Many papers have accompagnying data set that will be published in this page. The
 * Global suitability model for HPAI H5Nx clade 2.3.4.4 viruses (Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global distribution of ducks in 2010 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 
-### Van Boeckel T, C Brower, M Gilbert, B Grenfell, S Levin, T Robinson, A Teillant, R Laxminarayan (2015) Global trends in antimicrobial use in food animals. *PNAS* 112(18):5649-5654 [doi: 10.1073/pnas.1503141112](http://www.pnas.org/content/112/18/5649.abstract)
+#### Van Boeckel T, C Brower, M Gilbert, B Grenfell, S Levin, T Robinson, A Teillant, R Laxminarayan (2015) Global trends in antimicrobial use in food animals. *PNAS* 112(18):5649-5654 [doi: 10.1073/pnas.1503141112](http://www.pnas.org/content/112/18/5649.abstract)
 
 * Global antimicrobial consumption in food animals (kg / pixel,  geographic projection, 0.083333 decimal degrees resolution)
 
 #### Gilbert, M., N Golding, H Zhou, W. Wint, T. P. Robinson, A. J. Tatem, S Lai, S. Zhou, H Jiang, D Guo, Z Huang, J. P. Messina, X. Xiao, C. Linard, T. P. Van Boeckel, V. Martin, S. Bhatt, P. W. Gething, J. J. Farrar, S. I. Hay, H Yu. (2014) Predicting market risk of influenza A (H7N9) in Asia. *Nature Communications* 5:4116 [doi: 10.1038/ncomms5116](http://www.nature.com/articles/ncomms5116)
 
-* Suitability model for H7N9 infection per market (Asia extent, geographic projection, 0.083333 decimal degrees resolution)
+* **Suitability model for H7N9 infection per market (Asia extent, geographic projection, 0.083333 decimal degrees resolution)**
 
 ### 2. Livestock
 
