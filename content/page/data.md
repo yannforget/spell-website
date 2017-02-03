@@ -7,7 +7,7 @@ Many papers have accompagnying data set that will be published in this page. The
 ## 1. Epidemiology
 
 
-**Dhingra MS, J Artois, TP Robinson, C Linard, C Chaiban, I Xenarios, R Engler, R Liechti, D Kuznetsov, X Xiao, S Von Dobschuetz, F Claes, SH Newman, G Dauphin, M Gilbert  2016 Global suitability maps for highly pathogenic avian influenza (HPAI) H5N1 and H5 clade 2.3.4.4 viruses. eLife 5:e19571 [doi:10.7554/eLife.19571](https://elifesciences.org/content/5/e19571) **
+** Dhingra MS, J Artois, TP Robinson, C Linard, C Chaiban, I Xenarios, R Engler, R Liechti, D Kuznetsov, X Xiao, S Von Dobschuetz, F Claes, SH Newman, G Dauphin, M Gilbert  2016 Global suitability maps for highly pathogenic avian influenza (HPAI) H5N1 and H5 clade 2.3.4.4 viruses. eLife 5:e19571 [doi:10.7554/eLife.19571](https://elifesciences.org/content/5/e19571) **
 
 * Global suitability model for HPAI H5N1 (Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global suitability model for HPAI H5Nx clade 2.3.4.4 viruses (Global extent, geographic projection, 0.083333 decimal degrees resolution)
