@@ -20,9 +20,9 @@ Many papers have accompagnying data set that will be published in this page. The
 
 * Suitability model for H7N9 infection per market (Asia extent, geographic projection, 0.083333 decimal degrees resolution)
 
-## 2. Livestock
+### 2. Livestock
 
-### Gilbert M, G Conchedda, T Van Boeckel, G Cinardi, C Linard, G Nicolas, W Thanapongtharm, L D'Aietti, W Wint, S Newman, T Robinson (2015) Income disparities and the global distribution of intensively farmed chicken and pigs. *Plos ONE* 10(7): e0133381 [doi 10.1371/journal.pone.0133381](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133381)
+#### Gilbert M, G Conchedda, T Van Boeckel, G Cinardi, C Linard, G Nicolas, W Thanapongtharm, L D'Aietti, W Wint, S Newman, T Robinson (2015) Income disparities and the global distribution of intensively farmed chicken and pigs. *Plos ONE* 10(7): e0133381 [doi 10.1371/journal.pone.0133381](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133381)
 
 * Global distribution of extensively raised chicken in 2010 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global distribution of intensively raised chicken in 2010 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
@@ -30,7 +30,7 @@ Many papers have accompagnying data set that will be published in this page. The
 * Global distribution of semi-intensively raised pigs in 2010 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global distribution of intensively raised pigs in 2010 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 
-### Robinson, T., W. Wint, T, G. Conchedda, T. P. Van Boeckel, V. Ercoli, E. Palamara, G. Cinardi, L. D’Aietti, & M. Gilbert (2014) Mapping the Global Distribution of Livestock. *PLoS ONE* 9(5): e96084. [doi:10.1371/journal.pone.0096084](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096084)
+#### Robinson, T., W. Wint, T, G. Conchedda, T. P. Van Boeckel, V. Ercoli, E. Palamara, G. Cinardi, L. D’Aietti, & M. Gilbert (2014) Mapping the Global Distribution of Livestock. *PLoS ONE* 9(5): e96084. [doi:10.1371/journal.pone.0096084](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096084)
 
 * Global distribution of cattle in 2006 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global distribution of chicken in 2006 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
@@ -38,7 +38,7 @@ Many papers have accompagnying data set that will be published in this page. The
 * Global distribution of sheep in 2006 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global distribution of goats in 2006 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 
-## 3. Human population
+### 3. Human population
 
 All human population data sets to which we contributed are distributed through the [Worldpop](http://www.worldpop.org.uk) web platform.
 
