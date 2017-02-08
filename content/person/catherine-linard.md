@@ -7,7 +7,7 @@ past: false
 phone: +32-2-650.37.81
 office: UB2.169
 portrait: /images/portraits/clinard.png
-position: Researcher
+position: Post-doc Researcher (ULB) / Lecturer (U. Namur)
 ref: "clinard"
 title: "Catherine Linard"
 interests:
