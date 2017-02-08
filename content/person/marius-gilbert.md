@@ -7,7 +7,7 @@ past: false
 phone: +32-2-650.37.80
 twitter: mariusgilbert
 portrait: /images/portraits/mgilbert-2.jpg
-position: head of the lab., FNRS Senior Research associate
+position: FNRS Senior Research associate
 office: UB2.171
 ref: "mgilbert"
 since: "1940"
@@ -16,7 +16,7 @@ interests: ["Spatial epidemiology", "Emerging zoonoses", "Livestock production s
 weight: -3
 ---
 
-Marius Gilbert graduated in Agricultural and Applied Biological Sciences at the Université Libre de Bruxelles in 1995. He was then a visiting researcher for two years at the department of Zoology, University of Oxford and did a PhD on in insect pest ecology at the ULB in 2001. He then worked on the invasion ecology of several insect pests before moving the focus of his research toward to the spatial epidemiology of animal diseases. Since 2006, he holds a permanent academic position with the Belgian FNRS.
+Marius Gilbert graduated in Agricultural and Applied Biological Sciences at the Université Libre de Bruxelles in 1995. He was then a visiting researcher for two years at the department of Zoology, University of Oxford and did a PhD on in insect pest ecology at the ULB in 2001. He then worked on the invasion ecology of several insect pests before moving the focus of his research toward to the spatial epidemiology of animal diseases. In 2006, he was awarded a permanent academic position with the Belgian FNRS. Since 2015, he's FNRS Senior Research associates and leads the Spatial epidemiology Lab. (SpELL).
 
 ## Research interest
 
