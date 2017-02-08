@@ -4,7 +4,7 @@ firstname: "Catherine"
 lastname: "Linard"
 mail: "linard.catherine@gmail.com"
 past: false
-twitter: CatherineLinard
+twitter: catherineLinard
 phone: +32-2-650.37.81
 office: UB2.169
 portrait: /images/portraits/clinard.png
