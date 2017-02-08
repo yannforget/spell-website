@@ -4,6 +4,7 @@ firstname: "Catherine"
 lastname: "Linard"
 mail: "linard.catherine@gmail.com"
 past: false
+twitter: CatherineLinard
 phone: +32-2-650.37.81
 office: UB2.169
 portrait: /images/portraits/clinard.png
@@ -22,4 +23,4 @@ Catherine Linard graduated in Geographical Sciences at the Université catholiqu
 
 ## Research interests.  
 
-Catherine is interested in integrated approaches to spatial issues in epidemiology. She combines different methods and tools (e.g. Geographical Information Systems, spatial statistics and models, high resolution remote sensing) for a spatial and integrated approach to various disease systems, especially vector-borne and zoonotic diseases (e.g. malaria, dengue, avian influenza). Her current research activities focus on human population distribution predictions, urban expansion models for Africa and the impact of population distribution changes on health and vulnerability. She also produces and updates high-resolution population distribution maps for African countries (WorldPop project: www.worldpop.org.uk).
+Catherine is interested in integrated approaches to spatial issues in epidemiology. She combines different methods and tools (e.g. Geographical Information Systems, spatial statistics and models, high resolution remote sensing) for a spatial and integrated approach to various disease systems, especially vector-borne and zoonotic diseases (e.g. malaria, dengue, avian influenza). Her current research activities focus on human population distribution predictions, urban expansion models for Africa and the impact of population distribution changes on health and vulnerability. She also produces and updates high-resolution population distribution maps for African countries (WorldPop project: [www.worldpop.org.uk](http://www.worldpop.org.uk)).
