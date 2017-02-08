@@ -7,7 +7,7 @@ past: false
 phone: +32-2-650.37.80
 twitter: mariusgilbert
 portrait: /images/portraits/mgilbert-2.jpg
-position: FNRS Senior Research associate
+position: F.R.S.-FNRS Senior Research associate
 office: UB2.171
 ref: "mgilbert"
 since: "1940"
