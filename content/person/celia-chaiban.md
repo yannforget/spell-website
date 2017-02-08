@@ -4,9 +4,9 @@ firstname: "Celia"
 lastname: "Chaiban"
 mail: "celia.chaiban@uclouvain.be"
 past: false
-phone: "+10 47 28 70"
+phone: "+32 10 47 28 70"
 portrait: /images/portraits/cchaiban.png
-position: "PhD Student"
+position: "PhD Student (UCL, ULB co-supervision)"
 ref: "cchaiban"
 since: "2015"
 title: "Celia Chaiban"
