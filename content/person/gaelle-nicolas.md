@@ -24,7 +24,7 @@ Through the understanding of social habits and local practices Gaëlle tries to 
 
 # Ongoing research projects  
 
-* [Mapping Livestock and Livestock]((/project/mapping-people-and-livestock/) 
+* [Mapping Livestock and Livestock](/project/mapping-people-and-livestock/) 
 * Targetted surveillance of the emergence of bovine tuberculosis in Belgian wildlife (WILDTUB)  
 
 # Previous research project  
