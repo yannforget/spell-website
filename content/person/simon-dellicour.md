@@ -12,11 +12,11 @@ title: "Simon Dellicour"
 interests:
   - "Landscape genetics"
   - "Phylogeography"
-weight: -2
+weight: -1
 ---
 
 ## Biographical sketch. 
-Simon did a PhD under the supervision of [Patrick Mardulyn (ULB, EBE)](http://ebe.ulb.ac.be/ebe/Mardulyn.html) and a first post-doc with Oliver Pybus in the Department of Zoology (Univ. Oxford). He's currently a Postdoc with Philippe Lemey (KUL). Simon obtained an FNRS postdoc grant to join our team in 2018.
+Simon did a PhD under the supervision of [Patrick Mardulyn](http://ebe.ulb.ac.be/ebe/Mardulyn.html) (ULB, EBE) and a first post-doc with [Oliver Pybus](http://evolve.zoo.ox.ac.uk/Evolve/Home.html) in the Department of Zoology (Univ. Oxford), and is currently doing a Postdoc in the group of [Philippe Lemey](https://rega.kuleuven.be/cev/ecv) (KUL). Simon obtained an FNRS postdoc grant to join our team in 2018 and currently has a status of scientific collaborator.
 
 ## Research interests. 
 Simon has broad interests in molecular epidemiology, animal/plant/virus phylogeography, population, spatial and landscape genetics. He developped several programs and packages such as [GCALIGNER](http://ebe.ulb.ac.be/ebe/GCAligner.html), [SPADS](http://ebe.ulb.ac.be/ebe/SPADS.html) and [PHYLOGEOSIM](http://ebe.ulb.ac.be/ebe/PhyloGeoSim.html) and [SERAPHIM](http://evolve.zoo.ox.ac.uk/Evolve/Seraphim.html).
