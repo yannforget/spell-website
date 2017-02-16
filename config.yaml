@@ -39,6 +39,10 @@ menu:
       Identifier: "data"
       parent: "ressources"
       URL: "/page/data"
+    - Name: "Access"
+      Weight: 9
+      Identifier: "access"
+      URL: "/page/access"
 
 
 params:
