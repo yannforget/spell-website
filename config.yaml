@@ -42,6 +42,7 @@ menu:
     - Name: "Access"
       Weight: 9
       Identifier: "access"
+      parent: "ressources"
       URL: "/page/access"
 
 
