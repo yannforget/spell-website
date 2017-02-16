@@ -4,11 +4,9 @@ title: Access
 
 #### Physical location
 
+** ULB Campus de la Plaine - Accès 2,  1050 Bruxelles**
+
 We are based in Building NO, level 3 at the campus de la Plaine. Detailed information on how to reach the campus can be found [here](https://www.ulb.ac.be/campus/plaine/plan-en.html)
-
-ULB Campus de la Plaine - Accès 2
-
-1050 Bruxelles
 
 #### By public transport
 
@@ -33,13 +31,10 @@ There is a [Villo](http://en.villo.be) station at the entrance of the campus (St
 
 #### Post address
 
-Spatial Epidemiology lab. (SpeLL)
-
-Université Libre de Bruxelles CP 264/3
-
-av FD Roosevelt, 50
-
-B-1050 Brussels.
+**Spatial Epidemiology lab. (SpeLL),  
+Université Libre de Bruxelles CP 264/3,  
+50 av FD Roosevelt,  
+B-1050 Brussels.**
 
 
 
