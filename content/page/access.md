@@ -17,7 +17,7 @@ Coordinates: [50.820 - 4.397]*
 
 We are based in Building NO, level 3 at the campus de la Plaine. 
 
-![](/images/mapcampus.png)
+![](/images/campusmap.png)
 
 Detailed information on how to reach the campus can be found [here](https://www.ulb.ac.be/campus/plaine/plan-en.html) 
 
