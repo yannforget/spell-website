@@ -13,9 +13,16 @@ B-1050 Brussels.
 
 ULB Campus de la Plaine - Accès 2  
 1050 Brussels  
-*Coordinates: [50.820 - 4.397](https://www.google.be/maps/@50.82,4.397,19z)*
+Coordinates: [50.820 - 4.397]*
 
-We are based in Building NO, level 3 at the campus de la Plaine. Detailed information on how to reach the campus can be found [here](https://www.ulb.ac.be/campus/plaine/plan-en.html)  
+We are based in Building NO, level 3 at the campus de la Plaine. 
+
+![](/images/mapcampus.png)
+
+Detailed information on how to reach the campus can be found [here](https://www.ulb.ac.be/campus/plaine/plan-en.html) 
+
+A Google map centered on our building can be found [here](https://www.google.be/maps/@50.82,4.397,19z)   
+
 
 ### Reaching us by public transport
 
