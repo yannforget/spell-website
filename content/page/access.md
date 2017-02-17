@@ -4,18 +4,17 @@ title: Contact & access
 
 ### Post address
 
-Spatial Epidemiology lab. (SpeLL),  
-Université Libre de Bruxelles CP 264/3,  
+Spatial Epidemiology lab. (SpeLL) CP 264/3, 
+Université Libre de Bruxelles,  
 50 av FD Roosevelt,  
-B-1050 Brussels.  
+B-1050 Brussels, BE  
 
 ### Physical location
 
+**Building NO, level 3**
 ULB Campus de la Plaine - Accès 2  
 1050 Brussels  
-Coordinates: [50.820 - 4.397]*
-
-We are based in Building NO, level 3 at the campus de la Plaine. 
+Coordinates: [50.820 - 4.397](https://www.google.be/maps/@50.82,4.397,19z)  
 
 ![](/images/campusmap.png)
 
@@ -41,7 +40,7 @@ A Google map centered on our building can be found [here](https://www.google.be/
 
 ### Reaching us by bike
 
-There is a [Villo](http://en.villo.be) station at the entrance of the campus (Station no 116 ULB PLAINE)
+* There is a [Villo](http://en.villo.be) station at the entrance of the campus (**Station no 116 ULB PLAINE**)
 
 
 
