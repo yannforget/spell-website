@@ -11,6 +11,7 @@ B-1050 Brussels, BE
 
 ### Physical location
 
+**Offices 210 - 215 (corridor O)**
 **Building NO, level 3**  
 ULB Campus de la Plaine - Accès 2  
 1050 Brussels  
@@ -27,7 +28,7 @@ A Google map centered on our building can be found [here](https://www.google.be/
 
 * From Brussels Central station
     + Bus 71 (direction Delta, stop Fraiteur)
-    + Metro 5 (direction Hermann-Debroux, stop Delta)
+    + Metro 5 (direction Hermann-Debroux, stop Delta)  
  
 * From Bruxelles-Midi station
     + Metro 2 ou 6 (direction Elisabeth, stop Porte de Namur) then bus 71 (direction Delta, stop Fraiteur)
