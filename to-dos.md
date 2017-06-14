@@ -7,6 +7,6 @@
 - [ ] Add content to the Resource / data section (MG)
 - [ ] Add content to the Resource / teaching (MG)
 - [ ] Change the format reference to a more standard display (authors, year, title, source) (YF)
-
+- [ ] Change the CP to 264/03 in the bottom part of the web site
 
 
