@@ -5,7 +5,7 @@ lastname: "Linard"
 mail: "linard.catherine@gmail.com"
 past: false
 twitter: catherineLinard
-phone: +32-2-650.37.81
+phone: +32-2-650.56.18
 office: UB2.169
 portrait: /images/portraits/clinard.png
 position: Post-doc Researcher (ULB) / Lecturer (U. Namur)
