@@ -4,7 +4,7 @@ firstname: "Gaëlle"
 lastname: "Nicolas"
 mail: "gaelle.nicolas6@gmail.com"
 past: false
-phone: +32-2-650.37.81
+phone: +32-2-650.56.18
 portrait: /images/portraits/gnicolas.png
 position: Post-doctoral researcher
 ref: "gnicolas"
