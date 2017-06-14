@@ -4,7 +4,7 @@ firstname: "Jean"
 lastname: "Artois"
 mail: "Jean.Artois@ulb.ac.be"
 past: false
-phone: +32-2-650.32.18
+phone: +32-2-650.58.09
 office: UB2.167
 portrait: /images/portraits/jartois.png
 position: "PhD Student"
