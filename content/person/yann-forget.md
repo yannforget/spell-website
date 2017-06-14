@@ -4,7 +4,7 @@ firstname: "Yann"
 lastname: "Forget"
 mail: "forget.yann31@gmail.com"
 past: false
-phone: +32-2-650.37.81
+phone: +32-2-650.32.18
 portrait: /images/portraits/yforget.png
 position: "PhD Student"
 ref: "yforget"
