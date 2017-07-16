@@ -11,7 +11,7 @@
     </div>
 
     <div class="col-md-12">
-      {{ range where .Data.Pages ".Params.endyear" "ge" (int ($.Now.Format "2006")) }}
+      {{ range where .Data.Pages ".Params.endyear" "ge" (int (now.Format "2006")) }}
       <p>
         {{ if .Content }} <a href="{{ .Permalink }}"> {{ end }}
           <strong>{{ if .Params.acronym }}{{ .Params.acronym }}: {{ end }}
@@ -30,7 +30,7 @@
     </div>
 
     <div class="col-md-12">
-      {{ range where .Data.Pages ".Params.endyear" "lt" (int ($.Now.Format "2006")) }}
+      {{ range where .Data.Pages ".Params.endyear" "lt" (int (now.Format "2006")) }}
       <p>
         {{ if .Content }} <a href="{{ .Permalink }}"> {{ end }}
           <strong>{{ if .Params.acronym }}{{ .Params.acronym }}: {{ end }}

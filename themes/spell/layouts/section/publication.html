@@ -18,7 +18,7 @@
       <h3>{{ .Key }}</h3>
       {{ end }}
 
-      {{ range (where (where .Pages "Params.labpublication" true) ".Params.year" "gt" 2004) }}
+      {{ range (where (where .Pages ".Params.labpublication" true) ".Params.year" "gt" 2004) }}
 
       <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}{{ .Title }}{{ end }}<br>
 
@@ -29,7 +29,7 @@
         {{ range $index, $element := .Params.authorship }}
         {{ $.Scratch.Set "author" . }}
         {{ $.Scratch.Set "team" false }}
-        {{ range $.Site.Sections.person.Pages }}
+        {{ range where $.Site.RegularPages ".Section" "person" }}
         {{ if in ($.Scratch.Get "author") .Params.lastname }} {{ $.Scratch.Set "team" true }} {{ end }}
         {{ end }}
 

@@ -16,7 +16,7 @@
       <h1 class="page-header">Related publications</h1>
       {{ $.Scratch.Set "projectref" .Params.ref }}
       <!-- Iterate over publication data and check if there is an authored paper -->
-      {{ range sort .Site.Sections.publication.Pages "Params.year" "desc" }}
+      {{ range ((where .Site.RegularPages ".Section" "publication").ByParam "year").Reverse }}
 
       <!-- Show reference if authored articles -->
       {{ if in .Params.keyword ($.Scratch.Get "projectref") }}

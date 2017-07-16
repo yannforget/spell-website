@@ -29,7 +29,7 @@
   </div>
 
   <div class="col-md-12">
-  {{ range first 3 $.Site.Sections.news.Pages }}
+  {{ range first 3 ( where .Site.RegularPages ".Section" "news" ) }}
 
     <p>
       <a href="{{ .Permalink }}"><h3>{{ .Title }}</h1></a>
@@ -51,7 +51,7 @@
     </div>
   </div>
 
-  {{ range $index, $page := .Site.Sections.subject.Pages }}
+  {{ range $index, $page := where .Site.RegularPages ".Section" "subject" }}
 
   <div class="row row-eq-height row-topic">
 
