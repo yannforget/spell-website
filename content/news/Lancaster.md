@@ -1,6 +1,6 @@
 ---
 author: "Marius Gilbert"
-date: 2017-07-1T18:34:44+02:00
+date: 2017-07-01T18:34:44+02:00
 title: "Spatial Statistics 2017 conference in Lancaster (UK)"
 ---
 Three members of the lab attended the [Spatial Statistics 2017]
