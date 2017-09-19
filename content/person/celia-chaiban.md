@@ -13,6 +13,6 @@ title: "Celia Chaiban"
 ---
 
 ## PhD project
-Celia is a PhD student based at UCL under the supervision of Sophie Vanwambeke, co-supervised by M. Gilbert at SpELL. Her thesis deals with the development of farm distribution models that could translate aggregated statistics on livestock numbers per census unit into spatially-realistic distribution of individual farms. Her investigations are carried out along a gradient of intensification with analyses carried out with data from Kenya, Thailand, and Belgium. This allows better understanding of the factors influencing farms distributions, and better and more realistic distribution data at the farm level will help environmental and epidemiological impact assessments.
+Celia is a PhD student based at UCL under the supervision of Sophie Vanwambeke, co-supervised by M. Gilbert at SpELL. Her thesis deals with the development of farm distribution models that could translate aggregated statistics on livestock numbers per census unit into spatially-realistic distribution of individual farms. Her investigations are carried out along a gradient of intensification with analyses carried out with data from Kenya, Thailand, and Belgium. This allows better understanding of the factors influencing farms distributions. Better and more realistic distribution data at the farm level will help environmental and epidemiological impact assessments.
 
 
