@@ -4,8 +4,7 @@ date: 2017-09-29T18:34:44+02:00
 title: "A new paper in Science on antimicrobial consumption in food animals"
 ---
 
-In this paper, published in **Science** today, we conducted a first global assessment of different intervention 
-policies that could help limit the projected increase of antimicrobial use in food production. The paper is lead by [Thomas Van Boeckel](https://sites.google.com/site/thvanboeckel/home) a former member of the lab, now at ETH Zurich.
+In this paper, published in [Science](http://science.sciencemag.org/content/357/6358/1350.full) today, we conducted a first global assessment of different intervention policies that could help limit the projected increase of antimicrobial use in food production. The paper is lead by [Thomas Van Boeckel](https://sites.google.com/site/thvanboeckel/home) a former member of the lab, now at ETH Zurich, and was carried out in collaboration with researchers from FAO, Princeton university and CDDEP.
 
 The paper reports that worldwide antimicrobial consumption is expected to rise by a staggering 52% and reach 200,000 tonnes in 2030 barring any actions. This is an alarming revision from already pessimistic estimates that was published in [PNAS in 2010](http://www.pnas.org/content/112/18/5649.abstract), pushed up mostly by recent reports of high antimicrobial use in animals in China. 
 
