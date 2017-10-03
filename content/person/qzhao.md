@@ -11,8 +11,7 @@ position: "PhD Student"
 ref: "qzhao"
 title: "Qingyou Zhao"
 interests:
-  - "Spatial epidemiology"
-  - "Influenza"
+  - "Livestock distribution"
   - "Spatial modelling"
 ---
 
