@@ -1,5 +1,5 @@
 ---
-date: 2016-07-23T19:29:14+02:00
+date: 2015-10-03
 firstname: "Jean-Claude"
 lastname: "Grégoire"
 mail: "jcgregoi@ulb.ac.be"
