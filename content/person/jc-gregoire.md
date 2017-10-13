@@ -40,9 +40,9 @@ A second field of interest for me is pest risk assessment. I am a member of EFSA
 
 ### Current  
 
-* [2017-2018 –Recherche dans le cadre du réseau d'observatoire de la santé des forêts](http://owsf.environnement.wallonie.be/fr/index.html?IDC=5636) *Funded by the Walloon Region*  
-* 2016-2017 –XYLERIS (Study on *Xylella fastidiosa* plant hosts and vectors in Belgium and the influence of specific plant growth conditions on disease development) (with UCL, Louvain-la-Neuve, and ILVO, Merelbeke) *Funded by the Federal Public Service Health, Food Chain Safety and Environment*  
-* 2015-2017 - FUNGIFOR (Phytosanitary status of 8 fungi (+ 1 insect vector) infecting trees in Belgium: survey and evaluation of the risk of establishment) (with CRAW, Gembloux, and PCS, Destelbergen). *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
+* [2017-2018 – Recherche dans le cadre du réseau d'observatoire de la santé des forêts](http://owsf.environnement.wallonie.be/fr/index.html?IDC=5636) *Funded by the Walloon Region*  
+* 2016-2017 – XYLERIS (Study on *Xylella fastidiosa* plant hosts and vectors in Belgium and the influence of specific plant growth conditions on disease development) (with UCL, Louvain-la-Neuve, and ILVO, Merelbeke) *Funded by the Federal Public Service Health, Food Chain Safety and Environment*  
+* 2015-2017 - [FUNGIFOR](/project/fungiform) (Phytosanitary status of 8 fungi (+ 1 insect vector) infecting trees in Belgium: survey and evaluation of the risk of establishment) (with CRAW, Gembloux, and PCS, Destelbergen). *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
  
 ### Past projecst and networks (2010-2017)  
 
