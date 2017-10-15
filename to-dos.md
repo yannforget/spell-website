@@ -8,5 +8,5 @@
 - [x] Add content to the Resource / teaching (MG)
 - [ ] Change the format reference to a more standard display (authors, year, title, source) (YF)
 - [x] Change the CP to 264/03 in the bottom part of the web site
-- [ ] Team layout: fix cards alignment (YF)
+- [ ] Team layout: fix cards alignment (YF)
 - [ ] Team layout: display past team members somewhere (YF)
