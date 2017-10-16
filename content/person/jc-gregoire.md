@@ -13,6 +13,7 @@ ref: "jcgregoi"
 since: "1940"
 title: "Jean-Claude Grégoire"
 interests: ["ecology", "forest insect","invasion ecology"]
+weight: -2
 ---
 
 Jean-Claude graduated in Agricultural sciences and Forestry at the (at the time) Faculté des Sciences agronomiques de Gembloux, and his PhD at ULB was in forest entomology. He was a research associate at F.R.S. -  FNRS, then became a professor at ULB. He is now retired but keeps a few things going on.
