@@ -30,7 +30,7 @@ A second field of interest for me is pest risk assessment. I am a member of EFSA
 
 ## Teaching
 
- - [An introduction to earth and agricultural sciences](http://banssbfr.ulb.ac.be/PROD_frFR/bzscrse.p_disp_course_detail) (J.-C. Grégoire, P. Régnier, BING-F-1001)
+ - [An introduction to earth and agricultural sciences](http://banssbfr.ulb.ac.be/PROD_frFR/bzscrse.p_disp_course_detail?cat_term_in=201718&subj_code_in=BING&crse_numb_in=F1001&PPAGE=ESC_PROGCAT_AREREQ&PPROGCODE=BA-IRBI&PAREA=B1-IRBI&PARETERM=201516&PTERM=201718) (J.-C. Grégoire, P. Régnier, BING-F-1001)
  
 ## Networks
 
