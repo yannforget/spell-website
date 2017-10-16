@@ -1,5 +1,5 @@
 ---
-name: "Study on *Xylella fastidiosa* plant hosts and vectors in Belgium and the influence of specific plant growth conditions on disease development"
+name: "Study on Xylella fastidiosa plant hosts and vectors in Belgium and the influence of specific plant growth conditions on disease development"
 acronym: Xyleris
 funder: "Federal Public Service Health, Food Chain Safety and Environment"
 startYear: 2016
