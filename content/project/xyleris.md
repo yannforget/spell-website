@@ -3,7 +3,7 @@ name: "Study on Xylella fastidiosa plant hosts and vectors in Belgium and the in
 acronym: Xyleris
 funder: "Federal Public Service Health, Food Chain Safety and Environment"
 startYear: 2016
-endYear: 2017
+endYear: 2018
 ref: xyleris
 ---
 
