@@ -3,7 +3,7 @@ name: "Phytosanitary status of 8 fungi (+ 1 insect vector) infecting trees in Be
 acronym: Fungifor
 funder: "Federal Public Service Health, Food Chain Safety and Environment"
 startYear: 2015
-endYear: 2017
+endYear: 2018
 ref: fungifor
 ---
 
