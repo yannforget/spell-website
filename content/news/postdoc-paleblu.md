@@ -4,7 +4,7 @@ date: 2018-02-12T18:34:44+02:00
 title: "New 2-years PostDoc announcement in disease spread modelling"
 ---
 
-A 2-year post-doc position is now opened with us to work on spatial epidemics and phylogeographic models applied to Bluetongue. 
+### A 2-year post-doc position is now opened with us to work on spatial epidemics and phylogeographic models applied to Bluetongue. 
 
 ### Description
 Several factors can contribute to the spread of animal diseases their relative effect can be difficult to disentangle. In this project, 
@@ -21,7 +21,7 @@ will be supervised by [M. Gilbert](/person/marius-gilbert) and [S. Dellicour](/p
 The candidate should hold a Ph.D. in quantitative ecology, quantitative geography, mathematical modelling or biostatistics, should have a strong interest in ecology and epidemiology, and should have demonstrated computational, communication and writing skills (English). Eligible candidates should not have been working in Belgium for more than one year in the last three years.
 
 ### Application. 
-Applications should include a cover letter, a curriculum vitae, PDFs of the 3 most representative publications, and a list of three references with email contact information. Applications should be submitted before the 10th March 2018
+Applications should include a cover letter, a curriculum vitae, PDFs of the 3 most representative publications, and a list of three references with email contact information. Applications should be submitted before the **10th March 2018**
 
 
 ### Contact. 
