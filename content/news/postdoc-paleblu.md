@@ -21,7 +21,7 @@ will be supervised by [M. Gilbert](/person/marius-gilbert) and [S. Dellicour](/p
 The candidate should hold a Ph.D. in quantitative ecology, quantitative geography, mathematical modelling or biostatistics, should have a strong interest in ecology and epidemiology, and should have demonstrated computational, communication and writing skills (English). Eligible candidates should not have been working in Belgium for more than one year in the last three years.
 
 ### Application. 
-Applications should include a cover letter, a curriculum vitae, PDFs of the 3 most representative publications, and a list of three references with email contact information. Applications should be submitted before the **10th March 2018**
+Applications should include a cover letter, a curriculum vitae, PDFs of the 3 most representative publications, and a list of three references with email contact information. Applications are open until filled. 
 
 
 ### Contact. 
