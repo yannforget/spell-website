@@ -1,0 +1,20 @@
+language: python
+
+python:
+  - 3.6
+
+install:
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.40.1/hugo_0.40.1_Linux-64bit.deb
+  - sudo dpkg -i hugo*.deb
+  - rm -rf public || exit 0
+
+script:
+  - python zotero/update.py && hugo -b https://yannforget.github.io/spell-website
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: public
+  on:
+branch: master
