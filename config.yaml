@@ -1,9 +1,11 @@
 ---
-baseurl: "http://spell.ulb.be"
+baseurl: "http://spell.ulb.be/"
 title: "Spatial Epidemiology Lab"
 languageCode: "en-us"
 config: "config.yaml"
 metaDataFormat: "yaml"
+relativeURLs: true
+canonifyURLs: true
 
 theme: "spell"
 

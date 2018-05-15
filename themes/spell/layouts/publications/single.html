@@ -1,0 +1,208 @@
+{{ partial "header.html" . }} {{ partial "nav.html" . }}
+
+<!-- Page content -->
+<div class="container">
+
+    <div class="row publications">
+
+        <div class="col-md-12">
+
+            <div class="row">
+                <h1 class="page-header">{{ .Title }}</h1>
+            </div>
+
+            <div class="row reference-type">
+
+                <button type="button" class="btn" onclick='displayPub("journalArticle")'>Journal articles</button>
+                <button type="button" class="btn" onclick='displayPub("conferencePaper")'>Conference papers</button>
+                <button type="button" class="btn" onclick='displayPub("bookSection")'>Book chapters</button>
+                <button type="button" class="btn" onclick='displayPub("thesis")'>Theses</button>
+
+            </div>
+
+            <!-- Journal articles -->
+
+            <div class="row journalArticle">
+
+                <h2>Journal articles</h2>
+
+            {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
+
+                {{ if eq .itemType "journalArticle" }}{{ if eq .external false }}
+
+                <p class="reference">
+
+                    {{ if .doi }}
+                    <a href="https://dx.doi.org/{{ .doi }}">{{ .publicationTitle }}</a><br>
+                    {{ else }}
+                    {{ .publicationTitle }}.<br>
+                    {{ end }}
+
+                    {{ delimit .publicationAuthors ", " ", and " }}.<br>
+
+                    <em>"{{ .journal }}"</em>,
+
+                    {{ if .volume }}Vol. {{ .volume }},{{ end }}
+                    {{ if .issue }}Issue {{ .issue }},{{ end }}
+                    {{ if .pages }}Pages {{ .pages }},{{ end }}
+                    <strong>{{ .publicationYear }}</strong>.
+                </p>
+
+                {{ end }}{{ end }}
+
+            {{ end }}
+
+            </div>
+
+            <!-- Conference Papers -->
+
+            <div class="row conferencePaper">
+
+                <h2>Conference papers</h2>
+
+            {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
+
+                {{ if eq .itemType "conferencePaper" }}{{ if eq .external false }}
+
+                <p class="reference">
+
+                    {{ if .doi }}
+                    <a href="https://dx.doi.org/{{ .doi }}">{{ .publicationTitle }}</a><br>
+                    {{ else }}
+                    {{ .publicationTitle }}.<br>
+                    {{ end }}
+
+                    {{ delimit .publicationAuthors ", " ", and " }}.<br>
+
+                    <em>"{{ .conferenceName }}"</em>,
+
+                    {{ if .place }}{{ .place }}.{{ end }}
+                    <strong>{{ .publicationYear }}</strong>.
+
+                </p>
+
+                {{ end }}{{ end }}
+
+            {{ end }}
+        
+            </div>
+
+            <!-- Book Sections -->
+            <div class="row bookSection">
+
+                <h2>Book chapters</h2>
+
+            {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
+
+                {{ if eq .itemType "bookSection" }}{{ if eq .external false }}
+
+                <p class="reference">
+
+                    {{ if .publicationUrl }}
+                    <a href="{{ .publicationUrl }}">{{ .publicationTitle }}</a><br>
+                    {{ else }}
+                    {{ .publicationTitle }}.<br>
+                    {{ end }}
+    
+                    {{ delimit .publicationAuthors ", " ", and " }}.<br>
+
+                    {{ if .journal }}In <em>"{{ .journal }}"</em>,{{ end }}
+                    
+
+                    {{ if .publisher }}{{ .publisher }},{{ end }}
+                    {{ if .place }}{{ .place }},{{ end }}
+                    {{ if .pages }}Pages {{ .pages }}.{{ end }}
+                    
+                    <strong>{{ .publicationYear }}</strong>.
+
+                </p>
+
+                {{ end }}{{ end }}
+
+            {{ end }}
+        
+            </div>
+
+            <!-- Theses -->
+            <div class="row thesis">
+
+                <h2>PhD and MSc theses</h2>
+
+            {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
+
+                {{ if eq .itemType "thesis" }}{{ if .thesisType }}{{ if eq .external false }}
+
+
+
+                <p class="reference">
+
+                    {{ if .publicationUrl }}
+                    <a href="{{ .publicationUrl }}">{{ .publicationTitle }}</a><br>
+                    {{ else }}
+                    <em>"{{ .publicationTitle }}"</em>.<br>
+                    {{ end }}
+
+                    {{ delimit .publicationAuthors ", " ", and " }}.<br>
+
+                    {{ .thesisType }} thesis, Université Libre de Bruxelles.
+                    <strong>{{ .publicationYear }}</strong>.
+
+                {{ end }}{{ end }}{{ end }}
+
+            {{ end }}
+        
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+<script>
+
+    /* Underline author names when they are part of the lab (with mark.js) */
+
+    var names = [
+        "M. Gilbert",
+        "J. Artois",
+        "J.-C. Grégoire",
+        "C. Linard",
+        "C. Chaiban",
+        "C. Tisseuil",
+        "M. Dhingra",
+        "Q. Zhao",
+        "S. Dellicour",
+        "W. Thanapongtharm",
+        "Y. Forget",
+    ]
+
+    function underlineAuthors (names) {
+        var instance = new Mark(document.querySelector("div.publications"));
+        instance.mark(names, {
+            "element": "span",
+            "className": "highlight",
+            "separateWordSearch": false,
+        });
+    };
+
+    underlineAuthors(names);
+
+    /* Show/Hide references types */
+
+    function displayPub (main_pub_type) {
+        var all_pub_types = ["journalArticle", "conferencePaper", "thesis", "bookSection"];
+        for (i = 0; i < all_pub_types.length; i++) {
+            var pub_type = all_pub_types[i];
+            if (pub_type == main_pub_type) {
+                console.log("." + pub_type+ "(Show)");
+                $("." + pub_type).show();
+            } else {
+                console.log("." + pub_type + "(Hide)");
+                $("." + pub_type).hide();
+            };
+        };
+    };
+
+</script>
+
+{{ partial "footer.html" . }}
