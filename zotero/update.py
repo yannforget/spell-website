@@ -170,7 +170,8 @@ def update(zotero_dir, destination):
 
 
 if __name__ == '__main__':
-    ZOTERO_DIR = os.path.abspath(os.path.dirname(__file__))
-    DESTINATION = os.path.join(
-        ZOTERO_DIR, '..', 'data', 'publications', 'references.json')
-    update(ZOTERO_DIR, DESTINATION)
+    zotero_dir = os.path.abspath(os.path.dirname(__file__))
+    dst_dir = os.path.join(zotero_dir, '..', 'data', 'publications')
+    os.makedirs(dst_dir, exist_ok=True)
+    destination = os.path.join(dst_dir, 'references.json')
+    update(zotero_dir, destination)
