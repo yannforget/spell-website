@@ -2,6 +2,7 @@
 date: 2017-07-22T19:33:45+02:00
 firstname: "Jean"
 lastname: "Artois"
+abbrv: "J. Artois"
 mail: "Jean.Artois@ulb.ac.be"
 past: false
 phone: +32-2-650.58.09

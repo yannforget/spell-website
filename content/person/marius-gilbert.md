@@ -2,6 +2,7 @@
 date: 2016-07-23T19:29:14+02:00
 firstname: "Marius"
 lastname: "Gilbert"
+abbrv: "M. Gilbert"
 mail: "mgilbert@ulb.ac.be"
 past: false
 phone: +32-2-650.37.80

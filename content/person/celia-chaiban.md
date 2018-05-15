@@ -2,6 +2,7 @@
 date: 2016-10-23T19:36:23+02:00
 firstname: "Celia"
 lastname: "Chaiban"
+abbrv: "C. Chaiban"
 mail: "celia.chaiban@uclouvain.be"
 past: false
 phone: "+32 10 47 28 70"

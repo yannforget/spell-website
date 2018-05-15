@@ -2,6 +2,7 @@
 date: 2017-07-23T19:35:33+02:00
 firstname: "Madhur"
 lastname: "Dhingra"
+abbrv: "M. Dhingra"
 mail: "mdhingra@ulb.ac.be"
 past: false
 phone: "0015545101"

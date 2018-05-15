@@ -2,6 +2,7 @@
 date: 2015-10-03T19:33:45+02:00
 firstname: "Qingyou"
 lastname: "Zhao"
+abbrv: "Q. Zhao"
 mail: "qingyouzhao16@gmail.com"
 past: false
 phone: +32-2-650.53.32

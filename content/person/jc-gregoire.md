@@ -2,6 +2,7 @@
 date: 2015-10-03
 firstname: "Jean-Claude"
 lastname: "Grégoire"
+abbrv: "J.-C. Grégoire"
 mail: "jcgregoi@ulb.ac.be"
 past: false
 phone: +32-2-650.31.70

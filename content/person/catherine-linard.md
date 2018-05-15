@@ -2,6 +2,7 @@
 date: 2016-07-23T19:30:39+02:00
 firstname: "Catherine"
 lastname: "Linard"
+abbrv: "C. Linard"
 mail: "linard.catherine@gmail.com"
 past: false
 twitter: catherineLinard

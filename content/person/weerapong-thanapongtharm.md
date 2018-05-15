@@ -2,6 +2,7 @@
 date: 2016-07-25T04:07:39+02:00
 firstname: Weerapong
 lastname: Thanapongtharm
+abbrv: "W. Thanapongtharm"
 mail: ""
 past: true
 phone: ""

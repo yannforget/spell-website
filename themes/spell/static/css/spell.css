@@ -132,6 +132,7 @@ body {
 
 #team .page-header {
     margin-bottom: 50px;
+    margin-left: 0px;
 }
 
 #team .img-center {
@@ -287,4 +288,19 @@ footer .address {
 
 footer .container {
     padding: 0;
+}
+
+/* Publications */
+
+.reference .highlight {
+    text-decoration: underline;
+}
+
+.reference-type {
+    margin-bottom: 15px;
+}
+
+.reference-type btn {
+    margin-left: 10px;
+    margin-right: 10px;
 }
