@@ -1,7 +1,5 @@
 {{ partial "header.html" . }} {{ partial "nav.html" . }}
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
-
 <!-- Page content -->
 <div class="container">
 
@@ -30,12 +28,12 @@
 
             {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
 
-                {{ if eq .itemType "journalArticle" }}
+                {{ if eq .itemType "journalArticle" }}{{ if eq .external false }}
 
                 <p class="reference">
 
                     {{ if .doi }}
-                    <a href="dx.doi.org/{{ .doi }}">{{ .publicationTitle }}</a><br>
+                    <a href="https://dx.doi.org/{{ .doi }}">{{ .publicationTitle }}</a><br>
                     {{ else }}
                     {{ .publicationTitle }}.<br>
                     {{ end }}
@@ -50,7 +48,7 @@
                     <strong>{{ .publicationYear }}</strong>.
                 </p>
 
-                {{ end }}
+                {{ end }}{{ end }}
 
             {{ end }}
 
@@ -64,12 +62,12 @@
 
             {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
 
-                {{ if eq .itemType "conferencePaper" }}
+                {{ if eq .itemType "conferencePaper" }}{{ if eq .external false }}
 
                 <p class="reference">
 
                     {{ if .doi }}
-                    <a href="dx.doi.org/{{ .doi }}">{{ .publicationTitle }}</a><br>
+                    <a href="https://dx.doi.org/{{ .doi }}">{{ .publicationTitle }}</a><br>
                     {{ else }}
                     {{ .publicationTitle }}.<br>
                     {{ end }}
@@ -83,7 +81,7 @@
 
                 </p>
 
-                {{ end }}
+                {{ end }}{{ end }}
 
             {{ end }}
         
@@ -96,7 +94,7 @@
 
             {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
 
-                {{ if eq .itemType "bookSection" }}
+                {{ if eq .itemType "bookSection" }}{{ if eq .external false }}
 
                 <p class="reference">
 
@@ -119,7 +117,7 @@
 
                 </p>
 
-                {{ end }}
+                {{ end }}{{ end }}
 
             {{ end }}
         
@@ -132,7 +130,7 @@
 
             {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
 
-                {{ if eq .itemType "thesis" }}{{ if .thesisType }}
+                {{ if eq .itemType "thesis" }}{{ if .thesisType }}{{ if eq .external false }}
 
 
 
@@ -149,7 +147,7 @@
                     {{ .thesisType }} thesis, Université Libre de Bruxelles.
                     <strong>{{ .publicationYear }}</strong>.
 
-                {{ end }}{{ end }}
+                {{ end }}{{ end }}{{ end }}
 
             {{ end }}
         

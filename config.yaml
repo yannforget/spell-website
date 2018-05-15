@@ -24,7 +24,7 @@ menu:
     - Name: "Publications"
       Weight: 5
       Identifier: "publications"
-      URL: "/publication/"
+      URL: "/page/publications"
     - Name: "Ressources"
       Weight: 6
       Identifier: "ressources"

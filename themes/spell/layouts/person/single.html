@@ -54,38 +54,124 @@
 
   <!-- Publications row -->
   <div class="row">
-    <div class="col-lg-12">
+    <div class="col-lg-12 publications">
       <h1>Publications</h1>
 
-      {{ $.Scratch.Set "lastname" .Params.lastname }}
-      
-      {{ range ((where .Site.RegularPages ".Section" "publication").GroupByParam "year").Reverse }}
+      {{ .Scratch.Set "abbrv" .Params.abbrv }}
+      {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
+      {{ if in .publicationAuthors ($.Scratch.Get "abbrv") }}
 
-      {{ $.Scratch.Set "activity" false }}
-      {{ range .Pages }}
-      {{ if in .Params.lastnames ($.Scratch.Get "lastname") }}
-      {{ $.Scratch.Set "activity" true }}
-      {{ end }}
-      {{ end }}
+      {{ if eq .itemType "journalArticle" }}
 
-      {{ if $.Scratch.Get "activity" }}
-      <h3>{{ .Key }}</h3>
-      {{ end }}
+      <p class="reference">
 
-      {{ range .Pages }}
-      {{ if in .Params.lastnames ($.Scratch.Get "lastname") }}
-      <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}<strong>{{ .Title }}</strong>{{ end }}<br>
-        {{ delimit .Params.authorship ", " " and " }}.<br>
-        <em>"{{ .Params.journal }}"</em>, {{ if .Params.volume }}vol. {{ .Params.volume}}, {{ end }}{{if .Params.issue }}issue {{ .Params.issue}}, {{ end }}{{ .Params.year }}.
+          {{ if .doi }}
+          <a href="https://dx.doi.org/{{ .doi }}">{{ .publicationTitle }}</a><br>
+          {{ else }}
+          {{ .publicationTitle }}.<br>
+          {{ end }}
+
+          {{ delimit .publicationAuthors ", " ", and " }}.<br>
+
+          <em>"{{ .journal }}"</em>,
+
+          {{ if .volume }}Vol. {{ .volume }},{{ end }}
+          {{ if .issue }}Issue {{ .issue }},{{ end }}
+          {{ if .pages }}Pages {{ .pages }},{{ end }}
+          <strong>{{ .publicationYear }}</strong>.
       </p>
+
       {{ end }}
+
+      {{ if eq .itemType "conferencePaper" }}
+
+      <p class="reference">
+
+          {{ if .doi }}
+          <a href="https://dx.doi.org/{{ .doi }}">{{ .publicationTitle }}</a><br>
+          {{ else }}
+          {{ .publicationTitle }}.<br>
+          {{ end }}
+
+          {{ delimit .publicationAuthors ", " ", and " }}.<br>
+
+          <em>"{{ .conferenceName }}"</em>,
+
+          {{ if .place }}{{ .place }}.{{ end }}
+          <strong>{{ .publicationYear }}</strong>.
+
+      </p>
+
       {{ end }}
+
+      {{ if eq .itemType "bookSection" }}
+
+      <p class="reference">
+
+          {{ if .publicationUrl }}
+          <a href="{{ .publicationUrl }}">{{ .publicationTitle }}</a><br>
+          {{ else }}
+          {{ .publicationTitle }}.<br>
+          {{ end }}
+
+          {{ delimit .publicationAuthors ", " ", and " }}.<br>
+
+          {{ if .journal }}In <em>"{{ .journal }}"</em>,{{ end }}
+          
+
+          {{ if .publisher }}{{ .publisher }},{{ end }}
+          {{ if .place }}{{ .place }},{{ end }}
+          {{ if .pages }}Pages {{ .pages }}.{{ end }}
+          
+          <strong>{{ .publicationYear }}</strong>.
+
+      </p>
+
       {{ end }}
+
+      {{ if eq .itemType "thesis" }}
+
+      <p class="reference">
+
+          {{ if .publicationUrl }}
+          <a href="{{ .publicationUrl }}">{{ .publicationTitle }}</a><br>
+          {{ else }}
+          <em>"{{ .publicationTitle }}"</em>.<br>
+          {{ end }}
+
+          {{ delimit .publicationAuthors ", " ", and " }}.<br>
+
+          {{ .thesisType }} thesis, Université Libre de Bruxelles.
+          <strong>{{ .publicationYear }}</strong>.
+
+      {{ end }}
+
+      {{ end }}{{ end }}
 
     </div>
 
   </div>
 
 </div>
+
+<script type="text/javascript">
+
+    /* Underline author name in the publication list */
+    var name = {{ .Params.abbrv }}
+
+      /* Underline author names when they are part of the lab (with mark.js) */
+
+    function underlineAuthors (name) {
+        var instance = new Mark(document.querySelector("div.publications"));
+        instance.mark(name, {
+            "element": "span",
+            "className": "highlight",
+            "separateWordSearch": false,
+        });
+    };
+
+    underlineAuthors(name);
+
+</script>
 
 {{ partial "footer.html" . }}
