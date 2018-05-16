@@ -9,7 +9,13 @@ install:
   - rm -rf public || exit 0
 
 script:
-  - python zotero/update.py && hugo -b https://yannforget.github.io/spell-website/
+  - python zotero/update.py
+  - hugo -b https://yannforget.github.io/spell-website/
+
+after_success:
+  - hugo -d site
+  - zip -r site.zip site
+  - mv site.zip public/site.zip
 
 deploy:
   provider: pages
@@ -17,4 +23,4 @@ deploy:
   github_token: $GITHUB_TOKEN
   local_dir: public
   on:
-branch: master
+    branch: master
