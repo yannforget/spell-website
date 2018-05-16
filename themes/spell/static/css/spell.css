@@ -46,7 +46,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background-image: url('images/header.jpg');
+    background-image: url('../images/header.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: scroll;
