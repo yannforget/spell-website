@@ -11,18 +11,9 @@ install:
 
 script:
   - python zotero/update.py
-  - hugo -b https://yannforget.github.io/spell-website/
+  - hugo
 
 after_success:
   - hugo -d site
-  - zip -r site.zip site
-  - mv site.zip public/site.zip
   - ./deploy.sh
-
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  local_dir: public
-  on:
-    branch: master
+  
