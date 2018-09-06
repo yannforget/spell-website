@@ -1,6 +1,6 @@
 ---
 author: "Marius Gilbert"
-date: 2018-09-4T18:34:44+02:00
+date: 2018-09-05T18:34:44+02:00
 title: "2 -year Post-Doc position in global livestock distribution modelling"
 ---
 
