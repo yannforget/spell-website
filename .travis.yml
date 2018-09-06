@@ -4,6 +4,7 @@ python:
   - 3.6
 
 install:
+  - sudo apt-get install lftp
   - wget https://github.com/gohugoio/hugo/releases/download/v0.40.1/hugo_0.40.1_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
   - rm -rf public || exit 0
@@ -16,6 +17,7 @@ after_success:
   - hugo -d site
   - zip -r site.zip site
   - mv site.zip public/site.zip
+  - ./deploy.sh
 
 deploy:
   provider: pages
