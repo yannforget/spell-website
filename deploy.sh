@@ -6,7 +6,7 @@
 : ${FTP_USERNAME:?}
 : ${FTP_PASSWORD:?}
 
-LOCALDIR="$(cd ../public && pwd)"
+LOCALDIR="$(cd public && pwd)"
 
 lftp -c "open sftp://$FTP_HOSTNAME
 user $FTP_USERNAME '$FTP_PASSWORD'
