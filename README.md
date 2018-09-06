@@ -82,8 +82,3 @@ Entries displayed in the menu are defined in the `config.yaml` file (see the [hu
 * `Identifier` : Identifier of the menu entry that can be used for reference (see below).
 * `parent` : Identifier of the parent menu entry. Here, the data menu entry is displayed under the ressources tab.
 * `URL` : URL of the menu entry.
-
-### ...download an archive of the website
-
-* [master](https://github.com/yannforget/spell-website/archive/master.zip) : latest archive of the website content before being built with Hugo.
-* [gh-pages](https://github.com/yannforget/spell-website/archive/gh-pages.zip) : latest archive of the built website, as served by the development website.
