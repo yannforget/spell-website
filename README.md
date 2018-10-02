@@ -6,9 +6,6 @@
 
 The website is built using the static site generator [Hugo](https://gohugo.io/). Hugo documentation can be found [here](https://gohugo.io/documentation/).
 
-* Production website hosted on the ULB web servers: http://spell.ulb.be/
-* Development website, updated after each Github commit: https://yannforget.github.io/spell-website/
-
 Content files have to be provided in markdown ([cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), [docs](https://daringfireball.net/projects/markdown/)).
 
 ## How-Tos...
