@@ -67,6 +67,8 @@
 
           {{ if .doi }}
           <a href="https://dx.doi.org/{{ .doi }}">{{ .publicationTitle }}</a><br>
+          {{ else if .publicationUrl }}
+          <a href="{{ .publicationUrl }}">{{ .publicationTitle }}</a><br>
           {{ else }}
           {{ .publicationTitle }}.<br>
           {{ end }}
