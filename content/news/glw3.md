@@ -6,7 +6,7 @@ title: "New publication on the global distribution of Livestock"
 
 ![]("/images/GLW3_800.png")
 
-In collaboration with the [http://www.fao.org/livestock-systems](Food and Agriculture Organization of the UN (FAO)) and other collaborators, we are publishing this week in 
+In collaboration with the [http://www.fao.org/livestock-systems]("Food and Agriculture Organization of the UN (FAO)") and other collaborators, we are publishing this week in 
 **Nature Scientific Data** the result of several years of research to improve global data on the distribution of livestock 
 (cattle, buffaloes, horses, sheep, goats, pigs, chickens and ducks). 
 
