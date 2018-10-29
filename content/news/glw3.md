@@ -1,6 +1,6 @@
 ---
 author: "Marius Gilbert"
-date: 2018-10-30
+date: 2018-10-28T18:34:44+02:00
 title: "New publication on the global distribution of Livestock"
 ---
 
