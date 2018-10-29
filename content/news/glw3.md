@@ -4,7 +4,7 @@ date: 2018-10-28T18:34:44+02:00
 title: "New publication on the global distribution of Livestock"
 ---
 
-![]("/images/GLW3_800.png")
+![](/images/GLW3_800.png)
 
 In collaboration with the [Food and Agriculture Organization of the UN (FAO)](http://www.fao.org/livestock-systems) and other collaborators, we are publishing this week in 
 *Nature Scientific Data* the result of several years of research to improve global data on the distribution of livestock 
@@ -23,12 +23,12 @@ These new data sets will allow better estimates of the multiple benefits and det
 sector and help transitioning livestock production systems toward sustainable modes of production. 
 
 
-Reference:
+Reference:  
 Gilbert M, G Nicolas, G Cinardi, S Vanwambeke, TP Van Boeckel, GRW Wint, TP Robinson (2018) Global Distribution Data 
 for Cattle, Buffaloes, Horses, Sheep, Goats, Pigs, Chickens and Ducks in 2010. 
 Nature Scientific data, 5:180227.[https://doi.org/10.1038/sdata.2018.227](doi:10.1038/sdata.2018.227)
 
-Link to the new data layers on the harvard dataverse:
+Link to the new data layers on the harvard dataverse:  
 [https://dataverse.harvard.edu/dataverse/glw_3](https://dataverse.harvard.edu/dataverse/glw_3)
 
   
