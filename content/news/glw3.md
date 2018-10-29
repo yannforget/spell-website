@@ -7,7 +7,7 @@ title: "New publication on the global distribution of Livestock"
 ![]("/images/GLW3_800.png")
 
 In collaboration with the [Food and Agriculture Organization of the UN (FAO)](http://www.fao.org/livestock-systems) and other collaborators, we are publishing this week in 
-**Nature Scientific Data** the result of several years of research to improve global data on the distribution of livestock 
+*Nature Scientific Data* the result of several years of research to improve global data on the distribution of livestock 
 (cattle, buffaloes, horses, sheep, goats, pigs, chickens and ducks). 
 
 These new data sets provide estimates of the density (individuals / km2) of these species at a spatial resolution of 5 minutes of 
