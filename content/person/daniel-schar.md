@@ -14,7 +14,7 @@ title: "Daniel Schar"
 ---
 
 ## PhD project
-Daniel just started a PhD co-supervised by [https://www.brancoweissfellowship.org/thomas-van-boeckel.html](Thomas Van Boeckel) at ETH Zurich on the quantification of antimicrobial use (AMU) and 
+Daniel just started a PhD co-supervised by [Thomas Van Boeckel](https://www.brancoweissfellowship.org/thomas-van-boeckel.html) at ETH Zurich on the quantification of antimicrobial use (AMU) and 
 resistance (AMR) in aquaculture. 
 
 
