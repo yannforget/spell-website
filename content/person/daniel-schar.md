@@ -11,6 +11,10 @@ position: "PhD Student (co-supervision T. Van Boeckel ETH Zurich)"
 ref: "dschar"
 since: "2018"
 title: "Daniel Schar"
+interests:
+  - "Amtimicrobial use"
+  - "Antimicrobial resistance"
+  - "Emerging infectious diseases"
 ---
 
 ## PhD project
