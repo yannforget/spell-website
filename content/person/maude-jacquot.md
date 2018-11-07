@@ -16,6 +16,7 @@ interests:
   - "Bluetongue"
   - "Phylogeography"
   - "Spatial modelling"
+weight: -1
 ---
 
 Maude is currently based at the INRA and is currently involved in the PaleBlu project as scientific collaborator, before joining us 
