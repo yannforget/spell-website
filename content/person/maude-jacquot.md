@@ -19,6 +19,7 @@ interests:
 weight: -1
 ---
 
+## Profile
 Maude is currently based at the INRA and is currently involved in the PaleBlu project as scientific collaborator, before joining us 
 in the framework of this project in April 2019. Maud will investigate how dispersal patterns inferred from phylogeographic analysis 
 compare to those obtained from spatio-temporal analyses of outbreaks records, using Bluetongue as study case.
