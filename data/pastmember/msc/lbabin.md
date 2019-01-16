@@ -1,0 +1,5 @@
+name: Babin Léon
+year: 2018
+topic: Étude et Modélisation de la distribution de Monochamus spp. dans les forêts de pins en Europe.
+pdf:
+now:
