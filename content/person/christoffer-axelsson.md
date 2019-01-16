@@ -9,7 +9,7 @@ phone: +32 2 650 53 32
 portrait: /images/portraits/caxelsson.png
 position: "PostDoc (FNRS-WISD)"
 ref: "caxelsson"
-title: "Christoffer Axellsson"
+title: "Christoffer Axelsson"
 interests:
   - "Livestock production systems"
   - "Livestock modelling"
