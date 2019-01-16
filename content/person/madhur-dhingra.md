@@ -11,5 +11,11 @@ position: PhD student
 ref: "mdhingra"
 since: "2014"
 title: "Madhur Dhingra"
+interests:
+  - "Avian influenza"
+  - "Risk modelling"
+  - "Risk management"
 ---
 
+## PhD project
+Madhur works on spatial modelling of avian influenza and on the use of spatial models to inform risk management.  
