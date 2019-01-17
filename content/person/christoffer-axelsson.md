@@ -20,6 +20,6 @@ weight: -1
 
 ## Profile
 
-Christoffer joined the lab after a PhD at the University of South Dakota. He works on livestock distribution models as part of the Gridded Livestock of 
+Christoffer joined the lab after a PhD at the South Dakota State University. He works on livestock distribution models as part of the Gridded Livestock of 
 the World project. More specifically, Christoffer works on methods to project the future geographic distribution of livestock.
 
