@@ -1,12 +1,7 @@
-- [ ] Update Former PhD List (MG)
-- [ ] Fill-in profiles for Madhur & Yann (MG & YF)
-- [ ] Check all phone numbers to make sure they link to office numbers (MG)
+- [ ] The references don't show up any more in the theme pages
+- [ ] The references don't show up in Madhur and Christoffer's pages
+- [ ] Strangely updated images don't update on Github
+- [ ] Edit content of project pages (MG)
 - [ ] Fill the summary field to the project to be used in the short view format (MG)
 - [ ] Tag publications by project (MG)
-- [ ] Edit content of project pages (MG)
-- [x] Add content to the Resource / data section (MG)
-- [x] Add content to the Resource / teaching (MG)
 - [ ] Change the format reference to a more standard display (authors, year, title, source) (YF)
-- [x] Change the CP to 264/03 in the bottom part of the web site
-- [ ] Team layout: fix cards alignment (YF)
-- [ ] Team layout: display past team members somewhere (YF)
