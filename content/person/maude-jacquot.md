@@ -1,5 +1,4 @@
 ---
-date: 2018-11-5T19:33:45+02:00
 firstname: "Maude"
 lastname: "Jacquot"
 abbrv: "M. Jacquot"
@@ -11,7 +10,7 @@ office: UB2.167
 portrait: /images/portraits/mjacquot.png
 position: "Scientific collaborator (INRA)"
 ref: "mjacquot"
-title: "Maud Jacqout"
+title: "Maud Jacquot"
 interests:
   - "Landscape genetics"
   - "Bluetongue"

@@ -20,7 +20,12 @@
 
       {{ range (where (where .Pages ".Params.labpublication" true) ".Params.year" "gt" 2004) }}
 
-      <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}{{ .Title }}{{ end }}<br>
+      <p>
+        {{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>
+        {{ else if .Params.publicationUrl }}<a href="{{ .Params.publicationUrl }}">{{ .Title }}</a>
+        {{ else }}{{ .Title }}
+        {{ end }}
+        <br>
 
         {{ $len := len .Params.authorship }}
         {{ $last := (sub $len 1) }}

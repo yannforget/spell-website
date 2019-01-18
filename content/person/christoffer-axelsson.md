@@ -1,8 +1,7 @@
 ---
-date: 2018-11-5T19:33:45+02:00
 firstname: "Christoffer"
 lastname: "Axelsson"
-abbrv: "C. Axelsson"
+abbrv: "C. R. Axelsson"
 mail: "christoffe@hotmail.com"
 past: false
 phone: +32 2 650 53 32

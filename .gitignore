@@ -1,3 +1,5 @@
 public
 data/publications/references.json
 .vscode
+bibliography/
+deploy/
