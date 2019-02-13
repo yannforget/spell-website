@@ -5,4 +5,4 @@
 - [ ] Fill the summary field to the project to be used in the short view format (MG)
 - [ ] Tag publications by project (MG)
 - [ ] Change the format reference to a more standard display (authors, year, title, source) (YF)
-- [ ] Update website to use HTTPS
+- [ ] Update website to use HTTPS
