@@ -1,7 +1,8 @@
 - [ ] The references don't show up any more in the theme pages
-- [ ] The references don't show up in Madhur and Christoffer's pages
+- [x] The references don't show up in Madhur and Christoffer's pages
 - [ ] Strangely updated images don't update on Github
 - [ ] Edit content of project pages (MG)
 - [ ] Fill the summary field to the project to be used in the short view format (MG)
 - [ ] Tag publications by project (MG)
 - [ ] Change the format reference to a more standard display (authors, year, title, source) (YF)
+- [ ] Update website to use HTTPS
