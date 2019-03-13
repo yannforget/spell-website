@@ -5,8 +5,8 @@ title: "New publication on the future global distribution of Aedes aegypti and A
 ---
 
 Since a few years, we have been involved in the development of method to measure the rate of spread of biolgical invasions. 
-More specifically, we published a new method to (quantify the local velocity of the front wave of an invasion)[https://onlinelibrary.wiley.com/doi/10.1111/ecog.01393], and applied 
-this method to (measure the rate of spread of several bluetongue epidemics)[https://www.sciencedirect.com/science/article/pii/S0167587717304245].
+More specifically, we published a new method to [quantify the local velocity of the front wave of an invasion](https://onlinelibrary.wiley.com/doi/10.1111/ecog.01393), and applied 
+this method to [measure the rate of spread of several bluetongue epidemics](https://www.sciencedirect.com/science/article/pii/S0167587717304245).
 
 Recently, the sampe method was applied to describe the invasion by Aedes aegypti and Aedes albopictus in US and in Europe in a large
 collaborative study lead by (Moritz Kraemer)[http://evolve.zoo.ox.ac.uk/Evolve/Moritz_Kraemer.html], at the university of Oxford. The results of this study have just been published in 
