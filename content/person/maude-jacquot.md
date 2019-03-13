@@ -8,7 +8,7 @@ phone: +32 2 650 37 80
 twitter: MaudeJacquot
 office: UB2.167
 portrait: /images/portraits/mjacquot.png
-position: "Scientific collaborator (INRA)"
+position: "PostDoc (detached at INRA)"
 ref: "mjacquot"
 title: "Maud Jacquot"
 interests:
