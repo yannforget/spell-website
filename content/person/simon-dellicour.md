@@ -2,7 +2,7 @@
 date: 2016-07-23T19:30:39+02:00
 firstname: "Simon"
 lastname: "Dellicour"
-abbrv: "S. Dellicour", "S. Dellicour*"
+abbrv: ["S. Dellicour", "S. Dellicour*"]
 mail: "simon.dellicour@ulb.ac.be"
 past: false
 twitter: sdellicour
