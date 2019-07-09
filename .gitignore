@@ -3,3 +3,4 @@ data/publications/references.json
 .vscode
 bibliography/
 deploy/
+.DS_Store
