@@ -59,7 +59,9 @@
 
       {{ .Scratch.Set "abbrv" .Params.abbrv }}
       {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
-      {{ if in .publicationAuthors ($.Scratch.Get "abbrv") }}
+      {{ $abbrv := $.Scratch.Get "abbrv" }}
+      {{ $abbrvcontrib := print $abbrv "*" }}
+      {{ if or ( in .publicationAuthors $abbrv ) ( in .publicationAuthors $abbrvcontrib ) }}
 
       {{ if eq .itemType "journalArticle" }}
 
@@ -73,7 +75,15 @@
           {{ .publicationTitle }}.<br>
           {{ end }}
 
-          {{ delimit .publicationAuthors ", " ", and " }}.<br>
+          {{ delimit .publicationAuthors ", " ", and " }}.
+          
+          {{ $.Scratch.Set "equalcontribution" false }}
+          {{ range .publicationAuthors }}
+              {{ if in . "*" }} {{ $.Scratch.Set "equalcontribution" true }} {{ end }}
+          {{ end }}
+          {{ if $.Scratch.Get "equalcontribution" }}
+          <small>*Equal contribution</small><br>
+          {{ end }}
 
           <em>"{{ .journal }}"</em>,
 
