@@ -8,7 +8,7 @@
 
 LOCALDIR="$(cd public && pwd)"
 
-lftp -c "open sftp://$FTP_HOSTNAME
+lftp -c "set sftp:auto-confirm yes; open sftp://$FTP_HOSTNAME
 user $FTP_USERNAME '$FTP_PASSWORD'
 mirror --only-newer --ignore-time --reverse --delete --verbose $LOCALDIR $FTP_REMOTEDIR
 "
