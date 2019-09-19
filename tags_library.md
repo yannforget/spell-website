@@ -1,6 +1,7 @@
 ### Person tags
 * mgilbert
 * clinard
+* sdellicour
 * cchaiban
 * gnicolas
 * jartois
@@ -12,6 +13,7 @@
 * mapping-human-pop
 * mapping-livestock
 * modelling-invasions
+* landscape-phylogeography
 
 ### Project tags
 * wildtub (SPF 2015)
