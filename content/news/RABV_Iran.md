@@ -1,6 +1,6 @@
 ---
 author: "Simon Dellicour"
-date: 2019-03-01T12:00:00+02:00
+date: 2019-09-01T12:00:00+02:00
 title: "New publication on methodological developments in landscape phylogeography"
 ---
 Our new article on landscape phylogeography has been accepted for publication in *Molecular Ecology*. In this study, we applied different post-hoc landscape phylogeographic approaches to analyse a new and comprehensive data set of viral genomes to elucidate the dispersal history and dynamics of rabies virus (RABV) in Iran.
