@@ -1,7 +1,7 @@
 ---
 author: "Simon Dellicour"
 date: 2019-03-01T12:00:00+02:00
-title: "New landscape genetic study in Heredity"
+title: "New publication on methodological developments in landscape genetics"
 ---
 Our article titled "Landscape genetic analyses of Cervus elaphus and Sus scrofa: comparative study and analytical developments" has recently been published in Heredity. In this study, we describe and use a landscape genetic workflow to compare spatial patterns of genetic variability and the impact of environmental factors on genetic differentiation.
 
