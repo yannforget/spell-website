@@ -82,6 +82,10 @@ body {
     font-weight: 200;
 }
 
+#homepage h3 {
+    margin-bottom: 0px;
+}
+
 #homepage .section-header {
     border-bottom: 1px solid rgba(1,1,1,0.1);
     margin-bottom: 30px;
@@ -127,6 +131,12 @@ body {
 #homepage .row-topic {
     padding-top: 25px;
     padding-bottom: 25px;
+}
+
+/* News */
+
+#news h3 {
+    margin-bottom: 0px;
 }
 
 /* Team */
