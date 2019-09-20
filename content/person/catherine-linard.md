@@ -4,7 +4,7 @@ firstname: "Catherine"
 lastname: "Linard"
 abbrv: "C. Linard"
 mail: "linard.catherine@gmail.com"
-past: false
+past: true
 twitter: catherineLinard
 phone: +32-2-650.56.18
 office: UB2.169
