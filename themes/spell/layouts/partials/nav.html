@@ -21,12 +21,12 @@
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">{{ .Name }} <span class="caret"></span></a>
             <ul class="dropdown-menu">
               {{ range .Children }}
-              <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+              <li><a href="{{ .URL }}">{{ .Pre }}{{ .Name }}</a></li>
               {{ end }}
             </ul>
           </li>
           {{ else }}
-            <li><a {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}class=active {{end}}href="{{.URL}}">{{ .Name }}</a></li>
+            <li><a {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}class=active {{end}}href="{{.URL}}">{{ .Pre }}{{ .Name }}</a></li>
           {{ end }}
           {{ end }}
           <li><a href="http://www.ulb.ac.be"><img src="{{ .Site.BaseURL }}logo/ulb.jpg" height=30 width="auto" style="display: inline"></a></li>

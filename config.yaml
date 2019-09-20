@@ -19,6 +19,35 @@ menu:
       Weight: 2
       Identifier: "team"
       URL: "/person/"
+    - Name: "Topics"
+      Weight: 3
+      Identifier: "topics"
+      URL: "/"
+    - Name: "Landscape phylogeography"
+      Weight: 12
+      Identifier: "landscape-phylogeography"
+      URL: "/subject/landscape-phylogeography/"
+      parent: "topics"
+    - Name: "Livestock diseases"
+      Weight: 10
+      Identifier: "livestock-disease"
+      URL: "/subject/livestock-disease/"
+      parent: "topics"
+    - Name: "Mapping Livestock"
+      Weight: 11
+      Identifier: "mapping-livestock"
+      URL: "/subject/mapping-livestock/"
+      parent: "topics"
+    - Name: "Mapping human population"
+      Weight: 13
+      Identifier: "mapping-human-population"
+      URL: "/subject/mapping-human-population/"
+      parent: "topics"
+    - Name: "Modelling geographical invasions"
+      Weight: 14
+      Identifier: "modelling-geographical-invasions"
+      URL: "/subject/modelling-geographical-invasions/"
+      parent: "topics"
     - Name: "Projects"
       Weight: 4
       Identifier: "projects"
@@ -26,26 +55,12 @@ menu:
     - Name: "Publications"
       Weight: 5
       Identifier: "publications"
-      URL: "/page/publications"
-    - Name: "Ressources"
+      URL: "/page/publications/"
+    - Name: ""
+      Pre: '<i class="fa fa-map-marker-alt"></i>'
       Weight: 6
-      Identifier: "ressources"
-      URL: "/page/ressources"
-    - Name: "Teaching"
-      Weight: 7
-      Identifier: "teaching"
-      parent: "ressources"
-      URL: "/page/teaching"
-    - Name: "Data"
-      Weight: 8
-      Identifier: "data"
-      parent: "ressources"
-      URL: "/page/data"
-    - Name: "Access"
-      Weight: 9
-      Identifier: "access"
-      parent: "ressources"
-      URL: "/page/access"
+      Identifier: "contact"
+      URL: "/page/access/"
 
 
 params:
