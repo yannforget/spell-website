@@ -24,13 +24,13 @@
               <li><a href="{{ .URL }}">{{ .Name }}</a></li>
               {{ end }}
             </ul>
+          </li>
           {{ else }}
             <li><a {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}class=active {{end}}href="{{.URL}}">{{ .Name }}</a></li>
           {{ end }}
           {{ end }}
-          <li><a href="http://www.ulb.ac.be">
-            <img src="{{ .Site.BaseURL }}logo/ulb.jpg" height=30px width=auto style="display: inline">
-      </a></li>
+          <li><a href="http://www.ulb.ac.be"><img src="{{ .Site.BaseURL }}logo/ulb.jpg" height=30 width="auto" style="display: inline"></a></li>
+      </ul>
     </div>
   </div>
 </nav>
