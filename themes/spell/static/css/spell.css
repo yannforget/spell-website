@@ -139,6 +139,13 @@ body {
     margin-bottom: 0px;
 }
 
+#single-news img {
+    max-width: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 /* Team */
 
 #team .page-header {
