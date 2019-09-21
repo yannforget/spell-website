@@ -1,6 +1,6 @@
 ---
 author: "Marius Gilbert"
-date: 2019-09-21T18:34:44+02:00
+date: 2019-09-20T00:00:00+02:00
 title: "A new paper in Science on antimicrobial resistance in low and middle countries"
 ---
 
@@ -14,4 +14,8 @@ former member of the lab, who now leads the [Health Geography and Policy Group](
 at ETH Zurich, and was carried out in collaboration with researchers from Princeton university and CDDEP.
 
 The publication of the paper is also an opportunity to launch the platform [https://resistancebank.org](https://resistancebank.org)for the collection and sharing of data on 
-antimicrobial resistance that are produced worldwide. 
+antimicrobial resistance that are produced worldwide.
+
+Reference
+Van  Boeckel TP,  J  Pires,  R Silvester,  J Song,  M Gilbert,  S  Bonhoeffer & R  Laxminarayan (2019) Global Trends in Antimicrobial Resistance in Animals in Low- and Middle-Income Countries. Science, 65(6459), eaaw1944.
+
