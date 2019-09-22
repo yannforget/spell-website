@@ -1,6 +1,7 @@
 ## GeoAccessHealth: The availability and accessibility of health services in space and time: analytical assessment, data integration and real-time visualization (2019-2020)  
-*Funded by Innoviris*
+*Funded by Innoviris*  
 
+This projects aims to develop and implement semi-automatique procedures to quantify the accessibility of patients to healthcare facilities in sub-saharan Africa.
 
 
 MONODIS: Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of Monochamus spp., the vectors of Bursaphelenchus xylophilus. (2019)
