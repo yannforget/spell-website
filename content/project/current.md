@@ -10,6 +10,10 @@ This projects aims to develop and implement semi-automatique procedures to quant
 ## OneChick: One Health Poultry Hub (2019-2024)  
 *Funded by GCRF*  
 
+The demand for poultry products in Asia has been particularly fast in the last few decades, following urban growth, urbanization and increase in wealth leading to changes in dietary preferences. This very fast growth poses many challenges in terms of animal and public health linked to emerging infectious diseases such as avian influenza, to foodborne pathogens or to the overuse of antimicrobials. Small-scale poultry farming plays an important role in terms of livelihood and is an important source of protein and income to millions of smallholders. OneChick is a large multistakeholder project which aims to investigate approaches for sustainable intensification of poultry production in Asia. Our role in the project will be to work on the present and future geographical distribution of poultry production, demand and markets in the project focus countries: Bangladesh, India, Sri-Lanka and Vietnam. 
+
+[OneChick Project web site](http://onehealthpoultry.org)
+
 ## PALE-Blu: Understanding pathogen, livestock, environment interactions involving bluetongue virus (2017-2020)
 *Funded by EU H2020*
 
