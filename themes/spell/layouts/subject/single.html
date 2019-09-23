@@ -20,21 +20,34 @@
       {{ .Content }}
     </div>
 
-    <div class="col-md-12">
+    <div class="col-md-12 publications">
       <h1 class="page-header">Related publications</h1>
+
       {{ $.Scratch.Set "topic" .Params.ref }}
-      <!-- Iterate over publication data and check if there is an authored paper -->
-      {{ range ((where .Site.RegularPages ".Section" "publication").ByParam "year").Reverse }}
+      {{ range sort .Site.Data.publications.references "publicationYear" "desc" }}
+      {{ if in .zoteroTags ($.Scratch.Get "topic") }}
 
-      <!-- Show reference if authored articles -->
-      {{ if in .Params.keyword ($.Scratch.Get "topic") }}
+      <p class="reference">
 
-      <p>{{ if .Params.doi }}<a href="http://dx.doi.org/{{ .Params.doi }}">{{ .Title }}</a>{{ else }}<strong>{{ .Title }}</strong>{{ end }}<br>
-        {{ delimit .Params.authorship ", " " and " }}.<br>
-        <em>In "{{ .Params.journal }}"</em>, {{ if .Params.volume }}vol. {{ .Params.volume}}, {{ end }}{{if .Params.issue }}issue {{ .Params.issue}}, {{ end }}{{ .Params.year }}.
+          {{ if .doi }}
+          <a href="https://dx.doi.org/{{ .doi }}">{{ .publicationTitle }}</a><br>
+          {{ else if .publicationUrl }}
+          <a href="{{ .publicationUrl }}">{{ .publicationTitle }}</a><br>
+          {{ else }}
+          {{ .publicationTitle }}.<br>
+          {{ end }}
+
+          {{ delimit .publicationAuthors ", " ", and " }}.<br>
+
+          <em>"{{ .journal }}"</em>,
+
+          {{ if .volume }}Vol. {{ .volume }},{{ end }}
+          {{ if .issue }}Issue {{ .issue }},{{ end }}
+          {{ if .pages }}Pages {{ .pages }},{{ end }}
+          <strong>{{ .publicationYear }}</strong>.
       </p>
-      {{ end }}
 
+      {{ end }}
       {{ end }}
 
     </div>
@@ -42,5 +55,11 @@
   </div>
 
 </div>
+
+<script>
+
+
+
+</script>
 
 {{ partial "footer.html" . }}
