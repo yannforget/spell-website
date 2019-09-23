@@ -51,7 +51,7 @@ menu:
     - Name: "Projects"
       Weight: 4
       Identifier: "projects"
-      URL: "/project/"
+      URL: "/page/projects"
     - Name: "Publications"
       Weight: 5
       Identifier: "publications"
