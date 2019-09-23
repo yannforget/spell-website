@@ -1,5 +1,5 @@
 ---
-baseurl: "http://spell.ulb.be/"
+baseurl: "https://spell.ulb.be/"
 title: "Spatial Epidemiology Lab"
 languageCode: "en-us"
 config: "config.yaml"
