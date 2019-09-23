@@ -162,33 +162,6 @@
 
 <script>
 
-    /* Underline author names when they are part of the lab (with mark.js) */
-
-    var names = [
-        "M. Gilbert",
-        "J. Artois",
-        "J.-C. Grégoire",
-        "C. Linard",
-        "C. Chaiban",
-        "C. Tisseuil",
-        "M. Dhingra",
-        "Q. Zhao",
-        "S. Dellicour",
-        "W. Thanapongtharm",
-        "Y. Forget",
-    ]
-
-    function underlineAuthors (names) {
-        var instance = new Mark(document.querySelector("div.publications"));
-        instance.mark(names, {
-            "element": "span",
-            "className": "highlight",
-            "separateWordSearch": false,
-        });
-    };
-
-    underlineAuthors(names);
-
     /* Show/Hide references types */
 
     function displayPub (main_pub_type) {
