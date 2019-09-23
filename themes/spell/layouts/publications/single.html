@@ -57,7 +57,8 @@
             </div>
 
             <!-- Conference Papers -->
-
+            
+            <!--
             <div class="row conferencePaper">
 
                 <h2>Conference papers</h2>
@@ -88,6 +89,7 @@
             {{ end }}
         
             </div>
+            -->
 
             <!-- Book Sections -->
             <div class="row bookSection">
@@ -165,7 +167,7 @@
     /* Show/Hide references types */
 
     function displayPub (main_pub_type) {
-        var all_pub_types = ["journalArticle", "conferencePaper", "thesis", "bookSection"];
+        var all_pub_types = ["journalArticle", "thesis", "bookSection"];
         for (i = 0; i < all_pub_types.length; i++) {
             var pub_type = all_pub_types[i];
             if (pub_type == main_pub_type) {
