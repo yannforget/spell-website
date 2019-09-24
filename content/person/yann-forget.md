@@ -6,6 +6,8 @@ abbrv: "Y. Forget"
 mail: "yannforget@mailbox.org"
 past: false
 phone: +32-2-650.58.09
+twitter: yann_forget
+github: yannforget
 portrait: /images/portraits/yforget.png
 position: "PhD Student"
 ref: "yforget"
@@ -13,5 +15,5 @@ title: "Yann Forget"
 interests:
   - "Remote sensing"
   - "Population mapping"
-  - "Spatial analysis"
+  - "Accessibility mapping"
 ---

@@ -6,6 +6,7 @@ abbrv: "S. Dellicour"
 mail: "simon.dellicour@ulb.ac.be"
 past: false
 twitter: sdellicour
+github: sdellicour
 portrait: /images/portraits/sdellicour.png
 position:  Post-doc (ULB) / Scientific collaborator (KU Leuven)
 ref: "sdellicour"
