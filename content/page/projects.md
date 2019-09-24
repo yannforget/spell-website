@@ -1,6 +1,5 @@
----
-title: Current projects
----
+# Current projects  
+
 
 ### GeoAccessHealth: The availability and accessibility of health services in space and time: analytical assessment, data integration and real-time visualization (2019-2020)  
 *Funded by Innoviris*  
@@ -36,9 +35,8 @@ Many livestock production systems (LPS) are in a state of transition. In high-in
 
 <br>
 
----
-title: Past projects
----
+# Past projects  
+
 
 **Xyleris: Study on Xylella fastidiosa plant hosts and vectors in Belgium and the influence of specific plant growth conditions on disease development** (2016-2018)  
 *Funded by Federal Public Service Health, Food Chain Safety and Environment.*
