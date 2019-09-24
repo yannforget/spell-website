@@ -133,6 +133,11 @@ body {
     padding-bottom: 25px;
 }
 
+#homepage .about {
+    font-size: 1.15em;
+    line-height: 1.75;
+}
+
 /* News */
 
 #news h3 {
