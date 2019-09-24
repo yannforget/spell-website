@@ -6,7 +6,7 @@
 
 This projects aims to develop and implement semi-automatique procedures to quantify the accessibility of patients to healthcare facilities in sub-saharan Africa.
   
-<br> <br>  
+<br> 
   
 
 ### MONODIS: Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of Monochamus spp., the vectors of Bursaphelenchus xylophilus. (2019)  
