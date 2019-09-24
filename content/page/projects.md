@@ -5,15 +5,17 @@
 *Funded by Innoviris*  
 
 This projects aims to develop and implement semi-automatique procedures to quantify the accessibility of patients to healthcare facilities in sub-saharan Africa.
-<br>
-
+  
+<br>  
+  
 
 ### MONODIS: Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of Monochamus spp., the vectors of Bursaphelenchus xylophilus. (2019)  
 *Funded by SPF Santé Publique*  
 
 This project aims to map the distribution of *Monochamus spp.*, the vectors of *Bursaphelenchus xylophilus* at the European scale as a function of forest and climate predictor spatial variables. This collaborative project is compiling presence and absence data from a large number of traps collected throughout Europe, and these data are then used to inform species distributions models to predic the probability of occurrence of the species at an European scale.
-<br>
-
+  
+<br>  
+  
 
 ### OneChick: One Health Poultry Hub (2019-2024)  
 *Funded by GCRF*  
