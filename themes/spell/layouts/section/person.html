@@ -21,8 +21,8 @@
       </h3>
 
       {{ if .Params.mail }}
-      <a href="#" data-toggle="popover" title="Email" data-content="{{ .Params.mail }}">
-        <span class="fa fa-envelope"></span>
+      <a href="javascript:void(0);" role="button" data-toggle="popover" title="Email" data-content="{{ .Params.mail }}">
+        <span class="fas fa-envelope"></span>
       </a>
       {{ end }}
 
@@ -36,13 +36,13 @@
 
       {{ if .Params.twitter }}
       <a href="https://twitter.com/{{ .Params.twitter }}">
-        <span class="fa fa-twitter"></span>
+        <span class="fab fa-twitter"></span>
       </a>
       {{ end }}
 
       {{ if .Params.github }}
       <a href="https://github.com/{{ .Params.github }}">
-        <span class="fa fa-github"></span>
+        <span class="fab fa-github"></span>
       </a>
       {{ end }}
 

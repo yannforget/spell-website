@@ -21,7 +21,7 @@
       <ul class="list-inline">
 
         {{ if .Params.mail }}
-        <li><span class="fa fa-envelope"></span> {{ .Params.mail }}</li>
+        <li><span class="fas fa-envelope"></span> {{ .Params.mail }}</li>
         {{ end }}
 
         <!--
@@ -31,11 +31,11 @@
         -->
 
         {{ if .Params.twitter }}
-        <li><span class="fa fa-twitter"></span> <a href="https://twitter.com/{{ .Params.twitter }}">@{{ .Params.twitter }}</a></li>
+        <li><span class="fab fa-twitter"></span><a href="https://twitter.com/{{ .Params.twitter }}">twitter.com/{{ .Params.twitter }}</a></li>
         {{ end }}
 
         {{ if .Params.github }}
-        <li><span class="fa fa-github"></span> <a href="https://github.com/{{ .Params.github }}">@{{ .Params.github }}</a></li>
+        <li><span class="fab fa-github"></span><a href="https://github.com/{{ .Params.github }}">github.com/{{ .Params.github }}</a></li>
         {{ end }}
 
       </ul>

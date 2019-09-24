@@ -164,15 +164,6 @@ body {
     transition: .3s ease-in-out;
 }
 
-#team .fa {
-    padding-right: 10px;
-    color: grey;
-}
-
-#team .fa:hover {
-    color: black;
-}
-
 #team .card {
     margin-bottom: 50px;
     height: 400px;
@@ -181,6 +172,21 @@ body {
 #team p {
     padding-left: 25px;
     padding-right: 25px;
+}
+
+#team .card h3 {
+    margin-top: 15px;
+    margin-bottom: 4px;
+}
+
+#team .fab, #team .fas {
+    color: grey;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+#team .fab:hover, #team .fas:hover {
+    color: black;
 }
 
 /* Person */
@@ -202,8 +208,16 @@ body {
     transition: .3s ease-in-out;
 }
 
-#person #contact .fa {
-    padding-right: 6px;
+#person .fab, #person .fas {
+    color: grey;
+    margin-right: 5px;
+    margin-left: 5px;
+    position: relative;
+    top: 1px;
+}
+
+#person .fab:hover, #person .fas:hover {
+    color: black;
 }
 
 /* Topic */
