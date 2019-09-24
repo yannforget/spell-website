@@ -5,12 +5,14 @@
 *Funded by Innoviris*  
 
 This projects aims to develop and implement semi-automatique procedures to quantify the accessibility of patients to healthcare facilities in sub-saharan Africa.
+<br>
 
 
 ### MONODIS: Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of Monochamus spp., the vectors of Bursaphelenchus xylophilus. (2019)  
 *Funded by SPF Santé Publique*  
 
-This project aims to map the distribution of *Monochamus spp.*, the vectors of *Bursaphelenchus xylophilus* at the European scale as a function of forest and climate predictor spatial variables. This collaborative project is compiling presence and absence data from a large number of traps collected throughout Europe, and these data are then used to inform species distributions models to predic the probability of occurrence of the species at an European scale. 
+This project aims to map the distribution of *Monochamus spp.*, the vectors of *Bursaphelenchus xylophilus* at the European scale as a function of forest and climate predictor spatial variables. This collaborative project is compiling presence and absence data from a large number of traps collected throughout Europe, and these data are then used to inform species distributions models to predic the probability of occurrence of the species at an European scale.
+<br>
 
 
 ### OneChick: One Health Poultry Hub (2019-2024)  
@@ -20,12 +22,16 @@ The demand for poultry products in Asia has been particularly fast in the last f
 
 [OneChick Project web site](http://onehealthpoultry.org)
 
+<br>
+
 ### PALE-Blu: Understanding pathogen, livestock, environment interactions involving bluetongue virus (2017-2020)
 *Funded by EU H2020*
 
 New outbreaks caused by bluetongue viruses (BTVs) have emerged in European livestock every year since 1998. These events that have been linked to climate change, resulted in massive losses due to fatalities, reduced productivity, reproductive failures, restricted animal movements/trade, and surveillance/vaccination costs. PALE-Blu brings together European institutes with expertise in BTV research and diagnosis, with partners in endemic regions (Africa, the Middle East and Turkey) that act as a ‘source’ for BTV strains that emerge in Europe. Our role in the project it to lead the spatial modelling work package, which aims to better understand how environmental and anthropogenic factors influence the spread of the disease, using spatial modelling and landscape phylogenetic approaches.
 
 [PALE-Blu Project web site](https://www.paleblu.eu)  
+
+<br>
 
 
 ### Mapping the transition toward more sustainable livestock production systems (2017-2021)
