@@ -65,7 +65,7 @@ menu:
 
 params:
   brand: SpELL
-  description: "**Spatial epidemiology** studies the effect of spatial factors on the **emergence, spread, persistence and evolution** of **diseases** and **invasive species**. The understanding of key spatial factors, such as environmental or anthropogenic  variables, and their integration into spatial models is used to **predict the geographical distribution of risk**, which can contribute to better targetted **prevention, surveillance and control measures**. We also work toward the improvement of methods in **spatial modelling** and **landscape phylogeography**, and of large-scale data sets on **human and farm animals**."  
+  description: "**Spatial epidemiology** studies the effect of spatial factors on the **emergence, spread, persistence and evolution** of **[diseases](/subject/livestock-disease/)** and **[invasive species](/subject/modelling-geographical-invasions/)**. The understanding of key spatial factors, such as environmental or anthropogenic  variables, and their integration into spatial models is used to **predict the geographical distribution of risk**, which can contribute to better targetted **prevention, surveillance and control measures**. We also work toward the improvement of methods in **spatial modelling** and **[landscape phylogeography](/subject/landscape-phylogeography)**, and of large-scale data sets on **[human](/subject/mapping-human-population/)** and **[farm animals](/subject/mapping-livestock/)**."  
 
 imaging:
   resampleFilter: "box"
