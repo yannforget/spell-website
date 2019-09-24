@@ -36,7 +36,8 @@ Many livestock production systems (LPS) are in a state of transition. In high-in
 
 <br>
 
-# Past projects
+---
+title: Past projects
 ---
 
 **Xyleris: Study on Xylella fastidiosa plant hosts and vectors in Belgium and the influence of specific plant growth conditions on disease development** (2016-2018)  
