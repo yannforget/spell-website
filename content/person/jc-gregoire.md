@@ -19,7 +19,7 @@ weight: -2
 
 Jean-Claude graduated in Agricultural sciences and Forestry at the (at the time) Faculté des Sciences agronomiques de Gembloux, and his PhD at ULB was in forest entomology. He was a research associate at F.R.S. -  FNRS, then became a professor at ULB. He is now retired but keeps a few things going on.
 
-## Current teaching (2017-18)
+## Current teaching (2019-20)
 
 [An introduction to earth and agricultural sciences](https://www.ulb.be/fr/programme/bing-f1001) (J.-C. Grégoire, P. Régnier, BING-F-1001)
 
