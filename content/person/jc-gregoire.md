@@ -40,8 +40,8 @@ A second species of choice, *Ips typographus*, is the most damaging forest pest 
 ### Current  
 
 * [2018-2019 – Recherche dans le cadre du réseau d'observatoire de la santé des forêts](http://owsf.environnement.wallonie.be/fr/index.html?IDC=5636) *Funded by the Walloon Region*
-* 2019-2020 – [MONODIS](/project/monodis) (Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of *Monochamus* spp., the vectors of *Bursaphelenchus xylophilus* – a contribution to pest risk assessment). With CRAW, Gembloux, and URZF, INRA, Orléans, France. *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
-* 2016-2018 – [XFAST](/project/xfast) (Biological characteristics of potential vectors of *Xylella fastidiosa* to support sampling and containment procedures). With Earth and Life Institute, UCLouvain. *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
+* 2019-2020 – [MONODIS](/page/projects) (Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of *Monochamus* spp., the vectors of *Bursaphelenchus xylophilus* – a contribution to pest risk assessment). With CRAW, Gembloux, and URZF, INRA, Orléans, France. *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
+* 2016-2018 – [XFAST](/page/projects) (Biological characteristics of potential vectors of *Xylella fastidiosa* to support sampling and containment procedures). With Earth and Life Institute, UCLouvain. *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
 
  
 ### Past projecst and networks (2010-2017)  
