@@ -12,7 +12,7 @@ The demand for poultry products in Asia has been particularly fast in the last f
 ### GeoAccessHealth: The availability and accessibility of health services in space and time: analytical assessment, data integration and real-time visualization (2019-2020)  
 *Funded by Innoviris* - Main parner: [Blue Square](https://bluesquarehub.com/)
 
-This projects aims to develop and implement semi-automatique procedures to quantify the accessibility of patients to healthcare facilities in sub-saharan Africa.
+Accessibility to healthcare facilities, expressed in terms if travel time to seek health care and treatment is a a key aspect of public health. Accessibility is particularly critical in low-income countries because both the transportation network and the number of healthcare facilities can make access to treatment particularly difficult. Accessibility can be quantified using spatial modelling procedure, as with the help of spatial database on human population, transportation infrastructure and healthcare facilities location. However, all three are dynamic by nature, and a real-time quantification of accessibility to healthcare is currently not possible. This projects aims to develop and implement semi-automatique procedures to quantify the accessibility of patients to healthcare facilities in a set of countries in sub-saharan Africa, and integrate them in an information system. In the longer term, the system that would be developped could be applied and extended to other countries and support public health operations and policies. 
   
 <br> 
 
@@ -20,8 +20,6 @@ This projects aims to develop and implement semi-automatique procedures to quant
 *Funded by SPF Santé Publique* - Main parners: Centre de Recherche agronomique wallon, Gembloux; Unité de Recherche Zoologie forestière, INRA, Orléans, France.
 
 The pine wood nematode (PWN) has established in Portugal in the late 1990s, is presently occupying the whole country and is frequently spreading to Spain, although it has been so far eradicated in this country. The nematode is vectored by Cerambycid beetles of the genus *Monochamus*, which inoculate new hosts when the adults proceed to maturation feeding on young twigs. Because of this forest health impact, all European Union (EU) Member States must monitor for PWN presence, either in pine wood samples or in *Monochamus* spp.  collected in the forest as well as at potential entry points. This project aims to map the distribution of *Monochamus spp.* at the European scale as a function of forest and climate predictor spatial variables. The expected result is the definition of a probability of presence of *Monochamus* spp. in Belgium and, hence, the improvement of the national monitoring and contingency plans relative to the pine wood nematode with, for example, a clearer views of the priorities for allocating resources to controls at entry points vs. controls in forest areas.
-
-Main 
   
 <br>  
 
