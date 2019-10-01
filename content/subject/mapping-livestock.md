@@ -1,7 +1,7 @@
 ---
 date: 2016-11-22T15:19:00+02:00
 title: Mapping livestock
-summary: "The geographical distribution of livestock (cattle, sheep, goat, pig, chicken, duck, buffaloes, camels) is a key driver of the distribution of diseases and  has important environmental impacts at a global scale in terms of direct pollution through manure managment, greenhouse gaz emissions and contribution to antimicrobial resistance. Our work aim to better map the distribution of livestock production at a global scale, with some special emphasis on intensive livestock production and projections."
+summary: "The geographical distribution of livestock (cattle, sheep, goat, pig, chicken, duck, buffaloes, camels) is a key driver of the distribution of diseases and has important environmental impacts at a global scale in terms of direct pollution through manure managment, greenhouse gaz emissions and contribution to antimicrobial resistance. Our work aim to better map the distribution of livestock production at a global scale, with some special emphasis on intensive livestock production and projections."
 image: /images/Poyang-Buffaloes-1200by500.jpg
 ref: mapping-livestock
 ---
@@ -17,12 +17,20 @@ For many years, several research groups and international organisations have dev
     
 ### Ongoing work
 
-The main objectives of our ongoing work are to evaluate quantitatively and qualitatively the different approaches that are used to predict and represent livestock distribution in high-resolution global databases. Our ultimate goal is to improve the existing methods by addressing some of their limitations, and to provide recommendations and revisions for future developments. This requires a detailed examination of both the conceptual and statistical models that are used to generate these databases, and the ways in which the outputs are presented and distributed to users. More specifically, the project is built around three specific objectives. More specifically, the current research activities involve: i) comparing the different methods and database available to map the distribution of livestock in terms of the goodness of fit of the results: how similar are the numbers in observed and predicted distributions, and in terms of spatial patterns; how similar are observed and predicted distributions in terms of heterogeneity and level of clustering; ii) examining how uncertainty in the predictions can best be estimated and, once estimated, how it can be best represented and communicated to users, and iii) identify innovative ways to improve the spatial realism of outputs.
+The main objectives of our ongoing work are to evaluate quantitatively and qualitatively the different approaches that are used to predict and represent livestock distribution in high-resolution global databases. Our initial efforts focused on the establishment of global livestock distribution data representing the best data available to date (Gilbert *et al*. 2018). 
+
+We now work on the development of time series for the past (1990 - present) and for the future (present - 2050) based on time series of predictor variables and on adapted modelling procedures that can take advantages of training data in space and time. 
+
+In parrallel, we also worked on the development of different models that are better suited to predict monogastric species (poultry and pigs) that can be raised in very high number within a single locations. We investigated the use of point-pattern simulation modelling to predict farm locations (Chaiban *et al*. 2019) and ocne calibrated, the approach will be applied to create realistic synthetic farm distribution models in relevant countries. 
 
 ### Perspectives
 
-Further developments involve breaking down livestock distribution maps according to different types of production systems. In addition, our current research primarily aims to understanding and predict the spatial distribution of livestock production as it is now, but future work will involve the development of methods to derive projections of future distribution according to different development scenarios.
+Further developments involve predicting how intensification of the livestock production sector may impact the geoghraphical distribution of animals and farms in ruminant and monogastric livestock production systems. We also work toward the development of animal movement models (Nicolas *et al*. 2018) that can be used to predict movement networks. 
+
+### Dissemination
+
+Our work is carried out in collaboration with the FAO Livestock and Environment group, and is presented in [FAO Livestock  Systems](http://www.fao.org/livestock-systems/en/) web page. The data themselves are distributed through the [Global Livestock Data](https://dataverse.harvard.edu/dataverse/gld) Harvard dataverse. 
 
 ### Collaborations
 
-Our main institutional collaborators are T. Robinson (International Livestock Research Institute, ILRI, Nairobi, Kenya), G. Cinardi and A. Mottet (Food and Agriculture Organization, FAO, Rome, Italy), W. Thanapongtharm (Department of Livestock Development, DLD, Bangkok, Thailand), H. Yu (Chinese Center for Disease Control, CDC, Beijing, China), and our main academic collaborators are W. Wint (ERGO, Oxford, UK), S. Hay (SEEG, Univ. Oxford, Oxford, UK), T. Van Boeckel (Dpt Ecol & Evol Biol, Princeton, USA) & S. Vanwambeke (UCL, Louvain-la-Neuve, Belgium).
+Our main institutional collaborators are T. Robinson & G. Cinardi (Livestock and Environment, FAO, Rome, Italy), W. Thanapongtharm (Department of Livestock Development, DLD, Bangkok, Thailand), H. Yu (Chinese Center for Disease Control, CDC, Beijing, China), and our main academic collaborators are W. Wint (ERGO, Oxford, UK) & S. Vanwambeke (UCL, Louvain-la-Neuve, Belgium).
