@@ -47,8 +47,8 @@ A second species of choice, *Ips typographus*, is the most damaging forest pest 
 ### Past projecst and networks (2010-2017)  
 
 * 2014-2018 Action COST FP1401 - A global network of nurseries as early warning system against alien tree pests (*Global Warning*)  
-* 2016-2018 – [XYLERIS](/project/xyleris) (Study on *Xylella fastidiosa* plant hosts and vectors in Belgium and the influence of specific plant growth conditions on disease development) (with UCL, Louvain-la-Neuve, and ILVO, Merelbeke) *Funded by the Federal Public Service Health, Food Chain Safety and Environment*  
-* 2015-2018 - [FUNGIFOR](/project/fungiform) (Phytosanitary status of 8 fungi (+ 1 insect vector) infecting trees in Belgium: survey and evaluation of the risk of establishment) (with CRAW, Gembloux, and PCS, Destelbergen). *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
+* 2016-2018 – XYLERIS (Study on *Xylella fastidiosa* plant hosts and vectors in Belgium and the influence of specific plant growth conditions on disease development) (with UCL, Louvain-la-Neuve, and ILVO, Merelbeke) *Funded by the Federal Public Service Health, Food Chain Safety and Environment*  
+* 2015-2018 - FUNGIFOR (Phytosanitary status of 8 fungi (+ 1 insect vector) infecting trees in Belgium: survey and evaluation of the risk of establishment) (with CRAW, Gembloux, and PCS, Destelbergen). *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
 * Recherche dans le cadre du réseau d'observatoire de la santé des forêts (2010-2017) *Funded by the Walloon Region*  
 * LWEC Tree Health & Plant Biosecurity Initiative (Phase 1). Accelerated detection and diagnosis of invasive alien pests and pathogens in imported plants. (2013) *Funded by DEFRA (UK)*  
 * MONOCHAMUS: A study of the Monochamus spp. populations present in Belgium in order to assess their capacity to propagate the pine wood nematode, and to develop preventive control methods (2012-2015) *Funded by SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement.*  
