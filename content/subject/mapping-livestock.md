@@ -12,7 +12,7 @@ For many years, several research groups and international organisations have dev
   
   
 ![](/images/GLW3_Maps_Ch_2010_Da.png)
-###### Output distribution of chicken density in Asia (Gilbert et al. 2018)
+###### Global output distribution of chicken density of the Gridded Livestock of the World (GLW3) (Gilbert et al. 2018)
   
     
 ### Ongoing work
