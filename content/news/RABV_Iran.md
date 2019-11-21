@@ -12,4 +12,4 @@ Recent years have seen the extensive use of phylogeographic approaches to unveil
 Read the whole study [here](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15222). 
 
 Reference:
-Dellicour S, Troupin C, Jahanbakhsh F, Salama A, Massoudi S, Moghaddam MK, Baele G, Lemey P, Gholami A, Bourhy H (2019). Using phylogeographic approaches to analyse the dispersal history, velocity, and direction of viral lineages – application to rabies virus spread in Iran. *Molecular Ecology*, *in press*.
+Dellicour S, Troupin C, Jahanbakhsh F, Salama A, Massoudi S, Moghaddam MK, Baele G, Lemey P, Gholami A, Bourhy H (2019). Using phylogeographic approaches to analyse the dispersal history, velocity, and direction of viral lineages – application to rabies virus spread in Iran. *Molecular Ecology* 28: 4335-4350.
