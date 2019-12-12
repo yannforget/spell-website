@@ -13,7 +13,7 @@ Recent advances in genomics, mathematical modelling and computational biology ha
 
 ### Ongoing work
 
-We are currently developing tools in landscape phylogeography, a field at the interface between spatial and molecular epidemiology and that aims to relate phylogenetic informed movements to external/environmental factors. Specifically, we focus on new methods to investigate the impact on environmental factors on the dispersal history and dynamic of viral lineages (dispersal velocity, dispersal direction and dispersal frequency), as well as to assess hypothetical intervention strategies in the context of viral epidemics. Besides methodological developments, we also apply new and existing methodologies to study several virus spreads in their environmental context: rabies virus in Asia, bluetongue virus in Europe, West Nile virus in North America, Lassa virus in Africa, and African swine virus in Belgium.
+We are currently developing tools in landscape phylogeography, a field at the interface between spatial and molecular epidemiology and that aims to relate phylogenetic informed movements to external/environmental factors. Specifically, we focus on new methods to investigate the impact of environmental factors on the dispersal history and dynamic of viral lineages (dispersal velocity, dispersal direction and dispersal frequency), as well as to assess potential intervention strategies in the context of viral epidemics. Besides methodological developments, we also apply new and existing methodologies to study several virus spreads in their environmental context: rabies virus in Asia, bluetongue virus in Europe, West Nile virus in North America, Lassa virus in Africa, and African swine virus in Belgium.
 
 ### Collaborations
 
