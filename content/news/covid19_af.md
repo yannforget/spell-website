@@ -5,7 +5,7 @@ title: "New publication on COVID-19 in The Lancet"
 ---
 Egypt, Algeria and Republic of South Africa are the African countries most at risk for coronavirus COVID-19 importation in the continent, due to high air traffic with the contaminated Chinese provinces. 
 
-![Figure Map](/images/Figure_covid19.jpg)
+![Figure Map](/images/Figure_covid192.jpg)
 
 But these countries are also among the best equipped on the continent to quickly detect and deal with new cases. In other African countries, the risk of importation is lower, but health organization deficiencies raise concerns about rapid spread. 
 
