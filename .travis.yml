@@ -3,8 +3,12 @@ language: python
 python:
   - 3.6
 
+before_install:
+  - sudo add-apt-repository -y ppa:lopin/openconnect-globalprotect
+  - sudo apt-get -q update
+  - sudo apt-get -y install lftp openconnect
+
 install:
-  - sudo apt-get install lftp openconnect
   - wget https://github.com/gohugoio/hugo/releases/download/v0.40.1/hugo_0.40.1_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
   - rm -rf public || exit 0
@@ -16,4 +20,3 @@ script:
 after_success:
   - hugo -d site
   - ./deploy.sh
-  
