@@ -150,7 +150,7 @@ def update(zotero_dir, destination):
     raw_references = []
     for csv_f in csv_files:
         external = 'external' in csv_f
-        f = open(csv_f)
+        f = open(csv_f, encoding='utf-8')
         reader = csv.DictReader(f)
         for row in reader:
             row['external'] = external
