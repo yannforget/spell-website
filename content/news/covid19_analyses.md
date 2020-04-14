@@ -6,7 +6,7 @@ title: "Ongoing epidemiological analyses of COVID-19 in Belgium"
 The Spatial Epidemiology Lab is actively involved in several real-time analyses dedicated to the COVID-19 epidemic in Belgium. Here is an overview of ongoing analyses and preliminary results. All the scripts written and used to perform these analyses are available on the following [GitHub repo](https://github.com/sdellicour/covid19_spell). Please note that the content of this page (and GitHub repo) will be regularly updated to rapidly share updated or new results. Spatial analyses are performed in collaboration with the research teams of Catherine Linard (UNamur), Sophie Vanwambeke (UCL), and Niel Hens (UHasselt), and phylogenetic analyses are performed in collaboration with the research teams of Piet Maes, Guy Baele, and Philippe Lemey from the Rega Institute (KU Leuven).
 
 
-### Investigating the evolution of doubling times
+## Investigating the evolution of doubling times
 
 To follow the progression of the epidemic and quantify the impact of lockdown measures, we frequently estimate several metrics as the doubling time associated with the number of hospitalisations. The doubling time is here defined as the number of days needed to double the number of infected people hospitalised in Belgium. We here focus on the number of hospitalisations rather than on the number of positive cases, which is directly function of the testing effort and strategy themself evolving through time. Therefore, we consider the number of hospitalisations as a more reliable proxy to follow the epidemiological trend. Furthermore, analysing the number of hospitalisation is of primary interest regarding the objective to remain below the saturation threshold of hospitals. We first aim to estimate the evolution of such doubling time per province:
 
@@ -22,12 +22,12 @@ We then defined hospital catchment areas based on travel time to closest hospita
 These estimates confirm the impact of lockdown measures but also highlight some differences among provinces or hospital catchment areas. The plan is now to test the association between several epidemiological metrics (e.g. COVID-19 hospitalisation incidence, growth rate, and doubling time) and several covariates (e.g. demographic, socio-economic, environmental, and behavioural variables).
 
 
-### Analysing the lockdown with mobile phone data
+## Analysing the lockdown with mobile phone data
 
 Along with our collaborators, we also have the perspective to exploit anonymised and aggregated mobile phone data to quantify and monitor the effect of lockdown measures on mobility. The analysis of such data could for instance allow to detect potential increase in overal mobility despite lockdown measures, which could in turn indicate the short-term risk to observe an increase in the number of hospitalisations.
 
 
-### Phylogenetic and phylogeographic investigations
+## Phylogenetic and phylogeographic investigations
 
 In Belgium, several labs are sequencing SARS-CoV-2 genomes (Rega Institute, KU Leuven; GIGA Medical Genomics, ULiège; Onderzoeksgroep Virologie, UGent). Recently, the team of Dr Piet Maes (Rega Institute, KU Leuven) released XX sequences deposited on the [GISAID](https://www.gisaid.org/) database. This data set represents a unique opportunity to investigate several questions related to the dispersal history and dynamic of SARS-CoV-2 in Belgium: origin of introductions into the Belgian territory (phylogeographic analysis currently running), relative importance of external introductions in establishing Belgian clusters of transmission, spatio-temporal distribution of these clusters, etc.
 
@@ -50,7 +50,7 @@ And here is a first spatially-explicit analysis where we explored the spatial di
 Two main conclusions so far: (i) the relative importance of external introduction is relatively important, (ii) the clusters resulting from these introductions are widely distributed across the country. The main perspective with this second aspect is now to assess if this pattern will evolve while including more sequences sampled during the lockdown. These analyses are based on sequences available on the 7th April, but we will regularly update these analyses with newly available sequences.
 
 
-### References
+## References
 
 Hadfield J, Megill C, Bell SM, Huddleston J, Potter B, Callender C, Sagulenko P, Bedford T, Neher RA (2018). Nextstrain: Real-time tracking of pathogen evolution. *Bioinformatics* 34: 4121–4123.
 
