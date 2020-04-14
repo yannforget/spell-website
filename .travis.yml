@@ -4,7 +4,7 @@ python:
   - 3.6
 
 install:
-  - sudo apt-get install lftp
+  - sudo apt-get install lftp openconnect
   - wget https://github.com/gohugoio/hugo/releases/download/v0.40.1/hugo_0.40.1_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
   - rm -rf public || exit 0
