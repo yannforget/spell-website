@@ -12,13 +12,10 @@ The Spatial Epidemiology Lab is actively involved in several real-time analyses 
 To follow the progression of the epidemic and quantify the impact of lockdown measures, we frequently estimate several metrics as the doubling time associated with the number of hospitalisations. The doubling time is here defined as the number of days needed to double the number of infected people hospitalised in Belgium. We here focus on the number of hospitalisations rather than on the number of positive cases, which is directly function of the testing effort and strategy themself evolving through time. Therefore, we consider the number of hospitalisations as a more reliable proxy to follow the epidemiological trend. Furthermore, analysing the number of hospitalisation is of primary interest regarding the objective to remain below the saturation threshold of hospitals. We first aim to estimate the evolution of such doubling time per province:
 
 ![Figure Map](/images/Doubling_times_provinces_1_070420.jpg)
-![Figure Map](/images/Doubling_times_provinces_2_070420.jpg)
-
 
 We then defined hospital catchment areas based on travel time to closest hospital. We used these catchment area to follow the situation per hospital:
 
 ![Figure Map](/images/Hosp_data_catchment_areas_090420.jpg)
-
 
 These estimates confirm the impact of lockdown measures but also highlight some differences among provinces or hospital catchment areas. The plan is now to test the association between several epidemiological metrics (e.g. COVID-19 hospitalisation incidence, growth rate, and doubling time) and several covariates (e.g. demographic, socio-economic, environmental, and behavioural variables).
 
@@ -36,13 +33,9 @@ These new sequences were immediately integrated in the phylogenetic reconstructi
 
 In a first time and in order to focus on Belgium, we have only focused on two possible ancestral locations: "Belgium" and "outside Belgium":
 
-![Figure Map](/images/COVID19_timetree1_Belgium_070420.jpg)
+![Figure Map](/images/COVID19_timetrees_Belgium_070420.jpg)
 
-On this overall tree, you can visualise inferred Belgian clusters (green branches/clades) as well as their most ancestral node identified in the tree (green internal nodes). We identified a minimum number of 125 lineage introductions (95% HPD interval = [112-139]), which gives the relative importance of external introduction considering the number of sequences sampled in Belgium (253). Here is a non-circular visualisation of the same tree:
-
-![Figure Map](/images/COVID19_timetree2_Belgium_070420.jpg)
-
-While each inferred Belgian cluster should correspond to a distinct introduction in the country, the estimated age of the most ancestral node (green internal node) of each of these clusters does not necessarily correspond to the estimated moment of introduction of that lineage in Belgium. Indeed, if we consider an actual introduction leading to a cluster of 1000 infections for which we sequenced 5 genomes, the green node is the most recent ancestor of these 5 genomes within that cluster, not the most recent ancestor of all lineages in that cluster.
+On this overall tree, you can visualise inferred Belgian clusters (green branches/clades) as well as their most ancestral node identified in the tree (green internal nodes). We identified a minimum number of 125 lineage introductions (95% HPD interval = [112-139]), which gives the relative importance of external introduction considering the number of sequences sampled in Belgium (253). While each inferred Belgian cluster should correspond to a distinct introduction in the country, the estimated age of the most ancestral node (green internal node) of each of these clusters does not necessarily correspond to the estimated moment of introduction of that lineage in Belgium. Indeed, if we consider an actual introduction leading to a cluster of 1000 infections for which we sequenced 5 genomes, the green node is the most recent ancestor of these 5 genomes within that cluster, not the most recent ancestor of all lineages in that cluster.
 
 And here is a first spatially-explicit analysis where we explored the spatial distribution of Belgian clusters:
 
