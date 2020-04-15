@@ -224,6 +224,25 @@ body {
     min-height: 200px;
 }
 
+/* Tables of Contents */
+
+.toc {
+    padding: 0em;
+    margin-top: 1.25em;
+    margin-bottom: 2em;
+}
+
+.toc h3 {
+    margin-top: 0em;
+    margin-bottom: 0.5em;
+}
+
+.toc ul {
+    margin-bottom: 0em;
+    margin-left: 0em;
+    padding-left: 2em;
+}
+
 /* Screen specific */
 
 @media(max-width:1200px) {
