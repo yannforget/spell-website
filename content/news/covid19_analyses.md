@@ -2,10 +2,9 @@
 author: "Simon Dellicour & Marius Gilbert"
 date: 2020-04-12T12:00:00+02:00
 title: "Ongoing epidemiological analyses of COVID-19 in Belgium"
-draft: true
 ---
-The Spatial Epidemiology Lab is actively involved in several real-time analyses dedicated to the COVID-19 epidemic in Belgium. Here is an overview of ongoing analyses and preliminary results. All the scripts written and used to perform these analyses are available on the following [GitHub repo](https://github.com/sdellicour/covid19_spell). Please note that the content of this page (and GitHub repo) will be regularly updated to rapidly share updated or new results. Spatial analyses are performed in collaboration with the research teams of Catherine Linard (UNamur), Sophie Vanwambeke (UCL), and Niel Hens (UHasselt), and phylogenetic analyses are performed in collaboration with the research teams of Piet Maes, Guy Baele, and Philippe Lemey from the Rega Institute (KU Leuven).
 
+The Spatial Epidemiology Lab is actively involved in several real-time analyses dedicated to the COVID-19 epidemic in Belgium. Here is an overview of ongoing analyses and preliminary results. All the scripts written and used to perform these analyses are available on the following [GitHub repo](https://github.com/sdellicour/covid19_spell). Please note that the content of this page (and GitHub repo) will be regularly updated to rapidly share updated or new results. Spatial analyses are performed in collaboration with the research teams of Catherine Linard (UNamur), Sophie Vanwambeke (UCL), and Niel Hens (UHasselt), and phylogenetic analyses are performed in collaboration with the research teams of Piet Maes, Guy Baele, and Philippe Lemey from the Rega Institute (KU Leuven).
 
 ## Investigating the evolution of doubling times
 
