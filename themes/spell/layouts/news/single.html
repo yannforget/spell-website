@@ -12,7 +12,8 @@
       <p><em>Published on {{ .Date.Format "January 02, 2006" }}, by {{ .Params.author }}</em></p>
 
       {{ if gt .FuzzyWordCount 1000}}
-      <div class="well toc">
+      <div class="toc well">
+        <h3>Contents</h3>
         {{ .TableOfContents }}
       </div>
       {{ end }}
