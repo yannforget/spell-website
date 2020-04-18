@@ -3,6 +3,10 @@ author: "Simon Dellicour & Marius Gilbert"
 date: 2020-04-12T12:00:00+02:00
 title: "Ongoing epidemiological analyses of COVID-19 in Belgium"
 ---
+<<<<<<< HEAD
+The Spatial Epidemiology Lab is actively involved in several real-time analyses dedicated to the COVID-19 epidemic in Belgium. Here is an overview of ongoing analyses and preliminary results. All the scripts written and used to perform these analyses are available on the following [GitHub repo](https://github.com/sdellicour/covid19_spell). Please note that the content of this page (and GitHub repo) will be regularly updated to rapidly share updated or new results. Spatial analyses are performed in collaboration with the research teams of Catherine Linard (UNamur), Sophie Vanwambeke (UCL), and Niel Hens (UHasselt), and phylogenetic analyses are performed in collaboration with the research teams of Piet Maes, Guy Baele, and Philippe Lemey from the Rega Institute (KU Leuven), as well as the teams of Marie-Pierre Hayette, Vincent Bours and Keith Durkin (ULiège).
+=======
+>>>>>>> 76166f67ca50cb977c57434d19e39b9b34ad481d
 
 The Spatial Epidemiology Lab is actively involved in several real-time analyses dedicated to the COVID-19 epidemic in Belgium. Here is an overview of ongoing analyses and preliminary results. All the scripts written and used to perform these analyses are available on the following [GitHub repo](https://github.com/sdellicour/covid19_spell). Please note that the content of this page (and GitHub repo) will be regularly updated to rapidly share updated or new results. Spatial analyses are performed in collaboration with the research teams of Catherine Linard (UNamur), Sophie Vanwambeke (UCL), and Niel Hens (UHasselt), and phylogenetic analyses are performed in collaboration with the research teams of Piet Maes, Guy Baele, and Philippe Lemey from the Rega Institute (KU Leuven).
 
@@ -26,7 +30,7 @@ In Belgium, several labs are sequencing SARS-CoV-2 genomes (Rega Institute, KU L
 
 These new sequences were immediately integrated in the phylogenetic reconstruction available on the online plateform [Nextstrain](https://nextstrain.org/ncov/global) (Hadfield *et al*. 2018). Nextstrain uses the maximum likelihood method implemented in the program TreeTime (Sagulenko *et al*. 2018) to infer a time-scaled phylogenetic tree in a really short amount of time. Here, we take advantage of this already inferred tree to reconstruct and analyse the dispersal history of SARS-CoV-2 lineages in Belgium. In practice, we use the Nextstrain tree as a fixed empirical tree along which we infer the ancestral locations using the discrete diffusion process (Lemey *et al*. 2009) implemented in the software package BEAST 1.10 (Suchard *et al*. 2018). While we acknowledge that a fully integrated analysis (i.e. an analysis where the phylogenetic tree and ancestral locations are jointly inferred) would be preferable, fixing an empirical tree represents a good compromise to quickly gain insights on the dispersal history and dynamics of SARS-CoV-2 lineages. Indeed, the amount of genomes available, as well as the number of different discrete locations to consider in the analysis, would lead to a joint analysis running for weeks in a Bayesian framework like BEAST. Given the present situation, we deliberately chose to use the Nextstrain tree as a good estimate of the true time-scaled phylogenetic tree. Furthermore, this framework also allows us to frequently update the analysis.
 
-In a first time and in order to focus on Belgium, we have only considered two possible ancestral locations: "Belgium" and "outside Belgium":
+In a first time and in order to focus on Belgium, we have only considered two possible ancestral locations, i.e. "Belgium" and "outside Belgium":
 
 ![Figure Map](/images/COVID19_timetrees_Belgium_070420.jpg)
 
@@ -34,7 +38,7 @@ On this overall tree, you can visualise inferred Belgian clusters (green branche
 
 And here is a first spatially-explicit analysis where we explored the spatial distribution of Belgian clusters:
 
-![Figure Map](/images/COVID19_Belgian_cluster_tree_070420.jpg)
+![Figure Map](/images/COVID19_Belgian_cluster_tree_170420.jpg)
 
 Two main conclusions so far: (i) the relative importance of external introduction is relatively important, (ii) the clusters resulting from these introductions are widely distributed across the country. The main perspective with this second aspect is now to assess if this pattern will evolve while including more sequences sampled during the lockdown. These analyses are based on sequences available on the 7th April, but in the future, we will update these analyses with newly available sequences.
 
