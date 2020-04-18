@@ -3,10 +3,8 @@ author: "Simon Dellicour & Marius Gilbert"
 date: 2020-04-12T12:00:00+02:00
 title: "Ongoing epidemiological analyses of COVID-19 in Belgium"
 ---
-<<<<<<< HEAD
 The Spatial Epidemiology Lab is actively involved in several real-time analyses dedicated to the COVID-19 epidemic in Belgium. Here is an overview of ongoing analyses and preliminary results. All the scripts written and used to perform these analyses are available on the following [GitHub repo](https://github.com/sdellicour/covid19_spell). Please note that the content of this page (and GitHub repo) will be regularly updated to rapidly share updated or new results. Spatial analyses are performed in collaboration with the research teams of Catherine Linard (UNamur), Sophie Vanwambeke (UCL), and Niel Hens (UHasselt), and phylogenetic analyses are performed in collaboration with the research teams of Piet Maes, Guy Baele, and Philippe Lemey from the Rega Institute (KU Leuven), as well as the teams of Marie-Pierre Hayette, Vincent Bours and Keith Durkin (ULiège).
 =======
->>>>>>> 76166f67ca50cb977c57434d19e39b9b34ad481d
 
 The Spatial Epidemiology Lab is actively involved in several real-time analyses dedicated to the COVID-19 epidemic in Belgium. Here is an overview of ongoing analyses and preliminary results. All the scripts written and used to perform these analyses are available on the following [GitHub repo](https://github.com/sdellicour/covid19_spell). Please note that the content of this page (and GitHub repo) will be regularly updated to rapidly share updated or new results. Spatial analyses are performed in collaboration with the research teams of Catherine Linard (UNamur), Sophie Vanwambeke (UCL), and Niel Hens (UHasselt), and phylogenetic analyses are performed in collaboration with the research teams of Piet Maes, Guy Baele, and Philippe Lemey from the Rega Institute (KU Leuven).
 
@@ -38,7 +36,7 @@ On this overall tree, you can visualise inferred Belgian clusters (green branche
 
 And here is a first spatially-explicit analysis where we explored the spatial distribution of Belgian clusters:
 
-![Figure Map](/images/COVID19_Belgian_cluster_tree_170420.jpg)
+![Figure Map](/images/COVID19_Belgian_cluster_tree_070420.jpg)
 
 Two main conclusions so far: (i) the relative importance of external introduction is relatively important, (ii) the clusters resulting from these introductions are widely distributed across the country. The main perspective with this second aspect is now to assess if this pattern will evolve while including more sequences sampled during the lockdown. These analyses are based on sequences available on the 7th April, but in the future, we will update these analyses with newly available sequences.
 
