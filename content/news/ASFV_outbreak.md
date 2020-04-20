@@ -1,6 +1,6 @@
 ---
 author: "Simon Dellicour"
-date: 2020-04-19T12:00:00+02:00
+date: 2020-04-17T12:00:00+02:00
 title: "Unravelling the dispersal dynamics and ecological drivers of the African swine fever outbreak in Belgium"
 ---
 
