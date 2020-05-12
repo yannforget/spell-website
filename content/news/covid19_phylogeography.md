@@ -1,5 +1,5 @@
 ---
-author: "Simon Dellicour & Marius Gilbert"
+author: "Simon Dellicour"
 date: 2020-05-11T12:00:00+02:00
 title: "A phylodynamic workflow to rapidly gain insights into the dispersal history and dynamics of SARS-CoV-2 lineages"
 ---
