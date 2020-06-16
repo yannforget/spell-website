@@ -32,10 +32,6 @@ In a first time and in order to focus on Belgium, we have only considered two po
 
 On this overall tree, you can visualise inferred Belgian clusters (green branches/clades) as well as their most ancestral node identified in the tree (green internal nodes). We identified a minimum number of 125 lineage introductions (95% HPD interval = [112-139]), which gives the relative importance of external introduction considering the number of sequences currently sampled in Belgium (253). While each inferred Belgian cluster should correspond to a distinct introduction in the country, the estimated age of the most ancestral node (green internal node) of each of these clusters does not necessarily correspond to the estimated moment of introduction of that lineage in Belgium. Indeed, if we consider an actual introduction leading to a cluster of 1000 infections for which we sequenced 5 genomes, the green node is the most recent ancestor of these 5 genomes within that cluster, not the most recent ancestor of all lineages in that cluster.
 
-And here is a first spatially-explicit analysis where we explored the spatial distribution of Belgian clusters:
-
-![Figure Map](/images/COVID19_Belgian_cluster_tree_070420.jpg)
-
 Two main conclusions so far: (i) the relative importance of external introduction is relatively important, (ii) the clusters resulting from these introductions are widely distributed across the country. The main perspective with this second aspect is now to assess if this pattern will evolve while including more sequences sampled during the lockdown. These analyses are based on sequences available on the 7th April, but in the future, we will update these analyses with newly available sequences.
 
 
