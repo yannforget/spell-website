@@ -1,6 +1,6 @@
 ---
 author: "Simon Dellicour"
-date: 2020-05-11T12:00:00+02:00
+date: 2020-06-16T12:00:00+02:00
 title: "A phylodynamic workflow to rapidly gain insights into the dispersal history and dynamics of SARS-CoV-2 lineages"
 ---
 Since the start of the COVID-19 pandemic, an unprecedented number of genomic sequences of the causative virus (SARS-CoV-2) have been publicly released. The resulting volume of available genetic data presents a unique opportunity to gain real-time insights into the pandemic, but also a daunting computational hurdle if analysed with gold-standard phylogeographic methods. We here describe and apply an analytical pipeline that is a compromise between fast and rigorous analytical steps. As a proof of concept, we focus on Belgium, one of the countries with the highest spatial density of sequenced SARS-CoV-2 genomes. At the global scale, our analyses confirm the importance of external introduction events in establishing transmission chains in the country. At the country scale, our spatially-explicit phylogeographic analyses highlight that the national lockdown had a relatively low impact on both the lineage dispersal velocity and the long-distance dispersal events. This latter result contrasts with estimates previously obtained when analysing a smaller data set including less sequences sampled during the lockdown period. Our pipeline has the potential to be quickly applied to other countries or regions, with key benefits in complementing epidemiological analyses in assessing the impact of intervention measures or their progressive easement.
