@@ -14,7 +14,7 @@ ref: "mgilbert"
 since: "1940"
 title: "Marius Gilbert"
 interests: ["Spatial epidemiology", "Emerging zoonoses", "Livestock production systems"]
-weight: -3
+weight: -4
 ---
 
 Marius Gilbert graduated in Agricultural and Applied Biological Sciences at the Université Libre de Bruxelles in 1995. He was then a visiting researcher for two years at the department of Zoology, University of Oxford and did a PhD on in insect pest ecology at the ULB in 2001. He then worked on the invasion ecology of several insect pests before moving the focus of his research toward to the spatial epidemiology of animal diseases. In 2006, he was awarded a permanent academic position with the Belgian FNRS. Since 2015, he's FNRS Senior Research associates and leads the Spatial epidemiology Lab. (SpELL).
