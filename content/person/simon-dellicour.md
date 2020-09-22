@@ -32,4 +32,5 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 
 ## Supervisions.
 - Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
+- Wafae El Boubekri Alaoui, master thesis student (ULB)
 - Tim Blokker, master thesis student (KU Leuven, co-supervision with Philippe Lemey)
