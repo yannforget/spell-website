@@ -1,6 +1,6 @@
 ---
 author: "Simon Dellicour"
-date: 2020-09-25T12:00:00+02:00
+date: 2020-09-21T12:00:00+02:00
 title: "Our new study about epidemiological hypothesis testing using phylogeographic and phylodynamic approaches"
 ---
 
