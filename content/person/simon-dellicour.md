@@ -8,7 +8,7 @@ past: false
 twitter: sdellicour
 github: sdellicour
 portrait: /images/portraits/sdellicour-2.png
-position:  F.R.S.-FNRS Research Associate (ULB) / Visiting Professor (KU Leuven)
+position:  F.R.S.-FNRS Research Associate (ULB) and Visiting Professor (KU Leuven)
 ref: "sdellicour"
 title: "Simon Dellicour"
 interests:
