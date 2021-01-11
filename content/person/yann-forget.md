@@ -22,7 +22,7 @@ Yann Forget graduated in Geography and Geomatics at the University Toulouse II (
 
 # Research interests
 
-Yann is interested in spatial issues in human and health geography, including land use and land cover changes, human population mapping, urbanization and health accessibility. He combines satellite remote sensing with spatial modeling to produce and analyze large-scaled geospatial datasets, allowing for a better understanding of the spatio-temporal dynamics in health and human geography in a context of global change. He is particularly interested in the development of new methods that leverages the synergy between new open-access satellite catalogs and crowd-sourced geographic databases such as OpenStreetMap.
+Yann is interested in spatial issues in human and health geography, including land use and land cover changes, human population mapping, urbanization and health accessibility. He combines satellite remote sensing with spatial modeling to produce and analyze large-scaled geospatial datasets, allowing for a better understanding of the spatio-temporal dynamics in health and human geography in a context of global change. He is particularly interested in the development of new methods that leverage the synergy between new open-access satellite catalogs and crowd-sourced geographic databases such as OpenStreetMap.
 
 # Areas of expertise
 
