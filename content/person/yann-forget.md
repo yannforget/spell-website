@@ -9,7 +9,7 @@ phone: +32-2-650.58.09
 twitter: yann_forget
 github: yannforget
 portrait: /images/portraits/yforget.png
-position: "PhD Student"
+position: "PostDoc"
 ref: "yforget"
 title: "Yann Forget"
 interests:
@@ -42,3 +42,11 @@ Yann is interested in spatial issues in human and health geography, including la
 * *"Fusion scheme for automatic and large-scaled built-up mapping"*.International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, 2018.
 * *"Automated Supervised Classification of Ouagadougou Built-up Areas in Landsat Scenes Using OpenStreetMap"*. Joint Urban Remote Sensing Event (JURSE), Dubai, U.A.E., 2017.
 * *"Automated urban remote sensing with Python"*. FOSS4G-BE, Brussels, Belgium, 2016.
+
+# Software
+
+Yann also maintains the following Python packages:
+
+* [landsatxplore](https://github.com/yannforget/landsatxplore):  Search and download Landsat scenes from USGS EarthExplorer.
+* [pylandsat](https://github.com/yannforget/pylandsat): Search, download, and preprocess Landsat imagery from Google Cloud.
+* [asarapi](https://github.com/yannforget/asarapi): Search and download ERS-1, ERS-2, and Envisat products from the ESA Online Catalogue.
