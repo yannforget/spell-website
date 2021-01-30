@@ -61,13 +61,3 @@ A second species of choice, *Ips typographus*, is the most damaging forest pest 
 * Impact des changements climatiques du passé sur la diversité génétique des insectes phytophages caractérisés par une distribution eurasiatique arctique – alpine (2009-2012). *Funded by F.R.S-FNRS, Brussels, Belgium*
 * Methodologie voor risico-analyse ter voorbereiding van de registratie van biologische bestrijders (macro-organismen) - MACROREG (2009-2010). *Funded by the Federal Public Service Health, Food Chain Safety and Environment*    
 * Influence of climatic hazards on beech (Fagus sylvatica L.) susceptibility towards xylophagous scolytines (2008-2011). *Funded by F.R.S-FNRS, Brussels, Belgium* 
-
-
- 
-
-
- 
- 
- 
-
- 
