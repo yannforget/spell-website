@@ -8,7 +8,7 @@ past: false
 phone: +32-2-650.58.09
 office: UB2.167
 portrait: /images/portraits/jartois.png
-position: "PhD Student"
+position: "Post-doc"
 ref: "jartois"
 title: "Jean Artois"
 interests:

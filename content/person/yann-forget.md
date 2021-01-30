@@ -9,7 +9,7 @@ phone: +32-2-650.58.09
 twitter: yann_forget
 github: yannforget
 portrait: /images/portraits/yforget.png
-position: "PostDoc"
+position: "Post-doc"
 ref: "yforget"
 title: "Yann Forget"
 interests:
