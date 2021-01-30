@@ -6,7 +6,7 @@ mail: "christoffe@hotmail.com"
 past: false
 phone: +32 2 650 53 32
 portrait: /images/portraits/caxelsson.png
-position: "PostDoc (FNRS-WISD)"
+position: "Post-doc (FNRS-WISD)"
 ref: "caxelsson"
 title: "Christoffer Axelsson"
 interests:

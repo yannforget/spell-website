@@ -8,7 +8,7 @@ phone: +32 2 650 37 80
 twitter: MaudeJacquot
 office: UB2.167
 portrait: /images/portraits/mjacquot.png
-position: "PostDoc (detached at UMR EpiA, INRA)"
+position: "Post-doc (detached at UMR EpiA, INRA)"
 ref: "mjacquot"
 title: "Maude Jacquot"
 interests:
