@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Connect to ULB VPN
-echo $ULB_PASSWD | sudo openconnect --protocol=gp --user=$ULB_NETID --passwd-on-stdin vpn.ulb.ac.be &
-sleep 3
+echo $ULB_PASSWD | sudo openconnect --protocol=gp --background --user=$ULB_NETID --passwd-on-stdin vpn.ulb.ac.be 
+sleep 10
 
 # Mirror local changes to a remote SFTP directory
 LOCALDIR="$(cd public && pwd)"
