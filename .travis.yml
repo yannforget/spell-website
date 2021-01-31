@@ -2,10 +2,9 @@ dist: focal
 language: python
 
 python:
-  - 3.6
+  - 3.8
 
 before_install:
-  - sudo add-apt-repository -y ppa:lopin/openconnect-globalprotect
   - sudo apt-get -y update
   - sudo apt-get -y install lftp openconnect imagemagick jpegoptim optipng
 
