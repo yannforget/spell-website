@@ -1,5 +1,5 @@
 ---
-date: 2018-09-05T19:36:23+02:00
+date: 2021-01-30T19:36:23+02:00
 firstname: "Daniel"
 lastname: "Schar"
 abbrv: "D. Schar"
@@ -18,5 +18,4 @@ interests:
 ---
 
 ## PhD project
-Daniel just started a PhD co-supervised by [Thomas Van Boeckel](https://www.brancoweissfellowship.org/thomas-van-boeckel.html) at ETH Zurich on the quantification of antimicrobial use (AMU) and 
-resistance (AMR) in aquaculture. 
+Daniel Schar is a veterinarian undertaking just started a PhD co-supervised by [Thomas Van Boeckel](https://www.brancoweissfellowship.org/thomas-van-boeckel.html) at ETH Zurich on the quantification of antimicrobial use (AMU) and resistance (AMR) in aquaculture.
