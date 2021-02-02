@@ -18,4 +18,4 @@ interests:
 ---
 
 ## PhD project
-Daniel Schar is a veterinarian undertaking just started a PhD co-supervised by [Thomas Van Boeckel](https://www.brancoweissfellowship.org/thomas-van-boeckel.html) at ETH Zurich on the quantification of antimicrobial use (AMU) and resistance (AMR) in aquaculture.
+Daniel Schar is a veterinarian undertaking a PhD co-supervised by [Thomas Van Boeckel](https://www.brancoweissfellowship.org/thomas-van-boeckel.html) at ETH Zurich on the quantification of antimicrobial use (AMU) and resistance (AMR) in aquaculture.
