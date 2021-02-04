@@ -4,6 +4,8 @@
 echo $ULB_PASSWD | sudo openconnect --protocol=gp --background --user=$ULB_NETID --passwd-on-stdin vpn.ulb.ac.be 
 sleep 5
 
+mkdir -p ~/.ssh
+touch ~/.ssh/known_hosts
 ssh-keyscan -H $FTP_HOSTNAME >> ~/.ssh/known_hosts
 
 if ping -c 1 $FTP_HOSTNAME &> /dev/null
