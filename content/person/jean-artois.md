@@ -17,4 +17,11 @@ interests:
   - "Spatial modelling"
 ---
 
-Jean joined the SpELL team in October 2014 as a Ph.D. candidate, looking at the spatial distribution of avian influenza viruses in human and poultry. He tries to develop boosted regression trees models within the context of recent epidemics and epizooties, notably the epidemics of the A (H7N9) virus in live bird markets of China and the epizootie of the A (H5N8) virus of duck farms of "foie gras" of southwestern France. Jean holds an MSc in parasite ecology at the University of Montpellier and an M.Sc. in geomatics engineering from the university of Rennes where he had the opportunity to do research on the ecology of rodents and their pathogens in South East Asia and tick-borne diseases in southern Norway. Its research has enabled it to develop computer programming and statistical analysis skills. Jean is now a post-doctoral researcher working on the MOOD project. Additional information about Jean’s work can be found on his [ResearchGate](https://www.researchgate.net/profile/Jean_Artois) account.
+## Bio
+Jean is a post-doctoral researcher working on the MOOD project which aims to improve detection, monitoring, and assessment of diseases in Europe. His doctoral research focused on the spatial distribution of avian influenza in humans, poultry and wild birds. He developed spatial models within the context of recent epidemic and epizootic outbreaks to update knowledge about the origin of various avian influenza viruses. His research led him to develop spatial cross-validation procedures to train/validate species distribution models. His thesis has also enabled him to discuss the transfer of methods (i.e. species distribution modelling) and concepts from ecology to spatial epidemiology, with a particular emphasis on their possible limitations. Additional information about Jean’s work can be found on his [ResearchGate](https://www.researchgate.net/profile/Jean_Artois) account.
+
+## Areas of Expertise
+Geographic information system
+Spatial epidemiology 
+Species distribution modelling 
+Evolution and ecology of avian influenza 
