@@ -1,0 +1,35 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  setup-build-deploy:
+    runs-on: ubuntu-20.04
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Setup
+      id: setup
+      run: sudo apt-get -y install lftp openconnect jpegoptim optipng hugo
+    - name: Build
+      id: build
+      run: |-
+        python3 zotero/update.py
+        hugo
+        bash optimize.sh
+    - name: Deploy
+      id: deploy
+      run: bash deploy.sh
+      env:
+        ULB_NETID: ${{ secrets.ULB_NETID }}
+        ULB_PASSWD: ${{ secrets.ULB_PASSWORD }}
+        FTP_REMOTEDIR: ${{ secrets.FTP_REMOTEDIR }}
+        FTP_HOSTNAME: ${{ secrets.FTP_HOSTNAME }}
+        FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
