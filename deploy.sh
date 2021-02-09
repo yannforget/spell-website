@@ -11,6 +11,9 @@ else
   echo "Connection to $FTP_HOSTNAME failed"
 fi
 
+mkdir -p ~/.ssh
+ssh-keyscan -H $FTP_HOSTNAME >> ~/.ssh/known_hosts
+
 # Mirror local changes to a remote SFTP directory
 echo "Uploading changes..."
 LOCALDIR="$(cd public && pwd)"
