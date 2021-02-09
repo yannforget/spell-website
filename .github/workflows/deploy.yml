@@ -16,7 +16,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Setup
       id: setup
-      run: sudo apt-get -y install lftp openconnect jpegoptim optipng hugo
+      run: sudo apt-get -y install lftp openconnect jpegoptim optipng hugo expect
     - name: Build
       id: build
       run: |-
