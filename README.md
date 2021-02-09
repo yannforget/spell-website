@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/yannforget/spell-website.svg?branch=master)](https://travis-ci.org/yannforget/spell-website)
+![Build and Deploy](https://github.com/yannforget/spell-website/workflows/Build%20and%20Deploy/badge.svg)
 
 # SpELL Website
 
