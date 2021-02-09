@@ -14,7 +14,7 @@ fi
 # Mirror local changes to a remote SFTP directory
 echo "Uploading changes..."
 LOCALDIR="$(cd public && pwd)"
-lftp -c "set ssl:verify-certificate false; set sftp:auto-confirm yes; open sftp://$FTP_HOSTNAME
+lftp -c "set ftp:ssl-allow yes; set ssl:verify-certificate false; set sftp:auto-confirm yes; open sftp://$FTP_HOSTNAME
 user $FTP_USERNAME '$FTP_PASSWORD'
 mirror --only-newer --ignore-time --reverse --delete --verbose $LOCALDIR $FTP_REMOTEDIR
 "
