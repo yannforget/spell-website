@@ -7,7 +7,7 @@ mail: "simon.dellicour@ulb.ac.be"
 past: false
 twitter: sdellicour
 github: sdellicour
-portrait: /images/portraits/sdellicour-2.png
+portrait: /images/portraits/sdellicour-3.png
 position:  F.R.S.-FNRS Research Associate (ULB) and Visiting Professor (KU Leuven)
 ref: "sdellicour"
 title: "Simon Dellicour"
