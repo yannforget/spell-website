@@ -37,11 +37,11 @@ Two main conclusions so far: (i) the relative importance of external introductio
 
 ## References
 
-Hadfield J, Megill C, Bell SM, Huddleston J, Potter B, Callender C, Sagulenko P, Bedford T, Neher RA (2018). Nextstrain: Real-time tracking of pathogen evolution. *Bioinformatics* 34: 4121–4123.
+Hadfield J, Megill C, Bell SM, Huddleston J, Potter B, Callender C, Sagulenko P, Bedford T, Neher RA (2018). Nextstrain: Real-time tracking of pathogen evolution. *Bioinformatics* 34: 4121–4123
 
-Lemey P, Rambaut A, Drummond AJ, Suchard MA (2009). Bayesian phylogeography finds its roots. *PLoS Computational Biology* 5: e1000520.
+Lemey P, Rambaut A, Drummond AJ, Suchard MA (2009). Bayesian phylogeography finds its roots. *PLoS Computational Biology* 5: e1000520
 
-Sagulenko P, Puller V, Neher RA (2018). TreeTime: Maximum-likelihood phylodynamic analysis. *Virus Evolution* 4: vex042.
+Sagulenko P, Puller V, Neher RA (2018). TreeTime: Maximum-likelihood phylodynamic analysis. *Virus Evolution* 4: vex042
 
-Suchard MA, Lemey P, Baele G, Ayres DL, Drummond AJ, Rambaut A (2018). Bayesian phylogenetic and phylodynamic data integration using BEAST 1.10. *Virus Evolution* 4: vey016.
+Suchard MA, Lemey P, Baele G, Ayres DL, Drummond AJ, Rambaut A (2018). Bayesian phylogenetic and phylodynamic data integration using BEAST 1.10. *Virus Evolution* 4: vey016
 
