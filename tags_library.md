@@ -10,7 +10,6 @@
  
 ### Theme tags
 * livestock-diseases
-* mapping-human-pop
 * mapping-livestock
 * modelling-invasions
 * landscape-phylogeography
