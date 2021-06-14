@@ -29,6 +29,7 @@ Simon has broad interests in molecular epidemiology, animal/plant/virus phylogeo
 External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellicour), [Google Scholar](https://scholar.google.be/citations?user=Z4e2EgwAAAAJ&hl=fr)
 
 ## Team/supervisions
+- Diana Erazo, post-doc (ULB, co-supervision with Marius Gilbert)
 - Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
 - Nena Bollen, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Wafae El Boubekri Alaoui, master thesis student (ULB)
