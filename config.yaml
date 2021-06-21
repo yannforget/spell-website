@@ -38,11 +38,6 @@ menu:
       Identifier: "mapping-livestock"
       URL: "/subject/mapping-livestock/"
       parent: "topics"
-    - Name: "Mapping human population"
-      Weight: 13
-      Identifier: "mapping-human-population"
-      URL: "/subject/mapping-human-population/"
-      parent: "topics"
     - Name: "Modelling geographical invasions"
       Weight: 14
       Identifier: "modelling-geographical-invasions"

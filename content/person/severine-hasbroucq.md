@@ -16,7 +16,8 @@ interests:
   - "field work and logistic"
 ---
 
-## Biographical sketch. 
+## Biographical sketch
+
 Séverine has a Master degree in agronomy with a specialization in Enviroment and land planning ("Master Ingénieur industriel en Agronomie spécialisation Environnement et Gestion du Territoire
 "). She joined the lab many years ago and has since been responsible for all lab. and field experiments and observations. She's involved in
 several projects on invasive species and plant pathogens carried out in collaboration with Claude Bragard at UCL. 

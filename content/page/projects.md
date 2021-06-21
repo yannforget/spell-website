@@ -54,7 +54,7 @@ Many livestock production systems (LPS) are in a state of transition. In high-in
 **Fungifor: Phytosanitary status of 8 fungi (+ 1 insect vector) infecting trees in Belgium: survey and evaluation of the risk of establishment** (2015-2018)  
 *Funded by Federal Public Service Health, Food Chain Safety and Environment.*
 
-[**MAUPP: Modelling and forecasting African Urban Population Patterns for vulnerability and health assessments**](http://maupp.ulb.ac.be/) (2014-2018)  
+**MAUPP: Modelling and forecasting African Urban Population Patterns for vulnerability and health assessments** (2014-2018)  
 *Funded by Belgian Science Policy STEREO-III programme.*
 
 **Transmission dynamics and spillover of avian influenza under changing agricultural intensification and landscapes** (2013-2018)  
