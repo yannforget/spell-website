@@ -35,7 +35,7 @@ On this overall tree, you can visualise inferred Belgian clusters (green branche
 Two main conclusions so far: (i) the relative importance of external introduction is relatively important, (ii) the clusters resulting from these introductions are widely distributed across the country. The main perspective with this second aspect is now to assess if this pattern will evolve while including more sequences sampled during the lockdown. These analyses are based on sequences available on the 7th April, but in the future, we will update these analyses with newly available sequences.
 
 
-## References
+### References
 
 Hadfield J, Megill C, Bell SM, Huddleston J, Potter B, Callender C, Sagulenko P, Bedford T, Neher RA (2018). Nextstrain: Real-time tracking of pathogen evolution. *Bioinformatics* 34: 4121–4123
 
