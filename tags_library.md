@@ -9,8 +9,7 @@
 * yforget
  
 ### Theme tags
-* livestock-diseases
-* mapping-livestock
+* livestock-disease-mapping
 * modelling-invasions
 * landscape-phylogeography
 

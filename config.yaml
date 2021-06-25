@@ -23,25 +23,20 @@ menu:
       Weight: 3
       Identifier: "topics"
       URL: "/"
-    - Name: "Landscape phylogeography"
-      Weight: 12
-      Identifier: "landscape-phylogeography"
-      URL: "/subject/landscape-phylogeography/"
-      parent: "topics"
-    - Name: "Livestock diseases"
-      Weight: 10
-      Identifier: "livestock-disease"
-      URL: "/subject/livestock-disease/"
-      parent: "topics"
-    - Name: "Mapping Livestock"
-      Weight: 11
-      Identifier: "mapping-livestock"
-      URL: "/subject/mapping-livestock/"
+    - Name: "Livestock diseases and mapping"
+      Weight: 14
+      Identifier: "livestock-disease-mapping"
+      URL: "/subject/livestock-disease-mapping/"
       parent: "topics"
     - Name: "Modelling geographical invasions"
-      Weight: 14
+      Weight: 12
       Identifier: "modelling-geographical-invasions"
       URL: "/subject/modelling-geographical-invasions/"
+      parent: "topics"
+    - Name: "Landscape phylogeography"
+      Weight: 10
+      Identifier: "landscape-phylogeography"
+      URL: "/subject/landscape-phylogeography/"
       parent: "topics"
     - Name: "Projects"
       Weight: 4
@@ -59,7 +54,7 @@ menu:
 
 params:
   brand: SpELL
-  description: "**Spatial epidemiology** studies the effect of spatial factors on the **emergence, spread, persistence and evolution** of **[diseases](/subject/livestock-disease/)** and **[invasive species](/subject/modelling-geographical-invasions/)**. The understanding of key spatial factors, such as environmental or anthropogenic  variables, and their integration into spatial models is used to **predict the geographical distribution of risk**, which can contribute to better targetted **prevention, surveillance and control measures**. We also work toward the improvement of methods in **spatial modelling** and **[landscape phylogeography](/subject/landscape-phylogeography)**, and of large-scale data sets on  **[farm animals](/subject/mapping-livestock/)**."  
+  description: "**Spatial epidemiology** studies the effect of spatial factors on the **emergence, spread, persistence and evolution** of **[diseases](/subject/livestock-disease-mapping/)** and **[invasive species](/subject/modelling-geographical-invasions/)**. The understanding of key spatial factors, such as environmental or anthropogenic  variables, and their integration into spatial models is used to **predict the geographical distribution of risk**, which can contribute to better targetted **prevention, surveillance and control measures**. We also work toward the improvement of methods in **spatial modelling** and **[landscape phylogeography](/subject/landscape-phylogeography)**, and of large-scale data sets on  **[farm animals](/subject/livestock-disease-mapping/)**."  
 
 imaging:
   resampleFilter: "box"
