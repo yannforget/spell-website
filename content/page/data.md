@@ -4,6 +4,7 @@ title: Data
 
 Many papers have accompagnying data set that will be published in this page. The links are not yet active, but these should be added as soon as the individual data sets are published on data-sharing repositories.
 
+
 ### 1. Epidemiology
 ***
 
@@ -40,6 +41,7 @@ Many papers have accompagnying data set that will be published in this page. The
 * Global distribution of **pigs** in 2006 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global distribution of **sheep** in 2006 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
 * Global distribution of **goats** in 2006 (Animals / pixel, Global extent, geographic projection, 0.083333 decimal degrees resolution)
+
 
 ### 3. Human population
 ***

@@ -1,5 +1,21 @@
 # Current projects  
 
+### Integrating spatial heterogeneity with temporal and demographic inferences, with an application to combating human rabies (2021-2024)  
+*Funded by FWO* - Main parner: [Guy Baele](https://rega.kuleuven.be/cev/ecv/lab-members/GuyBaele.html) from KU Leuven
+
+Genomic analyses have revealed critical insights into the evolution and spread of pathogens, with spatial diffusion models having been essential to develop a field of research known as phylogeography, where phylogenetic trees are annotated with spatial locations. These diffusion models are however relatively simple, as they do not take into account environmental features when modelling the geographic spread of a pathogen. In this research project, we aim to develop new spatial diffusion models that accommodate spatialheterogeneity to improve phylogenetic reconstruction accuracy and realism. To this end, we will build on the time-measured phylogenetic methodology in the BEAST framework and adopt state-of-the-art statistical and computational techniques to perform efficient estimation of the evolution and spread of pathogens. To visualize the outcome of our reconstruction procedures, as well as to identify potential cases where environmental features may impact pathogen spread, we will develop a user-friendly and flexible web-based visualization platform that can easily be applied to different pathogens. We anticipate that this research will be essential to increase our understanding of the key drivers of pathogen spread and plan on exploiting our findings to develop a framework that allows proposing and evaluating potential intervention strategies to impact the spread of rabies virus, and by extension other viruses of interest. 
+
+<br>
+
+### MOOD: monitoring outbreak events for disease sur-veillance in a data science context (2020-2023)  
+*Funded by EU H2020*
+
+The MOOD project aims to develop innovative tools and services for the early detection, assessment, and monitoring of current and potential infectious diseases threats in Europe in a context of global change including climate change. The MOOD innovations will increase the operational abilities of epidemic intelligence systems to face new disease threats, including emerging diseases of known or unknown origin, and antimicrobial resistance pathogens. The MOOD innovations will address the challenges of cross-sectorial data sharing and valorisation in a One Health framework based on cross-sectorial collaboration for animal, human and environmental health. End-users are the human and veterinary public-health agencies that are responsible for designing and implementing strategies to mitigate the identified risks.
+
+[MOOD project website](https://mood-h2020.eu/)
+
+<br>
+
 ### OneChick: One Health Poultry Hub (2019-2024)  
 *Funded by GCRF*  
 
@@ -8,27 +24,20 @@ The demand for poultry products in Asia has been particularly fast in the last f
 [OneChick Project web site](http://onehealthpoultry.org)
   
 <br>
-  
-### GeoAccessHealth: The availability and accessibility of health services in space and time: analytical assessment, data integration and real-time visualization (2019-2020)  
-*Funded by Innoviris* - Main parner: [Blue Square](https://bluesquarehub.com/)
-
-Accessibility to healthcare facilities, expressed in terms if travel time to seek health care and treatment is a a key aspect of public health. Accessibility is particularly critical in low-income countries because both the transportation network and the number of healthcare facilities can make access to treatment particularly difficult. Accessibility can be quantified using spatial modelling procedure, as with the help of spatial database on human population, transportation infrastructure and healthcare facilities location. However, all three are dynamic by nature, and a real-time quantification of accessibility to healthcare is currently not possible. This projects aims to develop and implement semi-automatique procedures to quantify the accessibility of patients to healthcare facilities in a set of countries in sub-saharan Africa, and integrate them in an information system. In the longer term, the system that would be developped could be applied and extended to other countries and support public health operations and policies. 
-  
-<br> 
-  
-### MONODIS: : Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of Monochamus spp., the vectors of *Bursaphelenchus xylophilus* – a contribution to pest risk assessment (2019-2020)  
-*Funded by SPF Santé Publique* - Main parners: Centre de Recherche agronomique wallon, Gembloux; Unité de Recherche Zoologie forestière, INRA, Orléans, France.
-
-The pine wood nematode (PWN) has established in Portugal in the late 1990s, is presently occupying the whole country and is frequently spreading to Spain, although it has been so far eradicated in this country. The nematode is vectored by Cerambycid beetles of the genus *Monochamus*, which inoculate new hosts when the adults proceed to maturation feeding on young twigs. Because of this forest health impact, all European Union (EU) Member States must monitor for PWN presence, either in pine wood samples or in *Monochamus* spp.  collected in the forest as well as at potential entry points. This project aims to map the distribution of *Monochamus spp.* at the European scale as a function of forest and climate predictor spatial variables. The expected result is the definition of a probability of presence of *Monochamus* spp. in Belgium and, hence, the improvement of the national monitoring and contingency plans relative to the pine wood nematode with, for example, a clearer views of the priorities for allocating resources to controls at entry points vs. controls in forest areas.
-  
-<br>  
-  
+      
 ### XFAST: Biological characteristics of potential vectors of *Xylella fastidiosa* to support sampling and containment procedures (2019 - 2021)  
-*Funded by SPF Santé Publique* - Main parners: Applied Microbiology, Earth and Life Institute, UCLouvain.
+*Funded by SPF Santé Publique* - Main parners: Applied Microbiology, Earth and Life Institute, UCLouvain
 
 *Xylella fastidiosa* (Xf) is an extremely harmful phytopathogenic bacteria. Originating from the Americas, it was found in southern Italy (Apulia) in 2013 and has, to date, killed hundreds of thousands of olive trees. Since then, it has been found in France (Corsica and mainland) and Spain (Baleares islands and mainland). Xf lives in the xylem and is vectored by xylem sap-sucking hemiptera. It is known to colonise several hundred plant species. In relation with this threat to Belgium, the project aims to better understand the dispersal of its vector species, to ivestigate the succession of host plants of the main vectors, and to study scenarios for contingency plans. 
  
 <br>  
+  
+### Mapping the transition toward more sustainable livestock production systems (2017-2021)
+*Funded by FNRS PDR-WISD* - Main parners: [Sophie Vanwambeke](http://www.elic.ucl.ac.be/modx/elic/index.php?id=108) from UCLouvain
+
+Many livestock production systems (LPS) are in a state of transition. In high-income countries, LPS are pushed toward more sutainable practices, whereas low and middle-income countries (LMICs) are experiencing fast intensification processes. Assessing the impact of such transitions requires an understanding of how they will affect the spatial distribution of livestock. This project builds on our extensive experience of mapping livestock distributions with two main objectives. First, based on the present-day situation in a range of countries along an intensification gradient, we aim to better understand the factors influencing the spatial distribution of farms and animals at multiple spatial scales. Second, based on the present and retrospective spatio-temporal livestock distribution models, we aim to project the future distribution of livestock according to the different “shared socioeconomic pathways” (SSPs), which are standardized scenarios of the future that have been developed in the context of climate change.   
+  
+<br>
   
 ### PALE-Blu: Understanding pathogen, livestock, environment interactions involving bluetongue virus (2017-2020)
 *Funded by EU H2020*
@@ -39,14 +48,13 @@ New outbreaks caused by bluetongue viruses (BTVs) have emerged in European lives
   
 <br>
    
-### Mapping the transition toward more sustainable livestock production systems (2017-2021)
-*Funded by FNRS PDR-WISD* - Main parners: [Sophie Vanwambeke](http://www.elic.ucl.ac.be/modx/elic/index.php?id=108) from UCLouvain.
-
-Many livestock production systems (LPS) are in a state of transition. In high-income countries, LPS are pushed toward more sutainable practices, whereas low and middle-income countries (LMICs) are experiencing fast intensification processes. Assessing the impact of such transitions requires an understanding of how they will affect the spatial distribution of livestock. This project builds on our extensive experience of mapping livestock distributions with two main objectives. First, based on the present-day situation in a range of countries along an intensification gradient, we aim to better understand the factors influencing the spatial distribution of farms and animals at multiple spatial scales. Second, based on the present and retrospective spatio-temporal livestock distribution models, we aim to project the future distribution of livestock according to the different “shared socioeconomic pathways” (SSPs), which are standardized scenarios of the future that have been developed in the context of climate change.   
-  
-<br>
-  
 # Past projects  
+
+**GeoAccessHealth: The availability and accessibility of health services in space and time: analytical assessment, data integration and real-time visualization** (2019-2020)  
+*Funded by Innoviris* - Main parner: [Blue Square](https://bluesquarehub.com/)
+
+**MONODIS: Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of Monochamus spp., the vectors of Bursaphelenchus xylophilus – a contribution to pest risk assessment** (2019-2020)  
+*Funded by SPF Santé Publique*
 
 **Xyleris: Study on Xylella fastidiosa plant hosts and vectors in Belgium and the influence of specific plant growth conditions on disease development** (2016-2018)  
 *Funded by Federal Public Service Health, Food Chain Safety and Environment.*
