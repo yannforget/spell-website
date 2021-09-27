@@ -30,11 +30,16 @@ Simon has broad interests in molecular epidemiology, animal/plant/virus phylogeo
 
 External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellicour), [Google Scholar](https://scholar.google.be/citations?user=Z4e2EgwAAAAJ&hl=fr)
 
+## Teaching activities
+
+- lectures: Experimental design and data analysis (*Acquisition et analyse de données*, BING-F4002) and Seminars of data analysis (*Séminaires d'analyse de données*, BING-F535)
+- punctual participations in *Géographie de la santé* (SAPU-L4123), *Recherche et développement en agroécologie* (BING-F430), *Sciences de la terre et du bioingénieur, environnement et société* (BING-F1001)
+
 ## Team/supervisions
 
 - Diana Erazo, post-doc (ULB, co-supervision with Marius Gilbert)
+- Jean Artois, post-doc (ULB, co-supervision with Marius Gilbert)
 - Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
 - Nena Bollen, PhD student (KU Leuven, co-supervision with Guy Baele)
+- Yimin Li, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Wafae El Boubekri Alaoui, master thesis student (ULB)
-- Dina Kudryk, master thesis student (ULB)
-- Tim Blokker, master thesis student (KU Leuven, co-supervision with Philippe Lemey)
