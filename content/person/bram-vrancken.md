@@ -6,7 +6,7 @@ abbrv: "B. Vrancken"
 mail: "bram.vrancken@ulb.be"
 past: false
 portrait: /images/portraits/bram.png
-position: "Scientific Collaborator (ULB), Post-doc (KU Leuven)"
+position: "Research Associate (ULB), Post-doc (KU Leuven)"
 ref: "bvrancken"
 title: "Bram Vrancken"
 interests:
