@@ -3,7 +3,7 @@ date: 2019-09-23T12:00:00+02:00
 firstname: "Séverine"
 lastname: "Hasbroucq"
 abbrv: "S. Hasbroucq"
-mail: "Severine.Hasbroucq@ulb.ac.be"
+mail: "Severine.Hasbroucq@ulb.be"
 past: false
 portrait: /images/portraits/shasbroucq.png
 position:  Lab. Technician

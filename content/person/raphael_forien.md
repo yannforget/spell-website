@@ -6,9 +6,13 @@ abbrv: "R. Forien"
 mail: "raphael.forien@inrae.fr"
 past: false
 portrait: /images/portraits/rforien.png
-position: "Visiting Researcher"
+position: "Visiting Researcher (INRAE)"
 ref: "rforien"
 title: "Raphaël Forien"
+interests:
+  - "Population genetics"
+  - "Evolutionary biology"
+  - "Spatial epidemic modelling"
 ---
 
 ## Biographical sketch

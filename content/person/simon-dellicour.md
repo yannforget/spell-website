@@ -3,7 +3,7 @@ date: 2016-07-23T19:30:39+02:00
 firstname: "Simon"
 lastname: "Dellicour"
 abbrv: "S. Dellicour"
-mail: "simon.dellicour@ulb.ac.be"
+mail: "simon.dellicour@ulb.be"
 past: false
 twitter: sdellicour
 github: sdellicour
@@ -22,7 +22,7 @@ weight: -3
 
 ## Biographical sketch
 
-Simon Dellicour is a bioengineer graduated at the University of Louvain (UCLouvain) in 2009. He subsequently did a PhD under the supervision of [Patrick Mardulyn](http://ebe.ulb.ac.be/ebe/Mardulyn.html) (ULB, 2009-13), a first post-doc in the team of [Oliver Pybus](http://evolve.zoo.ox.ac.uk/Evolve/Home.html) at the University of Oxford (2013-15), a second post-doc in the group of [Philippe Lemey](https://rega.kuleuven.be/cev/ecv/staff-members/00036765) at the University of Leuven (KU Leuven, 2015-18), and then joined the Spatial Epidemiology Lab. in October 2018 for his third post-doc. In 2020, he became an FNRS Research Associate, a permanent academic position awarded by the Belgian *Fonds National pour la Recherche Scientifique*. Simon is also a scientific collaborator of the [Evolutionary and Computational Virology](https://rega.kuleuven.be/cev/ecv) lab at the Rega Institute (KU Leuven)
+Simon Dellicour is a bioengineer graduated at the University of Louvain (UCLouvain) in 2009. He subsequently did a PhD under the supervision of [Patrick Mardulyn](http://ebe.ulb.ac.be/ebe/Mardulyn.html) (ULB, 2009-13), a first post-doc in the team of [Oliver Pybus](http://evolve.zoo.ox.ac.uk/Evolve/Home.html) at the University of Oxford (2013-15), a second post-doc in the group of [Philippe Lemey](https://rega.kuleuven.be/cev/ecv/staff-members/00036765) at the University of Leuven (KU Leuven, 2015-18), and then joined the Spatial Epidemiology Lab in October 2018 for his third post-doc. In 2020, he became an FNRS Research Associate, a permanent academic position awarded by the Belgian *Fonds National pour la Recherche Scientifique*. Simon is also a Visiting Professor at the University of Leuven (KU Leuven, Rega Institute, [Evolutionary and Computational Virology](https://rega.kuleuven.be/cev/ecv) lab)
 
 ## Research interests
 
@@ -39,7 +39,9 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 
 - Diana Erazo, post-doc (ULB, co-supervision with Marius Gilbert)
 - Jean Artois, post-doc (ULB, co-supervision with Marius Gilbert)
+- Maria Vincenti, post-doc (ULB, co-supervision with Marius Gilbert)
 - Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
 - Nena Bollen, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Yimin Li, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Wafae El Boubekri Alaoui, master thesis student (ULB)
+- Anna Bailly, master thesis student (ULB, co-supervision with Jean-Charles Preiser)
