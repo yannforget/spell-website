@@ -1,7 +1,7 @@
 ---
 author: "Simon Dellicour"
 date: 2021-12-20
-title: "We are hiring! A 2-year post-doc position to work on viral landscape phylogeography"
+title: "We are hiring! A 2-year post-doc position to work on viral landscape phylogeography at the SpELL"
 ---
 
 ### We are hiring! A 2-year post-doc position to work on viral landscape phylogeography.
@@ -22,8 +22,8 @@ The candidate should hold a Ph.D. in evolutionary biology, molecular epidemiolog
 Applications should include a cover letter, a curriculum vitae, PDFs of the three most representative publications, and a list of three references with e-mail contact information. Applications should be submitted as soon as possible.
 
 ### References. 
-* Dellicour S@, Lequime S, Vrancken B, Gill MS, Bastide P, Gangavarapu K, Matteson N, Tan Y, du Plessis L, Fisher AA, Nelson MI, Gilbert M, Suchard MS, Andersen KG, Grubaugh ND, Pybus OG, Lemey P (2020). Epidemiological hypothesis testing using a phylogeographic and phylodynamic framework. *Nature Communications* 11: 5620
-* Dellicour S@, Troupin C, Jahanbakhsh F, Salama A, Massoudi S, Moghaddam MK, Baele G, Lemey P, Gholami A, Bourhy H@ (2019). Using phylogeographic approaches to analyse the dispersal history, velocity, and direction of viral lineages – application to rabies virus spread in Iran. *Molecular Ecology* 28: 4335-4350
+* Dellicour S, Lequime S, Vrancken B, Gill MS, Bastide P, Gangavarapu K, Matteson N, Tan Y, du Plessis L, Fisher AA, Nelson MI, Gilbert M, Suchard MS, Andersen KG, Grubaugh ND, Pybus OG, Lemey P (2020). Epidemiological hypothesis testing using a phylogeographic and phylodynamic framework. *Nature Communications* 11: 5620
+* Dellicour S, Troupin C, Jahanbakhsh F, Salama A, Massoudi S, Moghaddam MK, Baele G, Lemey P, Gholami A, Bourhy H@ (2019). Using phylogeographic approaches to analyse the dispersal history, velocity, and direction of viral lineages – application to rabies virus spread in Iran. *Molecular Ecology* 28: 4335-4350
 * Dellicour S, Baele G, Dudas G, Faria NR, Pybus OG, Suchard M, Rambaut A, Lemey P (2018). Phylodynamic assessment of intervention strategies for the West African Ebola virus outbreak. *Nature Communications* 9: 2222
 * Dellicour S, Rose R, Faria NR, Vieira LFP, Bourhy H, Gilbert M, Lemey P, Pybus OG (2017). Using viral gene sequences to compare and explain the heterogeneous spatial dynamics of virus epidemics. *Molecular Biology & Evolution* 34: 2563-2571
 
