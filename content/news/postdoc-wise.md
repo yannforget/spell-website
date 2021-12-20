@@ -1,7 +1,7 @@
 ---
 author: "Marius Gilbert"
 date: 2018-09-05
-title: "2 -year Post-Doc position in global livestock distribution modelling"
+title: "2-year Post-Doc position in global livestock distribution modelling"
 ---
 
 ### A 2-year post-doc position starting immediately is available to work on global spatial and temporal distribution models of livestock.

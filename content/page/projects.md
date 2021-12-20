@@ -1,5 +1,12 @@
 # Current projects  
 
+### Developing the field of landscape phylogeography to unravel the environmental factors impacting viral epidemics (2022-2024)
+*Funded by FNRS*
+
+The fight against high-impact viral diseases, such as rabies (~60,000 deaths/year), would benefit from a better understanding of the drivers of virus spreads, which could in turn help designing intervention strategies. Indeed, there is a need for analytical approaches allowing to formally test the impact of environmental (e.g. ecologic, climatic or anthropogenic) factors on the dispersal of viruses. Recent advances in genomics, mathematical modelling and computational biology have led to evolutionary approaches becoming key methods to investigate the spread of infectious diseases. In particular, the development of a spatially-explicit phylogeographic method has enabled to reconstruct dispersal history of epidemics on a continuous space, using only a relatively limited number of viral sequences sampled from known locations and times. However, this method does not model nor identify the environmental factors that may affect the dispersal process. The overall goal of the present research project is to unravel the impact of such external factors by bridging the gap between spatial and molecular epidemiology. Specifically, we aim to develop, test, compare, apply, and share novel approaches to analyse the impact of environmental factors on the dispersal history and dynamic of viral epidemics, as well as to test the impact of detailed intervention strategies. Once tested with simulation procedures, we will apply the best methodologies on several current case studies associated with notable wildlife and socio-economic impacts (e.g. West Nile virus spread in North America, circulation of Lassa virus in Africa and rabies virus in Asia). 
+
+<br>
+
 ### Integrating spatial heterogeneity with temporal and demographic inferences, with an application to combating human rabies (2021-2024)  
 *Funded by FWO* - Main parner: [Guy Baele](https://rega.kuleuven.be/cev/ecv/lab-members/GuyBaele.html) from KU Leuven
 
