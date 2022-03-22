@@ -37,9 +37,9 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 
 ## Team/supervisions
 
-- Diana Erazo, post-doc (ULB, co-supervision with Marius Gilbert)
+- Diana Erazo, post-doc
+- Maria Vincenti, post-doc
 - Jean Artois, post-doc (ULB, co-supervision with Marius Gilbert)
-- Maria Vincenti, post-doc (ULB, co-supervision with Marius Gilbert)
 - Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
 - Nena Bollen, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Yimin Li, PhD student (KU Leuven, co-supervision with Guy Baele)
