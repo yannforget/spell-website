@@ -26,11 +26,7 @@ sector and help transitioning livestock production systems toward sustainable mo
 Reference:  
 Gilbert M, G Nicolas, G Cinardi, S Vanwambeke, TP Van Boeckel, GRW Wint, TP Robinson (2018) Global Distribution Data 
 for Cattle, Buffaloes, Horses, Sheep, Goats, Pigs, Chickens and Ducks in 2010. 
-Nature Scientific data, 5:180227. [Doi:10.1038/sdata.2018.227](https://doi.org/10.1038/sdata.2018.227)
+*Nature Scientific data* 5: 180227 [Doi:10.1038/sdata.2018.227](https://doi.org/10.1038/sdata.2018.227)
 
 Link to the new data layers on the harvard dataverse:  
 [https://dataverse.harvard.edu/dataverse/glw_3](https://dataverse.harvard.edu/dataverse/glw_3)
-
-  
-
-

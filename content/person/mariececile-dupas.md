@@ -2,7 +2,7 @@
 date: 2021-01-30T19:36:23+02:00
 firstname: "Marie-Cécile"
 lastname: "Dupas"
-abbrv: "M-C Dupas"
+abbrv: "M.-C. Dupas"
 mail: "dupas.mc@gmail.com"
 past: false
 portrait: /images/portraits/mcdupas.png

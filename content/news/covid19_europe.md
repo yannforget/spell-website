@@ -8,4 +8,4 @@ Following the first wave of SARS-CoV-2 infections in spring 2020, Europe experie
 ![Figure Map](/images/SARS-CoV-2_Europe.png)
 
 Reference:
-Lemey P, Ruktanonchai N, Hong SL, Colizza V, Poletto C, Van den Broeck F, Gill MS, Ji X, Levasseur A, Oude Munnink BB, Koopmans M, Sadilek A, Lai S, Tatem AJ, Baele G, Suchard MA, Dellicour S (2021). Untangling introductions and persistence in COVID-19 resurgence in Europe. *Nature*, *in press*
+Lemey P, Ruktanonchai N, Hong SL, Colizza V, Poletto C, Van den Broeck F, Gill MS, Ji X, Levasseur A, Oude Munnink BB, Koopmans M, Sadilek A, Lai S, Tatem AJ, Baele G, Suchard MA, Dellicour S (2021). Untangling introductions and persistence in COVID-19 resurgence in Europe. *Nature* 595: 713-717

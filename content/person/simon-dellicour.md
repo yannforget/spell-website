@@ -33,15 +33,17 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 ## Teaching activities
 
 - lectures: Experimental design and data analysis (*Acquisition et analyse de données*, BING-F4002) and Seminars of data analysis (*Séminaires d'analyse de données*, BING-F535)
-- punctual participations in *Géographie de la santé* (SAPU-L4123), *Recherche et développement en agroécologie* (BING-F430), *Sciences de la terre et du bioingénieur, environnement et société* (BING-F1001)
+- punctual participations: *Géographie de la santé* (SAPU-L4123), *Gestion de projet et projet de recherche* (BING-F406), *Projet de mémoire* (BIOL-F418), *Transport, territoire et développement durable* (MSTL-F602), *Stage en milieu académique ou industriel* (INFO-F-527)
 
 ## Team/supervisions
 
 - Diana Erazo, post-doc
 - Maria Vincenti, post-doc
-- Jean Artois, post-doc (ULB, co-supervision with Marius Gilbert)
+- Fabiana Gambano, post-doc
+- Guillaume Ghisbain, post-doc
 - Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
 - Nena Bollen, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Yimin Li, PhD student (KU Leuven, co-supervision with Guy Baele)
-- Wafae El Boubekri Alaoui, master thesis student (ULB)
+- Garance Despréaux, master thesis student, student assistant (ULB)
 - Anna Bailly, master thesis student (ULB, co-supervision with Jean-Charles Preiser)
+

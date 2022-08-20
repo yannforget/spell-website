@@ -8,4 +8,4 @@ Antibiotic-resistant bacteria are on the rise globally, threatening animal and h
 ![Figure Map](/images/AMR_Nat_Com.png)
 
 Reference:
-Schar D, Zhao C, Wang Y, Larsson DGJ, Gilbert M, Van Boeckel TP (2021). Twenty-year trends in antimicrobial resistance from aquaculture and fisheries in Asia. *Nature Communications*, *in press*
+Schar D, Zhao C, Wang Y, Larsson DGJ, Gilbert M, Van Boeckel TP (2021). Twenty-year trends in antimicrobial resistance from aquaculture and fisheries in Asia. *Nature Communications* 12: 5384

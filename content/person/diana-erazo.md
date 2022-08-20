@@ -3,7 +3,7 @@ date: 2021-04-03T19:36:23+02:00
 firstname: "Diana"
 lastname: "Erazo"
 abbrv: "D. Erazo"
-mail: "diana.erazo@ulb.be"
+mail: "diana.erazo.quintero@ulb.be"
 past: false
 twitter: dianacerazoq
 portrait: /images/portraits/diana.png

@@ -23,8 +23,5 @@ The candidate should hold a Ph.D. in quantitative ecology, quantitative geograph
 ### Application. 
 Applications should include a cover letter, a curriculum vitae, PDFs of the 3 most representative publications, and a list of three references with email contact information. Applications are open until filled. 
 
-
 ### Contact. 
 Dr Marius Gilbert: mgilbert@ulb.ac.be
-
-

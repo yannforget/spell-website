@@ -8,4 +8,4 @@ Understanding the causes and consequences of the emergence of SARS-CoV-2 variant
 ![Figure Map](/images/SARS-CoV-2_UK.png)
 
 Reference:
-Kraemer MUG\*, Hill V\*, Ruis C\*, Dellicour S\*, Bajaj S\*, McCrone JT, Baele G, Parag KV, Lindström Battle A, Gutierrez B, Jackson B, Colquhoun R, O’Toole Á, Klein B, Vespignani A, The COVID-19 Genomics UK (CoG-UK) Consortium, Volz E, Faria NF, Aanensen D, Loman NJ, du Plessis L, Cauchemez S, Rambaut A, Scarpino SV, Pybus OG (2021). Spatio-temporal invasion dynamics of SARS-CoV-2 lineage B.1.1.7 emergence. *Science*, *in press*
+Kraemer MUG\*, Hill V\*, Ruis C\*, Dellicour S\*, Bajaj S\*, McCrone JT, Baele G, Parag KV, Lindström Battle A, Gutierrez B, Jackson B, Colquhoun R, O’Toole Á, Klein B, Vespignani A, The COVID-19 Genomics UK (CoG-UK) Consortium, Volz E, Faria NF, Aanensen D, Loman NJ, du Plessis L, Cauchemez S, Rambaut A, Scarpino SV, Pybus OG (2021). Spatio-temporal invasion dynamics of SARS-CoV-2 lineage B.1.1.7 emergence. *Science* 373: 889-895

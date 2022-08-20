@@ -7,33 +7,22 @@ mail: "mgilbert@ulb.be"
 past: false
 phone: +32-2-650.37.80
 twitter: mariusgilbert
-portrait: /images/portraits/mgilbert-2.jpg
-position: F.R.S.-FNRS Senior Research associate
+portrait: /images/portraits/mgilbert2.png
+position: F.R.S.-FNRS Research Director / Vice-rector of research and valorization
 office: UB2.171
 ref: "mgilbert"
 since: "1940"
 title: "Marius Gilbert"
-interests: ["Spatial epidemiology", "Emerging zoonoses", "Livestock production systems"]
+interests: ["Spatial epidemiology", "Emerging zoonoses", "One Health" ,"Livestock production systems"]
 weight: -4
 ---
 
-Marius Gilbert graduated in Agricultural and Applied Biological Sciences at the Université Libre de Bruxelles in 1995. He was then a visiting researcher for two years at the department of Zoology, University of Oxford and did a PhD on in insect pest ecology at the ULB in 2001. He then worked on the invasion ecology of several insect pests before moving the focus of his research toward to the spatial epidemiology of animal diseases. In 2006, he was awarded a permanent academic position with the Belgian FNRS. Since 2015, he's FNRS Senior Research associates and leads the Spatial epidemiology Lab. (SpELL).
+Marius Gilbert graduated in Agricultural Sciences at the Universit� Libre de Bruxelles (ULB) in 1995. He was then a visiting researcher for two years at the department of Zoology, University of Oxford and obtained a PhD on the spatial epidemiology of a forest insect pest at ULB in 2001. In 2006, he was awarded a permanent academic position with the Belgian FNRS. In 2016, he founded the Spatial Epidemiology Lab (SpELL) that he now leads as F.R.S.-FNRS research director. During the COVID pandemic, he joined the Expert Group on the Exit Strategy (GEES) that was assembled by the prime minister Sophie Wilmes to advise the government on the lockdown exit strategy. In september 2020 he joined the team of the rector Annemie Schaus as vice-rector of resarch and valorization. 
 
 ## Research interest
 
-Marius has broad interests in the spatial epidemiology of animal diseases and invasive species. An overarching theme is the attempt to better understand how changes in agriculture have transformed ecosystems and affected the conditions of emergence, spread and persistence of pathogens and invasive species. His main area of expertise includes the epidemiology of avian influenza, global changes in livestock production systems, and livestock distribution models.
+Marius has broad interests in the spatial epidemiology of animal diseases and invasive species. An overarching theme is the attempt to better understand how changes in agriculture and ecosystems have affected the conditions of emergence, spread and persistence of pathogens, including those with pandemic potential. His main area of expertise includes the epidemiology of avian influenza, emerging infectious diseases, global changes in livestock production systems, and livestock distribution models.
 
-## Talks
- 
-* The emergence of avian influenza, a "One Health” epitome. Invited talk at the OneHealth / Ecohealth workshop, Brussels, 6-7th Oct. 2016.
-* Modelling the distribution of intensifying livestock production systems. Invited talk at the “Fourth international conference on responsible use of antibiotics in animals”, The Hague, 26-28th Sep. 2016.
-* Global changes in ecological boundaries and the emergence of important zoonoses. Invited keynote lecture at the AESA Anniversary conference: “Animal Epidemiology: past, present and future”, Liège, 7-9th Sep. 2016
+## Science communication
 
-## Teaching
-
-* Experimental design and data analysis (M. Gilbert, M. Dufrêne, BING-F-4002)
-* Seminars in data analysis (M. Gilbert, M. Dufrêne, BING-F-535)
-* Softwares for health data analysis (C. Senterre, W.-H. Zhang, M. Gilbert, INFO-L-401)
-* Sanitary risks at the human and wild-domestic animals interface (SAPU-L-698)
-
-
+Marius played an key role in the french-speaking national media during the COVID-19 pandemic, with numerous interventions throughout the pandemic. In September 2020, he published ["Juste un passage au JT (Luc Pire)"](https://www.amazon.fr/Juste-passage-au-Marius-Gilbert/dp/2875422464), which aimed to popularize the science behind the pandemic with the public and to share the experience of a scientist' journey at the nexus of political decision and communication in the media.
