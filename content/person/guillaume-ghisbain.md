@@ -6,7 +6,7 @@ abbrv: "G. Ghisbain"
 mail: "guillaume.ghisbain@ulb.be"
 past: false
 portrait: /images/portraits/gghisbain.png
-position:  F.R.S.-FNRS Scientific Collaborator
+position: "F.R.S.-FNRS Scientific Collaborator"
 ref: "gghisbain"
 title: "Guillaume Ghisbain"
 interests:
