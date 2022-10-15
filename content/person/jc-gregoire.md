@@ -37,15 +37,17 @@ A second species of choice, *Ips typographus*, is the most damaging forest pest 
 
 ## Projects
 
-### Current   
+### Developing the Fan-trap
 
-* [2018-2019 – Recherche dans le cadre du réseau d'observatoire de la santé des forêts](http://owsf.environnement.wallonie.be/fr/index.html?IDC=5636) *Funded by the Walloon Region*
-* 2019-2020 – [MONODIS](/page/projects) (Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of *Monochamus* spp., the vectors of *Bursaphelenchus xylophilus* – a contribution to pest risk assessment). With CRAW, Gembloux, and URZF, INRA, Orléans, France. *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
-* 2016-2018 – [XFAST](/page/projects) (Biological characteristics of potential vectors of *Xylella fastidiosa* to support sampling and containment procedures). With Earth and Life Institute, UCLouvain. *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
+Monitoring is an important component of pest management, to prevent or mitigate outbreaks of native pests, and to check for quarantine organisms. Surveys often rely on trapping, especially when the target species respond to semiochemicals. Many traps are available for this purpose, but they are bulky in most cases, which raises transportation and deployment issues, and they are expensive, which limits the size and accuracy of any network. To overpass these difficulties, en-tomologists have used recycled material, such as modified plastic bottles, producing cheap and reliable traps but at the cost of recurrent handywork, not necessarily possible for all end-users (e.g., for national plant protection organizations). These bottle-traps have allowed very large sur-veys which would have been impossible with standard commercial traps, and we illustrate this approach with a few examples. Here we present, under a Creative Commons BY-SA License, the blueprint of a fan-trap, a foldable model, laser-cut from a sheet of polypropylene, that can rapidly be pro-duced in large numbers, and could be transported and deployed in the field with very little ef-forts. Our first field comparisons show that fan-traps are as efficient as bottle-traps, and we de-scribe two cases where they are being used for monitoring.
 
+The Fan-trap documentation can be downloaded [here](https://spell.ulb.be/fan-trap_description.zip).
  
-### Past projecst and networks (2010-2017)  
+### Past projects and networks (2010-2020)  
 
+* 2019-2020 – [MONODIS](/page/projects) (Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of *Monochamus* spp., the vectors of *Bursaphelenchus xylophilus* – a contribution to pest risk assessment). With CRAW, Gembloux, and URZF, INRA, Orléans, France. *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
+* [2018-2019 – Recherche dans le cadre du réseau d'observatoire de la santé des forêts](http://owsf.environnement.wallonie.be/fr/index.html?IDC=5636) *Funded by the Walloon Region*
+* 2016-2018 – [XFAST](/page/projects) (Biological characteristics of potential vectors of *Xylella fastidiosa* to support sampling and containment procedures). With Earth and Life Institute, UCLouvain. *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
 * 2014-2018 Action COST FP1401 - A global network of nurseries as early warning system against alien tree pests (*Global Warning*)  
 * 2016-2018 – XYLERIS (Study on *Xylella fastidiosa* plant hosts and vectors in Belgium and the influence of specific plant growth conditions on disease development) (with UCL, Louvain-la-Neuve, and ILVO, Merelbeke) *Funded by the Federal Public Service Health, Food Chain Safety and Environment*  
 * 2015-2018 - FUNGIFOR (Phytosanitary status of 8 fungi (+ 1 insect vector) infecting trees in Belgium: survey and evaluation of the risk of establishment) (with CRAW, Gembloux, and PCS, Destelbergen). *Funded by the Federal Public Service Health, Food Chain Safety and Environment*

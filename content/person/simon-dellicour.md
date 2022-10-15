@@ -26,7 +26,7 @@ Simon Dellicour is a bioengineer graduated at the University of Louvain (UCLouva
 
 ## Research interests
 
-Simon has broad interests in molecular epidemiology, animal/plant/virus phylogeography, population, landscape and conservation genetics. His main research projects focus on methodological developments and applications in [landscape phylogeography](http://spell.ulb.be/subject/landscape-phylogeography/). He developed several programs and packages such as [GCALIGNER](http://ebe.ulb.ac.be/ebe/GCAligner.html), [SPADS](http://ebe.ulb.ac.be/ebe/SPADS.html),  [PHYLOGEOSIM](http://ebe.ulb.ac.be/ebe/PhyloGeoSim.html) and [SERAPHIM](http://evolve.zoo.ox.ac.uk/Evolve/Seraphim.html), and was also involved in the development of [NOSOI](https://github.com/slequime/nosoi) and [PHYCOVA](https://rega.kuleuven.be/cev/ecv/software/Software)
+Simon has broad interests in molecular epidemiology, animal/plant/virus phylogeography, population, landscape and conservation genetics. His main research projects focus on methodological developments and applications in [landscape phylogeography](http://spell.ulb.be/subject/landscape-phylogeography/). He developed several programs and packages such as [GCALIGNER](http://ebe.ulb.ac.be/ebe/GCAligner.html), [SPADS](http://ebe.ulb.ac.be/ebe/SPADS.html),  [PHYLOGEOSIM](http://ebe.ulb.ac.be/ebe/PhyloGeoSim.html) and [SERAPHIM](https://github.com/sdellicour/seraphim), and was also involved in the development of [NOSOI](https://github.com/slequime/nosoi) and [PHYCOVA](https://rega.kuleuven.be/cev/ecv/software/Software)
 
 External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellicour), [Google Scholar](https://scholar.google.be/citations?user=Z4e2EgwAAAAJ&hl=fr)
 
@@ -37,13 +37,15 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 
 ## Team/supervisions
 
-- Diana Erazo, post-doc
-- Maria Vincenti, post-doc
-- Fabiana Gambano, post-doc
-- Guillaume Ghisbain, post-doc
+- Diana Erazo, post-doctoral researcher
+- Maria Vincenti, post-doctoral researcher
+- Fabiana Gambano, post-doctoral researcher
+- Guillaume Ghisbain, post-doctoral researcher
 - Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
 - Nena Bollen, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Yimin Li, PhD student (KU Leuven, co-supervision with Guy Baele)
-- Garance Despréaux, master thesis student, student assistant (ULB)
-- Anna Bailly, master thesis student (ULB, co-supervision with Jean-Charles Preiser)
+- Jonathan Thibaut, PhD student (KU Leuven, co-supervision with Emmanuel André)
+- Garance Despréaux, master thesis student, student assistant
+- Anna Bailly, master thesis student (co-supervision with Jean-Charles Preiser)
+- Adrien de Fraipont, master thesis student
 
