@@ -14,6 +14,8 @@ interests:
   - "insect rearings"
   - "plant health"
   - "field work and logistic"
+
+weight: 0
 ---
 
 ## Biographical sketch

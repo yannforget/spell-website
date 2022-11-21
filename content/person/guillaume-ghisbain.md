@@ -14,6 +14,7 @@ interests:
   - "Insect ecology"
   - "Insect conservation"
 
+weight: -2
 ---
 
 ## Biographical sketch

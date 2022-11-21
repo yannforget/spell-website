@@ -14,7 +14,8 @@ ref: "mgilbert"
 since: "1940"
 title: "Marius Gilbert"
 interests: ["Spatial epidemiology", "Emerging zoonoses", "One Health" ,"Livestock production systems"]
-weight: -4
+
+weight: -6
 ---
 
 Marius Gilbert graduated in Agricultural Sciences at the Université Libre de Bruxelles (ULB) in 1995. He was then a visiting researcher for two years at the department of Zoology, University of Oxford and obtained a PhD on the spatial epidemiology of a forest insect pest at ULB in 2001. In 2006, he was awarded a permanent academic position with the Belgian FNRS. In 2016, he founded the Spatial Epidemiology Lab (SpELL) that he now leads as F.R.S.-FNRS research director. During the COVID pandemic, he joined the Expert Group on the Exit Strategy (GEES) that was assembled by the prime minister Sophie Wilmes to advise the government on the lockdown exit strategy. In september 2020 he joined the team of the rector Annemie Schaus as vice-rector of resarch and valorization. 

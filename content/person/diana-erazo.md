@@ -15,6 +15,8 @@ interests:
   - "Emerging zoonoses"
   - "Spatial modelling"
   - "Model fitting and inference for infectious disease dynamics"
+
+weight: -2
 ---
 
 ## Biographical sketch

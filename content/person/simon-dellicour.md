@@ -17,7 +17,7 @@ interests:
   - "Population and landscape genetics"
   - "Conservation (genetics)"
 
-weight: -3
+weight: -5
 ---
 
 ## Biographical sketch
@@ -39,7 +39,7 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 
 - Diana Erazo, post-doctoral researcher
 - Maria Vincenti, post-doctoral researcher
-- Fabiana Gambano, post-doctoral researcher
+- Fabiana Gámbaro, post-doctoral researcher
 - Guillaume Ghisbain, post-doctoral researcher
 - Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
 - Nena Bollen, PhD student (KU Leuven, co-supervision with Guy Baele)

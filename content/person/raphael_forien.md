@@ -13,6 +13,8 @@ interests:
   - "Population genetics"
   - "Evolutionary biology"
   - "Spatial epidemic modelling"
+
+weight: -3
 ---
 
 ## Biographical sketch

@@ -15,6 +15,8 @@ interests:
   - "Amtimicrobial use"
   - "Antimicrobial resistance"
   - "Emerging infectious diseases"
+
+weight: -1
 ---
 
 ## PhD project

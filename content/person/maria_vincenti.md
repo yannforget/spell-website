@@ -14,6 +14,8 @@ interests:
   - "Eco-epidemiology"
   - "Spatial epidemiology"
   - "Infectious diseases"
+
+weight: -2
 ---
 
 ## Biographical sketch

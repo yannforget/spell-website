@@ -13,6 +13,8 @@ interests:
   - "Network analysis"
   - "One health"
   - "Modelling livestock flows"
+
+weight: -2
 ---
 
 ## Biographical sketch

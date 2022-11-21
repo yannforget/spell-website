@@ -14,6 +14,8 @@ title: "Qingyou Zhao"
 interests:
   - "Livestock distribution"
   - "Spatial modelling"
+
+weight: 0
 ---
 
 Qingyou joined SpELL in October 2017 as a PhD student. He plans to study the geography of livestock production in China 
