@@ -33,7 +33,7 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 ## Teaching activities
 
 - lectures: Experimental design and data analysis (*Acquisition et analyse de données*, BING-F4002) and Seminars of data analysis (*Séminaires d'analyse de données*, BING-F535)
-- punctual participations: *Géographie de la santé* (SAPU-L4123), *Gestion de projet et projet de recherche* (BING-F406), *Projet de mémoire* (BIOL-F418), *Transport, territoire et développement durable* (MSTL-F602), *Stage en milieu académique ou industriel* (INFO-F-527)
+- punctual participations: *Transport, territoire et développement durable* (MSTL-F602), *Approche territoriale de la santé* (UE-6, lecture belonging to the specialised master degree *Gestion intégrée des risques sanitaires dans les pays du Sud* - GIRIS), *Géographie de la santé* (SAPU-L4123), *Gestion de projet et projet de recherche* (BING-F406), *Mémoire/projet de mémoire* (MEMO-F515, BIOL-F418), *Stage en entreprise en sciences et technologie de l'environnement* (STAG-F013), *Stage en milieu académique ou industriel* (INFO-F-527)
 
 ## Team/supervisions
 
