@@ -1,5 +1,8 @@
 # Current projects  
 
+### FluCart: risk mapping of avian influenza in Belgium and analysis of the dynamics of exposure of poultry farms (2023-2025)
+*Funded by SPF Santé Publique - FOD Volksgezondheid* - Main partners: Géraldine Boseret and Steven Van Borm from [Sciensano](https://www.sciensano.be/en)
+
 ### Developing the field of landscape phylogeography to unravel the environmental factors impacting viral epidemics (2022-2024)
 *Funded by FNRS*
 
@@ -8,7 +11,7 @@ The fight against high-impact viral diseases, such as rabies (~60,000 deaths/yea
 <br>
 
 ### Integrating spatial heterogeneity with temporal and demographic inferences, with an application to combating human rabies (2021-2024)  
-*Funded by FWO* - Main parner: [Guy Baele](https://rega.kuleuven.be/cev/ecv/lab-members/GuyBaele.html) from KU Leuven
+*Funded by FWO* - Main partner: [Guy Baele](https://rega.kuleuven.be/cev/ecv/lab-members/GuyBaele.html) from KU Leuven
 
 Genomic analyses have revealed critical insights into the evolution and spread of pathogens, with spatial diffusion models having been essential to develop a field of research known as phylogeography, where phylogenetic trees are annotated with spatial locations. These diffusion models are however relatively simple, as they do not take into account environmental features when modelling the geographic spread of a pathogen. In this research project, we aim to develop new spatial diffusion models that accommodate spatialheterogeneity to improve phylogenetic reconstruction accuracy and realism. To this end, we will build on the time-measured phylogenetic methodology in the BEAST framework and adopt state-of-the-art statistical and computational techniques to perform efficient estimation of the evolution and spread of pathogens. To visualize the outcome of our reconstruction procedures, as well as to identify potential cases where environmental features may impact pathogen spread, we will develop a user-friendly and flexible web-based visualization platform that can easily be applied to different pathogens. We anticipate that this research will be essential to increase our understanding of the key drivers of pathogen spread and plan on exploiting our findings to develop a framework that allows proposing and evaluating potential intervention strategies to impact the spread of rabies virus, and by extension other viruses of interest. 
 
@@ -31,31 +34,17 @@ The demand for poultry products in Asia has been particularly fast in the last f
 [OneChick Project web site](http://onehealthpoultry.org)
   
 <br>
-      
-### XFAST: Biological characteristics of potential vectors of *Xylella fastidiosa* to support sampling and containment procedures (2019 - 2021)  
+
+# Past projects  
+
+**XFAST: Biological characteristics of potential vectors of *Xylella fastidiosa* to support sampling and containment procedures** (2019 - 2021)  
 *Funded by SPF Santé Publique* - Main parners: Applied Microbiology, Earth and Life Institute, UCLouvain
 
-*Xylella fastidiosa* (Xf) is an extremely harmful phytopathogenic bacteria. Originating from the Americas, it was found in southern Italy (Apulia) in 2013 and has, to date, killed hundreds of thousands of olive trees. Since then, it has been found in France (Corsica and mainland) and Spain (Baleares islands and mainland). Xf lives in the xylem and is vectored by xylem sap-sucking hemiptera. It is known to colonise several hundred plant species. In relation with this threat to Belgium, the project aims to better understand the dispersal of its vector species, to ivestigate the succession of host plants of the main vectors, and to study scenarios for contingency plans. 
- 
-<br>  
-  
-### Mapping the transition toward more sustainable livestock production systems (2017-2021)
-*Funded by FNRS PDR-WISD* - Main parners: [Sophie Vanwambeke](http://www.elic.ucl.ac.be/modx/elic/index.php?id=108) from UCLouvain
+**Mapping the transition toward more sustainable livestock production systems** (2017-2021)
+*Funded by FNRS PDR-WISD*
 
-Many livestock production systems (LPS) are in a state of transition. In high-income countries, LPS are pushed toward more sutainable practices, whereas low and middle-income countries (LMICs) are experiencing fast intensification processes. Assessing the impact of such transitions requires an understanding of how they will affect the spatial distribution of livestock. This project builds on our extensive experience of mapping livestock distributions with two main objectives. First, based on the present-day situation in a range of countries along an intensification gradient, we aim to better understand the factors influencing the spatial distribution of farms and animals at multiple spatial scales. Second, based on the present and retrospective spatio-temporal livestock distribution models, we aim to project the future distribution of livestock according to the different “shared socioeconomic pathways” (SSPs), which are standardized scenarios of the future that have been developed in the context of climate change.   
-  
-<br>
-  
-### PALE-Blu: Understanding pathogen, livestock, environment interactions involving bluetongue virus (2017-2020)
+**PALE-Blu: Understanding pathogen, livestock, environment interactions involving bluetongue virus** (2017-2020)
 *Funded by EU H2020*
-
-New outbreaks caused by bluetongue viruses (BTVs) have emerged in European livestock every year since 1998. These events that have been linked to climate change, resulted in massive losses due to fatalities, reduced productivity, reproductive failures, restricted animal movements/trade, and surveillance/vaccination costs. PALE-Blu brings together European institutes with expertise in BTV research and diagnosis, with partners in endemic regions (Africa, the Middle East and Turkey) that act as a ‘source’ for BTV strains that emerge in Europe. Our role in the project it to lead the spatial modelling work package, which aims to better understand how environmental and anthropogenic factors influence the spread of the disease, using spatial modelling and landscape phylogenetic approaches.
-
-[PALE-Blu Project web site](https://www.paleblu.eu)  
-  
-<br>
-   
-# Past projects  
 
 **GeoAccessHealth: The availability and accessibility of health services in space and time: analytical assessment, data integration and real-time visualization** (2019-2020)  
 *Funded by Innoviris* - Main parner: [Blue Square](https://bluesquarehub.com/)
