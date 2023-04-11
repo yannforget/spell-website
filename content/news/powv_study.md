@@ -1,6 +1,6 @@
 ---
 author: "Simon Dellicour"
-date: 2023-04-11T12:00:00+02:00
+date: 2023-04-11T00:00:00+02:00
 title: "A collaboration with the Grubaugh Lab: new study on Powassan virus published in PNAS"
 ---
 Powassan virus is an emerging tick-borne virus of concern for public health, but very little is known about its transmission patterns and ecology. In our recent study performed in collaboration with the [Grubaugh Lab](https://grubaughlab.com/) just published in *PNAS*, we expanded the genomic dataset by sequencing 279 Powassan viruses isolated from Ixodes scapularis ticks from the northeastern United States. Our phylogeographic reconstructions revealed that Powassan virus lineage II was likely introduced or emerged from a relict population in the Northeast between 1940-1975. Sequences strongly clustered by sampling location, suggesting a highly focal geographical distribution. Our analyses further indicated that Powassan virus lineage II emerged in the northeastern U.S. mostly following a south to north pattern, with a weighted lineage dispersal velocity of ~3 km/year. Since the emergence in the Northeast, we found an overall increase in the effective population size of Powassan virus lineage II, but with growth stagnating during recent years. The cascading effect of population expansion of white-tailed deer and I. scapularis populations likely facilitated the emergence of Powassan virus in the northeastern U.S. Read the whole study [here](https://www.pnas.org/).
