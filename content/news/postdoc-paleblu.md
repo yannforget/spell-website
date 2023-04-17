@@ -1,7 +1,7 @@
 ---
 author: "Marius Gilbert"
 date: 2018-02-12T18:34:44+02:00
-title: "New 2-years PostDoc announcement in disease spread modelling"
+title: "New 2-years post-doc position announcement in disease spread modelling"
 ---
 
 ### A 2-year post-doc position is opened to work on spatial epidemics and phylogeographic models applied to Bluetongue. 
