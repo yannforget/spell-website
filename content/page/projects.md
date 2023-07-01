@@ -1,7 +1,21 @@
 # Current projects  
 
+### LEAPS: integrating multi-disciplinary expertise in a learning and adaptive European pandemic preparedness system (2023-2027)  
+*Funded by EU H2020*
+
+The 2014 Ebola epidemic and ongoing COVID-19 pandemic have exposed a global need for accelerating research and efficiently developing countermeasures (CM) against pathogens with epidemic and pandemic potential. Equitable access to measures is vital for an effective response. The pandemic also highlighted the immense importance of genomics for close pathogen monitoring or surveillance. However, genomic surveillance is slow and challenging to scale-up due to the complexity of building networks able to collect and transport samples, designing novel sequencing protocols, training qualified personnel, building sequencing facilities in low-income settings prone to emerging diseases, and obtaining additional funding from local governments. In similar terms, a Global Genomic Surveillance Strategy for Pathogens with Pandemic and Epidemic Potential has recently been released by WHO. Being at the forefront of COVID-19 genomic surveillance and in collaboration with the Health Emergency Preparedness and Response Authority (HERA), LEAPS aims to demonstrate how genomic surveillance can be optimized within an interconnected system. Therefore, we aim to accelerate diagnostics, vaccine/medicine development and to support decision making for an effective, efficient and quick pandemic response in an EU context. The goal of LEAPS is to demonstrate the value and feasibility of a pro-active policy supporting the strategy for EU-based genomic health surveillance and emergency preparedness/response, by delivering a system-wide stakeholder-validated proof of concept against pathogen X.
+
+<br>
+
+### ULB *Actions Blanches* project: combining spatial epidemiology and climate science to assess the risk of arbovirus circulation in a warmer, wetter, and more populated world  (2023-2025)
+*Funded by the Université Libre de Bruxelles* - Main partners: [Wim Thiery](https://hydr.vub.be/people/wim.thiery), BCLIMATE lab, VUB.
+
+<br>
+
 ### FluCart: risk mapping of avian influenza in Belgium and analysis of the dynamics of exposure of poultry farms (2023-2025)
 *Funded by SPF Santé Publique - FOD Volksgezondheid* - Main partners: Géraldine Boseret and Steven Van Borm from [Sciensano](https://www.sciensano.be/en)
+
+<br>
 
 ### Developing the field of landscape phylogeography to unravel the environmental factors impacting viral epidemics (2022-2024)
 *Funded by FNRS*
