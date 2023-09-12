@@ -13,7 +13,7 @@ title: "Fabiana Gámbaro"
 interests:
   - "Genomic epidemiology"
   - "Phylogeography"
-  - " RNA virus evolution"
+  - "RNA virus evolution"
 
 weight: -1
 ---
