@@ -45,7 +45,6 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 - Nena Bollen, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Yimin Li, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Jonathan Thibaut, PhD student (KU Leuven, co-supervision with Emmanuel André)
-- Garance Despréaux, master thesis student, student assistant
-- Anna Bailly, master thesis student (co-supervision with Jean-Charles Preiser)
-- Adrien de Fraipont, master thesis student
+- Kyla Serres, research scientist
+- Loïc Gonzalez, master thesis student
 

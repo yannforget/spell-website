@@ -6,7 +6,7 @@ abbrv: "B. Vrancken"
 mail: "bram.vrancken@ulb.be"
 past: false
 portrait: /images/portraits/bram.png
-position: "Research Associate (ULB), Post-doc (KU Leuven)"
+position: "Post-doc"
 ref: "bvrancken"
 title: "Bram Vrancken"
 interests:
@@ -14,7 +14,7 @@ interests:
   - "Phylodynamic"
   - "Public health"
 
-weight: 0
+weight: -1
 ---
 
 ## Biographical sketch
