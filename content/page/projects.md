@@ -8,7 +8,7 @@ The 2014 Ebola epidemic and ongoing COVID-19 pandemic have exposed a global need
 <br>
 
 ### ULB *Actions Blanches* project: combining spatial epidemiology and climate science to assess the risk of arbovirus circulation in a warmer, wetter, and more populated world  (2023-2025)
-*Funded by the Université Libre de Bruxelles* - Main partners: [Wim Thiery](https://hydr.vub.be/people/wim.thiery), BCLIMATE lab, VUB.
+*Funded by the Université Libre de Bruxelles* - Main partners: [Wim Thiery](https://hydr.vub.be/people/wim.thiery), BCLIMATE lab, VUB
 
 <br>
 
@@ -18,7 +18,7 @@ The 2014 Ebola epidemic and ongoing COVID-19 pandemic have exposed a global need
 <br>
 
 ### IDEAL: Impact of genomic data on marine mollusc Disease control (2023-2027)
-*Funded by the Agence nationale de la recherche (France)* - project led by [Maude Jacquot](https://annuaire.ifremer.fr/cv/27588/), Ifremer.
+*Funded by the Agence nationale de la recherche (France)* - project led by [Maude Jacquot](https://annuaire.ifremer.fr/cv/27588/), Ifremer
 
 <br>
 
