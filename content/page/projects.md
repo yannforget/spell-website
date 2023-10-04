@@ -17,6 +17,11 @@ The 2014 Ebola epidemic and ongoing COVID-19 pandemic have exposed a global need
 
 <br>
 
+### IDEAL: Impact of genomic data on marine mollusc Disease control (2023-2027)
+*Funded by the Agence nationale de la recherche (France)* - project led by [Maude Jacquot](https://annuaire.ifremer.fr/cv/27588/), Ifremer.
+
+<br>
+
 ### Developing the field of landscape phylogeography to unravel the environmental factors impacting viral epidemics (2022-2024)
 *Funded by FNRS*
 

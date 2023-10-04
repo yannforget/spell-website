@@ -47,4 +47,5 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 - Jonathan Thibaut, PhD student (KU Leuven, co-supervision with Emmanuel André)
 - Kyla Serres, research scientist
 - Loïc Gonzalez, master thesis student
+- Alexandre Massart, master thesis student
 
