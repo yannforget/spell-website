@@ -1,5 +1,12 @@
 # Current projects  
 
+### BE-PIN: The Belgian Pandemic Intelligence Network (2024-2027)  
+*Funded by BELSPO*
+
+BE-PIN sets the scientific and organisational foundations for a multidisciplinary, collaborative intelligence network capable of addressing future pandemic and epidemic risks. We work towards better access to data, more advanced analytical capacities, and tailored tools providing important insights for decision-making and communication at federal and regional levels. We will identify the current gaps in data preparedness, validation and interpretation and provide the epidemic intelligence network with practical and technical guidelines towards a federal data collection protocol. In direct support of policy makers, we will establish an advanced analytical and modelling framework that generates the up-to-date epidemiological information they need for policy development, communication and justification. BE-PIN further contributes to a comprehensive theoretical framework for evidence-based pandemic management in the Belgian context and to the feasibility of quantifying carefully selected impact indicators. Moreover, a retrospective assessment of the economic impact and recommendations based thereon will be made to minimise this impact for future pandemics. Lessons learned from the communication practices for knowledge transfer during the COVID-19 crisis and the analysis of the visibility of (scientific) expertise in government communication, the press and social media, as opposed to misinformation and disinformation, will lead to recommendations for effective knowledge brokering. Finally, the governance of such a network will be investigated, more importantly the organisation of it and the legal operation. Throughout the project, stakeholder engagement, co-creation, international benchmarking and the anticipation of various pathogens and epidemic scenarios will be our main pathways to improved preparedness capacity.
+
+<br>
+
 ### LEAPS: integrating multi-disciplinary expertise in a learning and adaptive European pandemic preparedness system (2023-2027)  
 *Funded by EU H2020*
 
@@ -36,7 +43,7 @@ Genomic analyses have revealed critical insights into the evolution and spread o
 
 <br>
 
-### MOOD: monitoring outbreak events for disease sur-veillance in a data science context (2020-2023)  
+### MOOD: monitoring outbreak events for disease sur-veillance in a data science context (2020-2024)  
 *Funded by EU H2020*
 
 The MOOD project aims to develop innovative tools and services for the early detection, assessment, and monitoring of current and potential infectious diseases threats in Europe in a context of global change including climate change. The MOOD innovations will increase the operational abilities of epidemic intelligence systems to face new disease threats, including emerging diseases of known or unknown origin, and antimicrobial resistance pathogens. The MOOD innovations will address the challenges of cross-sectorial data sharing and valorisation in a One Health framework based on cross-sectorial collaboration for animal, human and environmental health. End-users are the human and veterinary public-health agencies that are responsible for designing and implementing strategies to mitigate the identified risks.
