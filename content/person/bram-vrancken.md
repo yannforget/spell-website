@@ -10,11 +10,11 @@ position: "Post-doc"
 ref: "bvrancken"
 title: "Bram Vrancken"
 interests:
-  - "Molecular epidemiology"
-  - "Phylodynamic"
-  - "Public health"
+  - "molecular epidemiology"
+  - "phylodynamic"
+  - "public health"
 
-weight: -1
+weight: -14
 ---
 
 ## Biographical sketch

@@ -10,11 +10,11 @@ position: "Post-doc"
 ref: "mcdupas"
 title: "Marie-Cécile Dupas"
 interests:
-  - "Network analysis"
-  - "One health"
-  - "Modelling livestock flows"
+  - "network analysis"
+  - "One Health"
+  - "modelling livestock flows"
 
-weight: -2
+weight: -15
 ---
 
 ## Biographical sketch

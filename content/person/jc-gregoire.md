@@ -15,7 +15,7 @@ since: "1940"
 title: "Jean-Claude Grégoire"
 interests: ["ecology", "forest insect","invasion ecology"]
 
-weight: -4
+weight: -18
 ---
 
 ## Biographical sketch

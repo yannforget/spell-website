@@ -10,11 +10,11 @@ position: "Scientific Collaborator"
 ref: "tvanboeckel"
 title: "Thomas Van Boeckel"
 interests:
-  - "Antimicrobial resistance"
-  - "Disease mapping"
-  - "Livestock production systems"
+  - "antimicrobial resistance"
+  - "disease mapping"
+  - "livestock production systems"
 
-weight: -3
+weight: -8
 ---
 
 ## Biographical sketch

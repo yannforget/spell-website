@@ -10,11 +10,11 @@ position: "Visiting Researcher (INRAE)"
 ref: "rforien"
 title: "Raphaël Forien"
 interests:
-  - "Population genetics"
-  - "Evolutionary biology"
-  - "Spatial epidemic modelling"
+  - "population genetics"
+  - "evolutionary biology"
+  - "spatial epidemic modelling"
 
-weight: -3
+weight: -4
 ---
 
 ## Biographical sketch

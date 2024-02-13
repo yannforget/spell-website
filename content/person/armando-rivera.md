@@ -10,11 +10,11 @@ position: "PhD Student"
 ref: "arivera"
 title: "Armando Rivera"
 interests:
-  - "Spatial modelling"
-  - "Livestock mapping"
-  - "Greenhouse gas emission"
+  - "spatial modelling"
+  - "livestock mapping"
+  - "greenhouse gas emission"
 
-weight: -1
+weight: -13
 ---
 ---
 

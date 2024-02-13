@@ -12,12 +12,10 @@ position:  F.R.S.-FNRS Research Associate (ULB) and Visiting Professor (KU Leuve
 ref: "sdellicour"
 title: "Simon Dellicour"
 interests:
-  - "Molecular epidemiology"
-  - "Phylogeography"
-  - "Population and landscape genetics"
-  - "Conservation (genetics)"
+  - "molecular and spatial epidemiology"
+  - "population, landscape, and conservation genetics"
 
-weight: -5
+weight: -19
 ---
 
 ## Biographical sketch
@@ -26,7 +24,7 @@ Simon Dellicour is a bioengineer graduated at the University of Louvain (UCLouva
 
 ## Research interests
 
-Simon has broad interests in molecular epidemiology, animal/plant/virus phylogeography, population, landscape and conservation genetics. His main research projects focus on methodological developments and applications in [landscape phylogeography](http://spell.ulb.be/subject/landscape-phylogeography/). He developed several programs and packages such as [GCALIGNER](http://ebe.ulb.be/ebe/GCAligner.html), [SPADS](http://ebe.ulb.be/ebe/SPADS.html),  [PHYLOGEOSIM](http://ebe.ulb.be/ebe/PhyloGeoSim.html) and [SERAPHIM](https://github.com/sdellicour/seraphim), and was also involved in the development of [KOT](https://eeg-ebe.github.io/KoT/), [NOSOI](https://github.com/slequime/nosoi), [PHYCOVA](https://rega.kuleuven.be/cev/ecv/software/Software), [SPREAD4](https://beast.community/spread4.html), and [Spread.gl](https://github.com/GuyBaele/SpreadGL)
+Simon has broad interests in molecular and spatial epidemiology, as well as population, landscape and conservation genetics. His main research projects focus on methodological developments and applications in [landscape phylogeography](http://spell.ulb.be/subject/landscape-phylogeography/). He developed several programs and packages such as [GCALIGNER](http://ebe.ulb.be/ebe/GCAligner.html), [SPADS](http://ebe.ulb.be/ebe/SPADS.html),  [PHYLOGEOSIM](http://ebe.ulb.be/ebe/PhyloGeoSim.html) and [SERAPHIM](https://github.com/sdellicour/seraphim), and was also involved in the development of [KOT](https://eeg-ebe.github.io/KoT/), [NOSOI](https://github.com/slequime/nosoi), [PHYCOVA](https://rega.kuleuven.be/cev/ecv/software/Software), [SPREAD4](https://beast.community/spread4.html), and [Spread.gl](https://github.com/GuyBaele/SpreadGL)
 
 External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellicour), [Google Scholar](https://scholar.google.be/citations?user=Z4e2EgwAAAAJ&hl=fr)
 
@@ -40,13 +38,13 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 - Diana Erazo, post-doctoral researcher
 - Maria Vincenti, post-doctoral researcher
 - Fabiana Gámbaro, post-doctoral researcher
-- Guillaume Ghisbain, post-doctoral researcher
+- Marie-Cécile Dupas, post-doctoral researcher (ULB, co-supervision with Niel Hens)
 - Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
 - Nena Bollen, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Yimin Li, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Jonathan Thibaut, PhD student (KU Leuven, co-supervision with Emmanuel André)
 - Kyla Serres, research scientist
+- Alexandre Massart, master thesis student (co-supervision)
+- Lucas Degrève, master thesis student (co-supervision)
 - Pauline Borguet, master thesis student
 - Loïc Gonzalez, master thesis student
-- Alexandre Massart, master thesis student
-

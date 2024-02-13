@@ -6,15 +6,15 @@ abbrv: "H. Duault"
 mail: "helene.duault@inrae.fr"
 past: false
 portrait: /images/portraits/hduault.png
-position: "Visiting Researcher"
+position: "Scientific Collaborator"
 ref: "hduault"
 title: "Hélène Duault"
 interests:
-  - "Infectious Diseases"
-  - "Phylodynamics"
-  - "Transmission Modeling"
+  - "infectious diseases"
+  - "phylodynamics"
+  - "transmission modeling"
 
-weight: -3
+weight: -6
 ---
 
 ## Biographical sketch

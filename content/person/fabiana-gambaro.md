@@ -11,11 +11,11 @@ position: "Post-doc"
 ref: "fgambaro"
 title: "Fabiana Gámbaro"
 interests:
-  - "Genomic epidemiology"
-  - "Phylogeography"
+  - "genomic epidemiology"
+  - "phylogeography"
   - "RNA virus evolution"
 
-weight: -1
+weight: -16
 ---
 
 ## Biographical sketch

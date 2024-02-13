@@ -10,12 +10,12 @@ position: "PhD student (co-supervision E. André, KU Leuven)"
 ref: "jthibaut"
 title: "Jonathan Thibaut"
 interests:
-  - "Artificial intelligence"
-  - "Machine learning"
-  - "Contact tracing"
-  - "Phylogenetics"
+  - "artificial intelligence"
+  - "machine learning"
+  - "contact tracing"
+  - "phylogenetics"
 
-weight: 0
+weight: -10
 ---
 
 ## Biographical sketch

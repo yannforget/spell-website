@@ -11,11 +11,11 @@ position: "Post-doc"
 ref: "mvincenti"
 title: "Maria F. Vincenti-González"
 interests:
-  - "Eco-epidemiology"
-  - "Spatial epidemiology"
-  - "Infectious diseases"
+  - "eco-epidemiology"
+  - "spatial epidemiology"
+  - "infectious diseases"
 
-weight: -2
+weight: -16
 ---
 
 ## Biographical sketch

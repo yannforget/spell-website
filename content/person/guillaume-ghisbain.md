@@ -6,20 +6,20 @@ abbrv: "G. Ghisbain"
 mail: "guillaume.ghisbain@ulb.be"
 past: false
 portrait: /images/portraits/gghisbain.png
-position: "F.R.S.-FNRS Scientific Collaborator"
+position: "Scientific Collaborator"
 ref: "gghisbain"
 title: "Guillaume Ghisbain"
 interests:
-  - "Insect taxonomy"
-  - "Insect ecology"
-  - "Insect conservation"
+  - "insect taxonomy"
+  - "insect ecology"
+  - "insect conservation"
 
-weight: -2
+weight: -7
 ---
 
 ## Biographical sketch
 
-Guillaume Ghisbain is a biologist graduated at the University of Mons (UMons, Belgium) in 2018. He did a PhD under the supervision of Denis Michez as a F.R.S.-FNRS “Aspirant” in which he worked on bumblebee conservation. After defending his thesis in October 2021, he worked for six months at the Smithsonian Tropical Research Institute (Panama) under the supervision of W. Owen McMillan to increase his knowledge on evolutionary biology and tropical ecology. He came back to the University of Mons where he worked on several European projects about the taxonomy, ecology and conservation of wild bees. He is joining the Spatial Epidemiology Lab in October 2022 as a F.R.S.-FNRS Scientific Collaborator to investigate the dynamics of invasion of insects at the European scale.
+Guillaume Ghisbain is a biologist graduated at the University of Mons (UMons, Belgium) in 2018. He did a PhD under the supervision of Denis Michez as a F.R.S.-FNRS “Aspirant” in which he worked on bumblebee conservation. After defending his thesis in October 2021, he worked for six months at the Smithsonian Tropical Research Institute (Panama) under the supervision of W. Owen McMillan to increase his knowledge on evolutionary biology and tropical ecology. He came back to the University of Mons where he worked on several European projects about the taxonomy, ecology and conservation of wild bees. He joined the Spatial Epidemiology Lab in October 2022 as a F.R.S.-FNRS Scientific Collaborator to investigate the dynamics of invasion of insects at the European scale. In 2023, he came back to the University of Mons and became a Scientific Collaborator at the SpELL, actively taking part to several ongoing projects at the lab.
 
 ## Research interests
 

@@ -12,12 +12,12 @@ position: "PhD Student (co-supervision G. Baele, KU Leuven)"
 ref: "nbollen"
 title: "Nena Bollen"
 interests:
-  - "Public health"
-  - "Epidemiology"
-  - "Viral phylogeography"
-  - "Visualisation"
+  - "public health"
+  - "epidemiology"
+  - "viral phylogeography"
+  - "visualisation"
 
-weight: 0
+weight: -12
 ---
 
 ## Biographical sketch

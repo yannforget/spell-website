@@ -11,11 +11,11 @@ position: "Research Scientist"
 ref: "kserres"
 title: "Kyla Serres"
 interests:
-  - "Eco-epidemiology"
-  - "Infectious diseases"
-  - "Spatial epidemiology"
+  - "eco-epidemiology"
+  - "infectious diseases"
+  - "spatial epidemiology"
 
-weight: 0
+weight: -9
 ---
 
 ## Biographical sketch

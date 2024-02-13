@@ -10,11 +10,11 @@ position: "PhD Student (co-supervision G. Baele, KU Leuven)"
 ref: "yli"
 title: "Yimin Li"
 interests:
-  - "Phylodynamic"
-  - "Viral phylogeography"
-  - "Visualisation"
+  - "phylodynamic"
+  - "viral phylogeography"
+  - "visualisation"
 
-weight: 0
+weight: -11
 ---
 
 ## Biographical sketch
