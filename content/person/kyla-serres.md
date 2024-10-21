@@ -7,7 +7,7 @@ mail: "kyla.serres@ulb.be"
 past: false
 twitter: KSB1806
 portrait: /images/portraits/kserres.png
-position: "Research Scientist"
+position: "PhD student"
 ref: "kserres"
 title: "Kyla Serres"
 interests:
@@ -15,9 +15,11 @@ interests:
   - "infectious diseases"
   - "spatial epidemiology"
 
-weight: -9
+weight: -12
 ---
 
 ## Biographical sketch
 
-Kyla hold a master’s degree in Eco-epidemiology from the University of Montpellier, with a specialisation in parasitic and infectious disease management and surveillance. Kyla conducted her master thesis project at the SpeLL lab and investigated the role of climate change on the emergence of Chikungunya virus in Europe. This research was conducted as part of the MOOD project which aims to develop innovative tools and services for the early detection, assessment, and monitoring of current and future infectious disease threats across the European continent. Kyla is interested in studying the emergence of infectious diseases by adopting a holistic approach that thoroughly examines the climatic and environmental factors that contribute to their dynamics.
+Kyla holds a master’s degree in eco-epidemiology from the University of Montpellier, specialising in parasitic and infectious disease management and surveillance. For her master’s thesis, she investigated the role of climate change in the emergence of the Chikungunya virus in Europe. This research sparked her interest in arboviruses, leading her to continue her work at the SpELL as a research assistant, focusing on modelling the risk of human exposure to vector-borne diseases in Europe.
+
+Kyla is dedicated to studying the emergence of infectious diseases by adopting a holistic approach that thoroughly examines the climatic and environmental factors contributing to their dynamics. She has now initiated a PhD project at the SpELL to further understand the environmental factors driving the emergence and circulation of the dengue virus in Europe, using spatial and molecular epidemiological techniques that she will learn at the SpELL.

@@ -6,19 +6,17 @@ abbrv: "M. Gilbert"
 mail: "mgilbert@ulb.be"
 past: false
 phone: +32-2-650.37.80
-twitter: mariusgilbert
 portrait: /images/portraits/mgilbert2.png
-position: F.R.S.-FNRS Research Director / Vice-rector of research and valorization
+position: Full Professor, Vice-rector of research and valorization, Vice-rector of Culture and scientific mediation
 office: UB2.171
 ref: "mgilbert"
-since: "1940"
 title: "Marius Gilbert"
-interests: ["spatial epidemiology", "emerging zoonoses", "One Health" ,"vivestock production systems"]
+interests: ["spatial epidemiology", "emerging zoonoses", "One Health" ,"livestock production systems"]
 
-weight: -20
+weight: -19
 ---
 
-Marius Gilbert graduated in Agricultural Sciences at the Université Libre de Bruxelles (ULB) in 1995. He was then a visiting researcher for two years at the department of Zoology, University of Oxford and obtained a PhD on the spatial epidemiology of a forest insect pest at ULB in 2001. In 2006, he was awarded a permanent academic position with the Belgian FNRS. In 2016, he founded the Spatial Epidemiology Lab (SpELL) that he now leads as F.R.S.-FNRS research director. During the COVID pandemic, he joined the Expert Group on the Exit Strategy (GEES) that was assembled by the prime minister Sophie Wilmes to advise the government on the lockdown exit strategy. In september 2020 he joined the team of the rector Annemie Schaus as vice-rector of resarch and valorization. 
+Marius Gilbert graduated in Agricultural Sciences at the University of Brussels (ULB) in 1995. He was then a visiting researcher for two years at the Department of Zoology, University of Oxford and obtained a PhD on the spatial epidemiology of a forest insect pest at ULB in 2001. In 2006, he was awarded a permanent academic position with the Belgian FNRS, and joined the university as professor in 2023. In 2016, he founded the Spatial Epidemiology Lab (SpELL), now led by Simon Dellicour. During the COVID pandemic, he joined the Expert Group on the Exit Strategy (GEES) that was assembled by the prime minister Sophie Wilmes to advise the government on the lockdown exit strategy. In September 2020 he joined the team of the rector Annemie Schaus as vice-rector of Research and Valorization, during her first mandate, and with an additional mandate of Vice-rector of Culture and Scientific mediation in the current one.
 
 ## Research interest
 
@@ -26,4 +24,4 @@ Marius has broad interests in the spatial epidemiology of animal diseases and in
 
 ## Science communication
 
-Marius played an key role in the french-speaking national media during the COVID-19 pandemic, with numerous interventions throughout the pandemic. In September 2020, he published ["Juste un passage au JT (Luc Pire)"](https://www.amazon.fr/Juste-passage-au-Marius-Gilbert/dp/2875422464), which aimed to popularize the science behind the pandemic with the public and to share the experience of a scientist' journey at the nexus of political decision and communication in the media.
+Marius played a key role in the french-speaking national media during the COVID-19 pandemic, with numerous interventions throughout the pandemic. In September 2020, he published "Juste un passage au JT (Luc Pire)", which aimed to popularize the science behind the pandemic with the public and to share the experience of a scientist' journey at the nexus of political decision and communication in the media. He's now a regular columnist at the national journal Le Soir around the theme of science and society, and all these contributions can be found [here](https://www.lesoir.be/358546/dpi-authors/marius-gilbert).

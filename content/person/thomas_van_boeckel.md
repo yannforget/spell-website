@@ -14,12 +14,12 @@ interests:
   - "disease mapping"
   - "livestock production systems"
 
-weight: -8
+weight: -5
 ---
 
 ## Biographical sketch
 
-Thomas Van Boeckel is a spatial epidemiologist based at ETH Zurich in Switzerland. He has previously held positions as Fulbright Scholar at Princeton (Prof. Bryan Grenfell and Prof. Simon Levin), at the University of Oxford (Prof. Simon Hay), and originally obtained his PhD from SPeLL (2013, Prof. Marius Gilbert). He also holds a visiting appointment at the One Health Trust, a global head think tank with headquarters in Bangalore and Washington DC, USA.
+Thomas Van Boeckel is an associate professor at the One Health Institute of the University of Zürich, Switzerland. He has previously held positions at ETH Zürich (Prof. Sebastian Bonhoeffer), as Fulbright Scholar at Princeton (Prof. Bryan Grenfell and Prof. Simon Levin), at the University of Oxford (Prof. Simon Hay), and originally obtained his PhD from SPeLL (2013, Prof. Marius Gilbert).He also holds a visiting appointment at the One Health Trust, a global head think tank with headquarters in Bangalore and Washington DC, USA.
 
 ## Research interests
 

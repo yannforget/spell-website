@@ -15,7 +15,7 @@ interests:
   - "plant health"
   - "field work and logistic"
 
-weight: -5
+weight: -3
 ---
 
 ## Biographical sketch

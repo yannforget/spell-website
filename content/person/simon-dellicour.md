@@ -15,7 +15,7 @@ interests:
   - "molecular and spatial epidemiology"
   - "population, landscape, and conservation genetics"
 
-weight: -19
+weight: -20
 ---
 
 ## Biographical sketch
@@ -35,16 +35,17 @@ External links: [ResearchGate](https://www.researchgate.net/profile/Simon_Dellic
 
 ## Team/supervisions
 
-- Diana Erazo, post-doctoral researcher
-- Maria Vincenti, post-doctoral researcher
-- Fabiana Gámbaro, post-doctoral researcher
+- Diana Erazo, post-doctoral researcher (ULB)
+- Maria Vincenti, post-doctoral researcher (ULB)
+- Fabiana Gámbaro, post-doctoral researcher (ULB)
 - Marie-Cécile Dupas, post-doctoral researcher (ULB, co-supervision with Niel Hens)
-- Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
+- Kyla Serres, PhD student (ULB, co-supervision with Raphaëlle Klitting)
+- Bastien De Tandt, PhD student (ULB, co-supervision with Guillaume Ghisbain)
+- Jonathan Thibaut, PhD student (KU Leuven, co-supervision with Emmanuel André)
 - Nena Bollen, PhD student (KU Leuven, co-supervision with Guy Baele)
 - Yimin Li, PhD student (KU Leuven, co-supervision with Guy Baele)
-- Jonathan Thibaut, PhD student (KU Leuven, co-supervision with Emmanuel André)
-- Kyla Serres, research scientist
-- Alexandre Massart, master thesis student (co-supervision)
-- Lucas Degrève, master thesis student (co-supervision)
-- Pauline Borguet, master thesis student
-- Loïc Gonzalez, master thesis student
+- Yann Spöri, PhD student (ULB, co-supervision with Jean-François Flot)
+- Camille Beaudouin, master thesis student (co-supervision)
+- Kerryan Hermans, master thesis student
+- Marie Stavaux, master thesis student
+- Maureen Raes, master thesis student

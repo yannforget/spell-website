@@ -33,38 +33,49 @@ A second scolytine species of choice, *Ips typographus*, is the most damaging fo
 
 I also studied several other beetle species, not all of them Scolytinae: *Dendroctonus valens* in North America and in China, *D. punctatus* in Canada and Alaska, *Monochamus* spp. (Coleoptera, Cerambycidae), *Thanasimus formicarius* (Coleoptera, Cleridae). Recent activities in the lab, in collaboration with Claude Bragard (UCLouvain), also include the distribution in Belgium and dispersal capacities of Hemipteran vectors, or potential vectors, of the bacterium *Xylella fastidiosa*, and their capacity to transmit the pathogen.
 
-**A second field of interest for me is pest risk assessment**. I am currently involved in risk assessments for the European Food Safety Authority (EFSA). Earlier on, I also worked as an expert for the Belgian National Plant Protection Organization, the European and Mediterranean Plant Protection Organization (EPPO) and for ANSES (FR).
+**A second field of interest for me is pest risk assessment**. I am currently involved in risk assessments for the European Food Safety Authority (EFSA) and for ANSES (FR). Earlier on, I also worked as an expert for the Belgian National Plant Protection Organization, and the European and Mediterranean Plant Protection Organization (EPPO).
 
 
-## Projects
+## Projects and networks
 
-#### **Scolibe: risk analysis of harmful bark and ambrosia beetles in the Belgian context (2022-25)**
+#### **Aerial dispersal of Ips typographus over the English Channel: empirical validation for modelling and risk assessment (2024-26)**
+*Funded by Defra (Department for Environment, Food & Rural Affairs, GB), Future Proofing Plant Health (FPPH)*. Main partners: Daegan Inward, Katy Reed (Forest Research), Alice Holt, Farnham (Great-Britain), Guy Hendrickx (AviaGIS), Mikkel Brydegaard, Meng Li  (University of Lund, Sweden).
+
+The general objective of this project is to confirm that a proportion of the endemic European *Ips typographus* population disperses above the forest canopy, and is then carried upwards above the turbulent surface air layer, and may then be blown semi-passively over long distances. This and additional empirical data on dispersal activity will directly inform and optimise the modelling being conducted in FPPH project TH32324FR15 (Cambridge University). Data supplied will include activity times, ground temperature and trap count data, to enable refinement of swarming thresholds and wind-dispersal models. This will provide insight into the likelihood that new finds can be attributed to wind blow from continental Europe versus local spread from the demarcated area. A secondary, more specific objective is to test an entomological lidar as a monitoring tool for *Ips typographus* flying from the continent into Britain.
+
+#### **Scolibe: risk analysis of harmful bark and ambrosia beetles in the Belgian context (2022-26)**
 *Funded by the Federal Public Service Health, Food Chain Safety and Environment*. Main partners: Jochem Bonte at ILVO; Louis Hautier, Gilles San Martin and Alex Kuhn at CRA-W.
 
 Some of the major forest pests in the world are bark and ambrosia beetles (Curculionidae: Scolytinae and Platypodinae). Many of them are expanding their territorial range and threatening new areas, including Belgium. The project addresses these threats, with several components: 1) Identification of species posing the highest risk for Belgium; 2) status of selected species in Belgium; 3) monitoring for prevention and early detection; 4) know-how, networking and toolbox for (rapid) identification; 5) guidelines for control measures.
+
+#### **Research within the framework of the Walloon Observatory of Forest Health (Annual funding, ongoing)**
+*Funded by the Walloon Region*. Main partners: Quentin Leroy at OWSF; Louis Hautier, Gilles San Martin, Alex Kuhn and Anne Chandelierat CRA-W.
+
+Scientific support to the activities of the Observatoire wallon de la *Santé des Forêts* (OWSF).
+
+
+## Past projects (>2020)  
+
+#### **Euphresco project ECLIPSE (Range Expansion of bark beetles in the genus Ips) (2021-24)**
+Main partners: H.F. Evans, D. Inward, N. Fielding (Forest Research – UK); C. Ryan (DAFM - IE); J. Gohli, B. Økland (NBIO – NO); A. Kunca, C. Nikolov, J. Vakula (NLCSK – SK); C. Griffin (MU – IE); , D. Cocos, M. Schroeder, M. Klapwijk (SLU – SE); A. Murchie, F. Spaans (AFBINI – UK); M. Destefanis, C. Ryan (Department of Agriculture, Food and the Marine, IE), A. Smith (DAERA – UK).
 
 #### **Ribsurx: design of a statistically sound and risk-based survey plan for the detection of Xylella fastidiosa in Belgium (2022-23)**
 *Funded by Federal Public Service Health, Food Chain Safety and Environment*. Main partner: Claude Bragard at Earth and Life Institute, UCLouvain; Jolien Venneman at ILVO.
 
 This project follows and completes previous research in Belgium, with the objective of providing practical tools to risk managers. It will define and map different types of vegetation coverages where X. fastidiosa could establish, rank them according to establishment likeliness and potential impact if contaminated, and propose adapted sampling procedures for both detection and containment.
 
-#### **Research within the framework of the Walloon Observatory of Forest Health (Annual funding, ongoing)**
-*Funded by the Walloon Region*. Main partners: Quentin Leroy at OWSF; Louis Hautier, Gilles San Martin, Alex Kuhn and Anne Chandelierat CRA-W.
-
-Scientific support to the activities of the Observatoire wallon de la Santé des Forêts (OWSF).
-
-#### **Agritrap: developing a monitoring capacity for native and exotic *Agrilus* spp. in Belgium (2021-23, completed)**
+#### **Agritrap: developing a monitoring capacity for native and exotic *Agrilus* spp. in Belgium (2021-23)**
 *Funded by the Federal Public Service Health, Food Chain Safety and Environment*. Main partners: Jochem Bonte at ILVO; Louis Hautier, Gilles San Martin and Alex Kuhn at CRA-W; Tim Belien at PCFruit.
 
 The project aims to consolidate the European studies conducted so far, and, with collaboration from European and North American researchers within the more global Euphresco project [Developing and assessing surveillance methodologies for *Agrilus* beetles](https://zenodo.org/record/4672531#.Y15McIKZMqs), Its aim is to devise a generic trapping technique for *Agrilus* spp. (Coleoptera, Buprestidae). The project is also expected to contribute to the development of monitoring tools for specific American and European *Agrilus* species.
 
-### Developing the Fan-trap
+## Developing the Fan-trap
 
 Monitoring is an important component of pest management, to prevent or mitigate outbreaks of native pests, and to check for quarantine organisms. Surveys often rely on trapping, especially when the target species respond to semiochemicals. Many traps are available for this purpose, but they are bulky in most cases, which raises transportation and deployment issues, and they are expensive, which limits the size and accuracy of any network. To overpass these difficulties, en-tomologists have used recycled material, such as modified plastic bottles, producing cheap and reliable traps but at the cost of recurrent handywork, not necessarily possible for all end-users (e.g., for national plant protection organizations). These bottle-traps have allowed very large sur-veys which would have been impossible with standard commercial traps, and we illustrate this approach with a few examples. Here we present, under a Creative Commons BY-SA License, the blueprint of a fan-trap, a foldable model, laser-cut from a sheet of polypropylene, that can rapidly be pro-duced in large numbers, and could be transported and deployed in the field with very little ef-forts. Our first field comparisons show that fan-traps are as efficient as bottle-traps, and we de-scribe two cases where they are being used for monitoring.
 
 The Fan-trap documentation can be downloaded [here](https://spell.ulb.be/fan-trap_description.zip).
 
-### Past projects and networks (2010-2020)  
+## Past projects (2010-2020)  
 
 * 2019-2020 – [MONODIS](/page/projects) (Influence of the distribution, extent and fragmentation of pine stands in Europe on the distribution and abundance of *Monochamus* spp., the vectors of *Bursaphelenchus xylophilus* – a contribution to pest risk assessment). With CRAW, Gembloux, and URZF, INRA, Orléans, France. *Funded by the Federal Public Service Health, Food Chain Safety and Environment*
 * [2018-2019 – Recherche dans le cadre du réseau d'observatoire de la santé des forêts](http://owsf.environnement.wallonie.be/fr/index.html?IDC=5636) *Funded by the Walloon Region*

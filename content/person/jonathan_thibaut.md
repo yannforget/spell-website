@@ -15,7 +15,7 @@ interests:
   - "contact tracing"
   - "phylogenetics"
 
-weight: -10
+weight: -7
 ---
 
 ## Biographical sketch
