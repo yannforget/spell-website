@@ -1,7 +1,7 @@
 ---
 date: 2024-10-20T19:36:23+02:00
 firstname: "Darlan"
-lastname: "Da Silva Candido"
+lastname: "Candido"
 abbrv: "D. S. Candido"
 mail: "d.da-silva-candido@imperial.ac.uk"
 past: false
