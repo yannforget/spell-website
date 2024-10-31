@@ -7,6 +7,13 @@ While outbreaks of highly pathogenic avian influenza viruses (HPAIV) in Europe u
 
 <br>
 
+### ARC project: understanding the dispersal dynamic and driving factors of the main SARS-CoV-2 variants having spread in Belgium (2024-2028)
+*Funded by the Université Libre de Bruxelles*
+
+The evolution of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus responsible for the coronavirus disease 2019 (COVID-19) pandemic, has been characterised by the emergence of viral variants associated with distinct biological characteristics. While the main research focus has centred on their immune escape, virulence, and growth rate, far less attention has been placed on the relative ability of successive variants to establish local transmission chains and to spread across geographic areas. However, evaluating these characteristics is essential for a comprehensive understanding of their epidemiology. In this context, the overall goal of the present research project is to estimate, compare, and understand the introduction and dispersal dynamics of main SARS-CoV-2 “variants of concern” (VOCs) at a national scale and in specific contexts of human mobility. To this end, we will take advantage of a comprehensive dataset made of hundreds of thousands of geo-referenced viral genomes currently assembled from data obtained during three years of genomic surveillance carried out in Belgium. Specifically, we aim to implement an analytical pipeline that integrates phylogenetic and phylogeographic approaches in order (i) to identify the distinct introduction events and compare the invasion dynamics of each VOC, (ii) to perform spatially explicit reconstructions and compare the dispersal history and dynamic of each VOC, and (iii) to evaluate and understand the drivers of VOCs dispersal at the national scale (such as human population density, mobility, and connectivity). With these in-depth investigations of the ability of emerging variants to invade a densely populated and connected country like Belgium, we eventually aim to get overlooked insights into their epidemiology, and to contribute to the retrospective assessment of the pandemic for a better preparedness to upcoming similar public health crisis episodes.
+
+<br>
+
 ### ImmuReach: immunisation in DRC — reaching missed communities (2024-2027)
 *Funded by Innoviris*
 
