@@ -1,6 +1,6 @@
 ---
 author: "Simon Dellicour"
-date: 2024-10-30
+date: 2024-10-31
 title: "We are hiring! A PhD student position is open at the SpELL to work on the avian flu VIVACE project"
 ---
 
