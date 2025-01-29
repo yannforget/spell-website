@@ -5,7 +5,7 @@ lastname: "Vrancken"
 abbrv: "B. Vrancken"
 mail: "bram.vrancken@ulb.be"
 past: false
-portrait: /images/portraits/bram.png
+portrait: /images/portraits/bvrancken.png
 position: "Post-doc"
 ref: "bvrancken"
 title: "Bram Vrancken"

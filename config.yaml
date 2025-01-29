@@ -23,15 +23,15 @@ menu:
       Weight: 3
       Identifier: "topics"
       URL: "/"
-    - Name: "Livestock diseases and mapping"
-      Weight: 14
-      Identifier: "livestock-disease-mapping"
-      URL: "/subject/livestock-disease-mapping/"
-      parent: "topics"
-    - Name: "Modelling geographical invasions"
+    - Name: "Diseases risk mapping"
       Weight: 12
-      Identifier: "modelling-geographical-invasions"
-      URL: "/subject/modelling-geographical-invasions/"
+      Identifier: "diseases-risk-mapping"
+      URL: "/subject/diseases-risk-mapping/"
+      parent: "topics"
+    - Name: "Modelling biological invasions"
+      Weight: 11
+      Identifier: "modelling-biological-invasions"
+      URL: "/subject/modelling-biological-invasions/"
       parent: "topics"
     - Name: "Landscape phylogeography"
       Weight: 10
@@ -54,7 +54,7 @@ menu:
 
 params:
   brand: SpELL
-  description: "**Spatial epidemiology** studies the effect of spatial factors on the **emergence, spread, persistence and evolution** of **[diseases](/subject/livestock-disease-mapping/)** and **[invasive species](/subject/modelling-geographical-invasions/)**. The understanding of key spatial factors, such as environmental or anthropogenic  variables, and their integration into spatial models is used to **predict the geographical distribution of risk**, which can contribute to better targetted **prevention, surveillance and control measures**. We also work toward the improvement of methods in **spatial modelling** and **[landscape phylogeography](/subject/landscape-phylogeography)**, and of large-scale data sets on  **[farm animals](/subject/livestock-disease-mapping/)**."  
+  description: "At the **Spatial Epidemiology Lab** (SpELL), we study the effect of spatial factors on the **emergence, spread, persistence and evolution** of **diseases** and **invasive species**. The understanding of key spatial factors, such as climatic, ecological or anthropogenic variables, and their integration into spatial and/or molecular approaches is used to **predict the geographical distribution of risk** and **the environmental factors impacting the dispersal history and dynamic of pathogen spreads**, which can contribute to better targetted **prevention, surveillance and control measures**. We also work toward the development, improvement and application of methods in **[spatial modelling of biological invasions](https://spell.ulb.be/subject/modelling-biological-invasions/)**, **[ecological niche modelling for risk mapping](https://spell.ulb.be/subject/disease-risk-mapping/)**, and **[landscape phylogeography](/subject/landscape-phylogeography)**. The SpELL is also involved in the assembly of large-scale data sets on **[farm animals](/subject/disease-risk-mapping/)** and in studies dedicated to the **[conservation of insect pollinators](https://spell.ulb.be/news/nature_bombus/)**."
 
 imaging:
   resampleFilter: "box"

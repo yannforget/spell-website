@@ -5,7 +5,7 @@ lastname: "Rivera"
 abbrv: "A. Rivera"
 mail: "armando.d.rivera@outlook.com"
 past: false
-portrait: /images/portraits/armando.png
+portrait: /images/portraits/arivera.png
 position: "PhD Student"
 ref: "arivera"
 title: "Armando Rivera"
@@ -14,7 +14,7 @@ interests:
   - "livestock mapping"
   - "greenhouse gas emission"
 
-weight: -13
+weight: -14
 ---
 ---
 

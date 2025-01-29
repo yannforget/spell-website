@@ -5,7 +5,7 @@ lastname: "De Tandt"
 abbrv: "B. De Tandt"
 mail: "bastien.de.tandt@ulb.be"
 past: false
-portrait: /images/portraits/bastien.png
+portrait: /images/portraits/bdetandt.png
 position: "PhD Student"
 ref: "bdetandt"
 title: "Bastien De Tandt"
@@ -14,7 +14,7 @@ interests:
   - "ecology"
   - "wild bees"
 
-weight: -11
+weight: -13
 ---
 ---
 

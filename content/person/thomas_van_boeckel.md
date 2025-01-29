@@ -14,7 +14,7 @@ interests:
   - "disease mapping"
   - "livestock production systems"
 
-weight: -5
+weight: -4
 ---
 
 ## Biographical sketch

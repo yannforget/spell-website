@@ -5,7 +5,6 @@ lastname: "Marsboom"
 abbrv: "C. Marsboom"
 mail: "cmarsboom@avia-gis.com"
 past: false
-twitter: cedric_marsboom
 portrait: /images/portraits/cmarsboom.png
 position: "PhD student"
 ref: "cmarsboom"

@@ -5,7 +5,6 @@ lastname: "Gámbaro"
 abbrv: "F. Gámbaro"
 mail: "fabiana.gambaro@ulb.be"
 past: false
-twitter: GambaroFabi
 portrait: /images/portraits/fgambaro.png
 position: "Post-doc"
 ref: "fgambaro"
@@ -15,7 +14,7 @@ interests:
   - "phylogeography"
   - "RNA virus evolution"
 
-weight: -16
+weight: -17
 ---
 
 ## Biographical sketch

@@ -14,7 +14,7 @@ interests:
   - "viral phylogeography"
   - "visualisation"
 
-weight: -8
+weight: -7
 ---
 
 ## Biographical sketch

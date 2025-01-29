@@ -5,8 +5,6 @@ lastname: "Grégoire"
 abbrv: "J.-C. Grégoire"
 mail: "jcgregoi@ulb.be"
 past: false
-phone: +32-2-650.31.70
-twitter: 
 portrait: /images/portraits/jcgregoi.png
 position: Honorary Professor
 office: UC2.312 (Solbosh)

@@ -1,9 +1,9 @@
 ---
 date: 2016-07-20T15:19:30+02:00
-title: Modelling geographical invasions
+title: Modelling biological invasions
 summary: "Invading organisms spreading though a heterogeneous landscape are difficult to study using conventional statistical models. We aim to develop new methodology to study those type of data, to review existing methods, and to compare all methods in their capacity to detect the influence of landscape heterogeneity on the pattern of spread."
 image: /images/h5ni-micro.jpg
-ref: modelling-invasions
+ref: modelling-biological-invasions
 ---
 
 ### Background

@@ -1,12 +1,12 @@
 ---
 date: 2016-12-01T15:18:47+02:00
-title: Livestock diseases and mapping
+title: Diseases risk mapping
 summary: "Our research mainly deal with the spatial epidemiology of avian influenza (AI) at different spatial scales, with particular emphasis on on the role of agro-ecological factors on the emergence, spread and persistence of AI viruses. Over the years, we have also been involved in research on other important livestock diseases such as bluetongue, bovine tuberculosis, foot and mouth disease, porcine reproductive and respiratory syndrome, and Nipah virus infections. In addition, we also have research projects to better map the distribution of livestock production at a global scale."
 image: /images/Poyang-wild-1200by500.jpg
-ref: livestock-disease-mapping
+ref: diseases-risk-mapping
 ---
 
-## Studying livestock diseases
+### Studying livestock diseases
 
 The largest body of our research has dealt with avian influenza ("bird flu") H5N1 and H7N9 in Asia. We have also been studying the spatial epidemiology of several other livestock diseases at both local and continental scales to better understand their spatial distribution and to identify their main spatial drivers.
 

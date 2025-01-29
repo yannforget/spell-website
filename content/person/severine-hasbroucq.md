@@ -6,7 +6,7 @@ abbrv: "S. Hasbroucq"
 mail: "Severine.Hasbroucq@ulb.be"
 past: false
 portrait: /images/portraits/shasbroucq.png
-position:  Lab. Technician
+position:  Lab. technician
 ref: "shasbroucq"
 title: "Séverine Hasbroucq"
 office: 2.O.3.214
@@ -15,7 +15,7 @@ interests:
   - "plant health"
   - "field work and logistic"
 
-weight: -3
+weight: -1
 ---
 
 ## Biographical sketch

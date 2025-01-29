@@ -5,7 +5,6 @@ lastname: "Serres"
 abbrv: "K. Serres"
 mail: "kyla.serres@ulb.be"
 past: false
-twitter: KSB1806
 portrait: /images/portraits/kserres.png
 position: "PhD student"
 ref: "kserres"

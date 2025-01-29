@@ -41,5 +41,5 @@ A Google map centered on our building can be found [here](https://www.google.be/
 
 ### Reaching us by bike
 
-* There is a [Villo](http://en.villo.be) station at the entrance of the campus (Station no 116 ULB PLAINE)
+* There is a [Villo](http://en.villo.be) station at the entrance of the campus
 

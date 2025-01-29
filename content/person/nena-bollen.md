@@ -6,8 +6,7 @@ abbrv: "N. Bollen"
 mail: "nena.bollen@kuleuven.be"
 past: false
 phone: "+32 16 37 43 17"
-twitter: NXBollen
-portrait: /images/portraits/nena.png
+portrait: /images/portraits/nbollen.png
 position: "PhD Student (co-supervision G. Baele, KU Leuven)"
 ref: "nbollen"
 title: "Nena Bollen"
@@ -17,7 +16,7 @@ interests:
   - "viral phylogeography"
   - "visualisation"
 
-weight: -9
+weight: -8
 ---
 
 ## Biographical sketch

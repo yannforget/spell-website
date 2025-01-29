@@ -14,7 +14,7 @@ interests:
   - "phylodynamics"
   - "polio and arboviruses"
 
-weight: -5
+weight: -4
 ---
 
 ## Biographical sketch
@@ -26,6 +26,4 @@ Darlan hold a Bachelor’s in Pharmacy from the Federal University of Ceará and
 ## Research interests
 
 Darlan is broadly interested in the application of genomic epidemiology approaches to uncover spatiotemporal dynamics and drivers of RNA virus spread during outbreaks. More specifically, he is interested in bridging the gap between genomic epidemiology approaches and public health impact, moving from descriptive analysis to understanding and informing interventions.
-
-The list of publications below **only** list the publications of Darlan involving a collaboration with SpELL researchers. For his full list of publications, please visit this [page](https://scholar.google.com/citations?user=l6yEbXIAAAAJ&hl=en).
 

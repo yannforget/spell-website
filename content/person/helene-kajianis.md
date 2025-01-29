@@ -3,17 +3,16 @@ date: 2024-08-19T19:36:23+02:00
 firstname: "Hélène"
 lastname: "Kajianis"
 abbrv: "H. Kajianis"
-mail: "helene.kajianis@ulb.be@ulb.be"
+mail: "helene.kajianis@ulb.be"
 past: false
-portrait: /images/portraits/helene.png
-position: "Admin/HR/finance support"
+portrait: /images/portraits/hkajianis.png
+position: "Admin/HR/finance supports"
 ref: "hkajianis"
 title: "Hélène Kajianis"
 interests:
   - "admin, finance, and HR supports"
 
 weight: -3
----
 ---
 
 ## Biographical sketch
