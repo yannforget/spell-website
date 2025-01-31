@@ -37,6 +37,7 @@ External links: [Google Scholar](https://scholar.google.be/citations?user=Z4e2Eg
 - Fabiana Gámbaro, post-doctoral researcher (ULB)
 - Claire Lescoat, post-doctoral researcher (ULB)
 - Marie-Cécile Dupas, post-doctoral researcher (ULB, co-supervision with Niel Hens)
+- Camille Pelletier, post-doctoral researcher (Ifremer, co-supervision with Maude Jacquot)
 - Kyla Serres, PhD student (ULB, co-supervision with Raphaëlle Klitting)
 - Bastien De Tandt, PhD student (ULB, co-supervision with Guillaume Ghisbain)
 - Cedric Marsboom, PhD student (ULB, Avia-GIS)
