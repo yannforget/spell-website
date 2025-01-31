@@ -6,7 +6,7 @@ abbrv: "C. Pelletier"
 mail: "Camille.Pelletier@ifremer.fr"
 past: false
 portrait: /images/portraits/cpelletier.png
-position: "Post-doc (co-supervision M. Jacquot ,Ifremer)"
+position: "Post-doc (co-supervision M. Jacquot, Ifremer)"
 ref: "cpelletier"
 title: "Camille Pelletier"
 interests:

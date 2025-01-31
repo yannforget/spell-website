@@ -19,8 +19,8 @@
 * tvanboeckel
  
 ### Theme tags
-* livestock-disease-mapping
-* modelling-invasions
+* diseases-risk-mapping
+* modelling-biological-invasions
 * landscape-phylogeography
 
 ### Project tags
