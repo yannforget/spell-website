@@ -16,7 +16,9 @@
                 <button type="button" class="btn" onclick='displayPub("journalArticle")'>Journal articles</button>
                 <!-- <button type="button" class="btn" onclick='displayPub("conferencePaper")'>Conference papers</button> -->
                 <button type="button" class="btn" onclick='displayPub("bookSection")'>Book chapters</button>
+<!-- 
                 <button type="button" class="btn" onclick='displayPub("thesis")'>Theses</button>
+ -->
 
             </div>
 
@@ -128,7 +130,8 @@
             </div>
 
             <!-- Theses -->
-            <div class="row thesis">
+ <!-- 
+           <div class="row thesis">
 
                 <h2>PhD and MSc theses</h2>
 
@@ -156,6 +159,7 @@
             {{ end }}
         
             </div>
+ -->
 
         </div>
     </div>
@@ -167,7 +171,7 @@
     /* Show/Hide references types */
 
     function displayPub (main_pub_type) {
-        var all_pub_types = ["journalArticle", "thesis", "bookSection"];
+        var all_pub_types = ["journalArticle", "bookSection"];
         for (i = 0; i < all_pub_types.length; i++) {
             var pub_type = all_pub_types[i];
             if (pub_type == main_pub_type) {
